@@ -1,0 +1,560 @@
+{
+  "name": "Zucchini",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in United Kingdom - cool/temperate regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in Australia - cool/mountain regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in Australia - temperate regions)",
+            "September: Frost tender",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in Australia - sub-tropical regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in Australia - tropical regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in New Zealand - temperate regions)",
+            "September: Frost tender",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in New Zealand - cool/mountain regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in New Zealand - sub-tropical regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in United Kingdom - cool/temperate regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Zucchini",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Zucchini in United Kingdom - warm/temperate regions)",
+            "Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.\nProduces large leaves with a spread of about 1.5 m x 1.5 m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.\nIf there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Blackjack is the most popular green variety.\nAt the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.\nA spray with a 5 gm/teaspoon Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Zucchini are best picked or cut off the stem at about 15 cm / 6 inches.\r\nPick frequently to keep the plant producing new flowers."
+        ]
+      }
+    }
+  ]
+}

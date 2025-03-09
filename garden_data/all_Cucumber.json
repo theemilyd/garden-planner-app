@@ -1,0 +1,556 @@
+{
+  "name": "Cucumber",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in United Kingdom - cool/temperate regions)",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in Australia - cool/mountain regions)",
+            "October: After risk of frost",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in Australia - temperate regions)",
+            "September: Bring on in pots",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in Australia - sub-tropical regions)",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in Australia - tropical regions)",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in New Zealand - temperate regions)",
+            "September: Bring on in pots",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in New Zealand - cool/mountain regions)",
+            "October: After risk of frost",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in New Zealand - sub-tropical regions)",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in United Kingdom - cool/temperate regions)",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Cucumber",
+        "alternative_names": [],
+        "scientific_name": "cucumis sativis",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cucumber in United Kingdom - warm/temperate regions)",
+            "A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.\nLebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.\nGherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.\nApple cucumbers are round with a pale, almost white, smooth skin.",
+            "Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.\nWater regularly and fertilise to encourage growth.",
+            "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick frequently before the fruit become too big.\r\nUse raw in salads, peeled if preferred. Bash them with a rolling pin before slicing and marinade with a rice vinegar/fish sauce/sugar mix and they will absorb the flavours of the dressing."
+        ]
+      }
+    }
+  ]
+}

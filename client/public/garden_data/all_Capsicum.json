@@ -1,0 +1,529 @@
+{
+  "name": "Capsicum",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in United Kingdom - cool/temperate regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in Australia - cool/mountain regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in Australia - temperate regions)",
+            "August: Sow in pots",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in Australia - sub-tropical regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in Australia - tropical regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in New Zealand - temperate regions)",
+            "August: Sow in pots",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - cool/mountain regions",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in New Zealand - sub-tropical regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in United Kingdom - cool/temperate regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Capsicum",
+        "alternative_names": [],
+        "scientific_name": "Capsicum annuum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Capsicum in United Kingdom - warm/temperate regions)",
+            "Small bushy plant about 40cm high.\nThe seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.",
+            "They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.",
+            "Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.",
+            "There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen.",
+            "In cool, wet weather cover with a cloche or frost fleece.",
+            "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be sliced and seeded and used raw in salads.\r\nWill freeze successfully without blanching if seeded and sliced.\n\r\nBrush with olive oil, roast at a high temperature until the skin changes colour then put in a covered dish until cool and rub off the skin and remove seeds."
+        ]
+      }
+    }
+  ]
+}

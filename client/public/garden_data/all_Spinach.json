@@ -1,0 +1,550 @@
+{
+  "name": "Spinach",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in United Kingdom - cool/temperate regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "T",
+            "P"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in Australia - cool/mountain regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "T",
+            "P"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in Australia - temperate regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in Australia - sub-tropical regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - tropical regions",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in New Zealand - temperate regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in New Zealand - cool/mountain regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - sub-tropical regions",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in United Kingdom - cool/temperate regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Spinach",
+        "alternative_names": [],
+        "scientific_name": "Spinacia oleracea",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Spinach in United Kingdom - warm/temperate regions)",
+            "Green leaf crop.\nSpinach grows best in cooler weather and quickly runs to seed in warm weather. \nCan be sown in Fall/Autumn and overwintered if protected by mulch.\nNot recommended to grow in warm areas.\nAlternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.",
+            "Will not grow well in acid soil.",
+            "Succession sowing will provide a supply through the winter months.",
+            "Use young leaves in salad.\r\nSteam and add to other vegetables.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use young leaves in salad.\r\nSteam and add to other vegetables."
+        ]
+      }
+    }
+  ]
+}

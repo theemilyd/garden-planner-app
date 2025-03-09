@@ -1,0 +1,552 @@
+{
+  "name": "Cape Gooseberry",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in United Kingdom - cool/temperate regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in Australia - cool/mountain regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in Australia - temperate regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in Australia - sub-tropical regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in Australia - tropical regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in New Zealand - temperate regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in New Zealand - cool/mountain regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in New Zealand - sub-tropical regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in United Kingdom - cool/temperate regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Cape Gooseberry",
+        "alternative_names": [],
+        "scientific_name": "Physalis peruviana",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cape Gooseberry in United Kingdom - warm/temperate regions)",
+            "A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. \nThe cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.",
+            "Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5 m of space. Spacing closer works but you may get less fruit.",
+            "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The berry is the size of a cherry tomato, is very aromatic and full of tiny seeds. They are delicious eaten fresh or can be made into jam.  They can be added to salads, desserts and cooked dishes, they are delicious stewed with other fruit, especially apples. They also go well in savoury dishes with meat or seafood.  Can be preserved dried as 'Inca Berries'"
+        ]
+      }
+    }
+  ]
+}

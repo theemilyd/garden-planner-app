@@ -1,0 +1,614 @@
+{
+  "name": "Oregano",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in United Kingdom - cool/temperate regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in Australia - cool/mountain regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in Australia - temperate regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in Australia - sub-tropical regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in Australia - tropical regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in New Zealand - temperate regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in New Zealand - cool/mountain regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in New Zealand - sub-tropical regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in United Kingdom - cool/temperate regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Oregano",
+        "alternative_names": [],
+        "scientific_name": "Oreganum spp",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "the morning just after the dew has lifted",
+          "additional_notes": [
+            "(Best months for growing Oregano in United Kingdom - warm/temperate regions)",
+            "Perennial growing to around 45 cm (17\") high. Cut the stems back to the ground to encourage new growth.",
+            "There are two main varieties.",
+            "\"Greek Oregano\" is the type normally associated with Oregano flavor.",
+            "\"Common Oregano\" or Marjoram has a less pungent, sweeter taste and is more commonly grown.",
+            "For best flavour harvest in the morning just after the dew has lifted.",
+            "Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",
+            "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Used to flavour tomato dishes, soups, sauces and Greek dishes like moussaka."
+        ]
+      }
+    }
+  ]
+}

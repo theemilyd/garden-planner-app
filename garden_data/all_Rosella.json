@@ -1,0 +1,469 @@
+{
+  "name": "Rosella",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - cool/mountain regions",
+            "November: Must be under glass or in mini greenhouse to start",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - temperate regions",
+            "October: Miust be started under cover- in mini-greenhouse",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rosella in Australia - sub-tropical regions)",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rosella in Australia - tropical regions)",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - temperate regions",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - cool/mountain regions",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rosella in New Zealand - sub-tropical regions)",
+            "September: Must be protected from cold nights",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Rosella",
+        "alternative_names": [],
+        "scientific_name": "Hibiscus Subdantta",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - warm/temperate regions",
+            "This frost tender annual grows to a height of 2 metres.\nIt is grown for its red fruit which make delicious jam or jelly.",
+            "Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.\nCan be started under glass in cooler areas.\nWater well and give a dressing of fertiliser when flowering starts.",
+            "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The large flowers produce a crimson enlarged calyx. \r\nUse the fleshy red calyx, without the green seed pod to make jam or jelly."
+        ]
+      }
+    }
+  ]
+}

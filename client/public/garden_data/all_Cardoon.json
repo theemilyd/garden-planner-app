@@ -1,0 +1,446 @@
+{
+  "name": "Cardoon",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cardoon in United Kingdom - cool/temperate regions)",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - cool/mountain regions",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - temperate regions",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - sub-tropical regions",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - tropical regions",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cardoon in New Zealand - temperate regions)",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cardoon in New Zealand - cool/mountain regions)",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cardoon in New Zealand - sub-tropical regions)",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cardoon in United Kingdom - cool/temperate regions)",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Cardoon",
+        "alternative_names": [],
+        "scientific_name": "Cynara cardunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cardoon in United Kingdom - warm/temperate regions)",
+            "Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.",
+            "Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.\nHarvest four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",
+            "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut off the base and leaves, then cut the stalks into pieces.\r\nBoil the stalks for around 20 minutes until tender: drain, and peel off the surface of the stalks.  Add precooked cardoons to a variety of dishes, they go well with mushrooms."
+        ]
+      }
+    }
+  ]
+}

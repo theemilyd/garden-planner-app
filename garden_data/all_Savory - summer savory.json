@@ -1,0 +1,495 @@
+{
+  "name": "Savory - summer savory",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in United Kingdom - cool/temperate regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in Australia - cool/mountain regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in Australia - temperate regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in Australia - sub-tropical regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in Australia - tropical regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in New Zealand - temperate regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in New Zealand - cool/mountain regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in New Zealand - sub-tropical regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in United Kingdom - cool/temperate regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Savory - summer savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja hortensis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - summer savory in United Kingdom - warm/temperate regions)",
+            "Likes a well-drained soil in full sun.\nA small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy.",
+            "About 30 cm (12 in) high.",
+            "Useful to attract bees and butterflies.",
+            "This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.\nPlant in succession to extend useful life.",
+            "Usually added to peas, beans or lentils. It has a slightly spicy flavour.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Usually added to peas, beans or lentils. It has a slightly spicy flavour."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "Celery": {
+    "United Kingdom - cool/temperate": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 12\u00b0C and 21\u00b0C.",
+      "spacing": "Space plants:  15 - 30  cm apart",
+      "harvest": "Harvest in 17-18 weeks.",
+      "companion": "Compatible with (can grow beside): Not applicable as celery needs to be close together to encourage blanching.",
+      "avoid": "Avoid growing close to: Sweetcorn",
+      "plant_name": "Celery",
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_code": 26,
+      "url": "https://www.gardenate.com/plant/Celery?zone=26"
+    },
+    "USA - Zone 6b": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 12\u00b0C and 21\u00b0C.",
+      "spacing": "Space plants:  15 - 30  cm apart",
+      "harvest": "Harvest in 17-18 weeks.",
+      "companion": "Compatible with (can grow beside): Not applicable as celery needs to be close together to encourage blanching.",
+      "avoid": "Avoid growing close to: Sweetcorn",
+      "plant_name": "Celery",
+      "zone_name": "USA - Zone 6b",
+      "zone_code": 110,
+      "url": "https://www.gardenate.com/plant/Celery?zone=110"
+    },
+    "Australia - temperate": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 12\u00b0C and 21\u00b0C.",
+      "spacing": "Space plants:  15 - 30  cm apart",
+      "harvest": "Harvest in 17-18 weeks.",
+      "companion": "Compatible with (can grow beside): Not applicable as celery needs to be close together to encourage blanching.",
+      "avoid": "Avoid growing close to: Sweetcorn",
+      "plant_name": "Celery",
+      "zone_name": "Australia - temperate",
+      "zone_code": 4,
+      "url": "https://www.gardenate.com/plant/Celery?zone=4"
+    }
+  },
+  "Tomato": {
+    "United Kingdom - cool/temperate": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 16\u00b0C and 35\u00b0C.",
+      "spacing": "Space plants:  40 - 60  cm apart",
+      "harvest": "Harvest in 8-17 weeks.",
+      "companion": "Compatible with (can grow beside): Asparagus, Chervil,Carrot, Celery, Chives, Parsley, Marigold, Basil",
+      "avoid": "Avoid growing close to: Rosemary, Potatoes, Fennel, Cucumber",
+      "plant_name": "Tomato",
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_code": 26,
+      "url": "https://www.gardenate.com/plant/Tomato?zone=26"
+    },
+    "USA - Zone 6b": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 16\u00b0C and 35\u00b0C.",
+      "spacing": "Space plants:  40 - 60  cm apart",
+      "harvest": "Harvest in 8-17 weeks.",
+      "companion": "Compatible with (can grow beside): Asparagus, Chervil,Carrot, Celery, Chives, Parsley, Marigold, Basil",
+      "avoid": "Avoid growing close to: Rosemary, Potatoes, Fennel, Cucumber",
+      "plant_name": "Tomato",
+      "zone_name": "USA - Zone 6b",
+      "zone_code": 110,
+      "url": "https://www.gardenate.com/plant/Tomato?zone=110"
+    },
+    "Australia - temperate": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 16\u00b0C and 35\u00b0C.",
+      "spacing": "Space plants:  40 - 60  cm apart",
+      "harvest": "Harvest in 8-17 weeks.",
+      "companion": "Compatible with (can grow beside): Asparagus, Chervil,Carrot, Celery, Chives, Parsley, Marigold, Basil",
+      "avoid": "Avoid growing close to: Rosemary, Potatoes, Fennel, Cucumber",
+      "plant_name": "Tomato",
+      "zone_name": "Australia - temperate",
+      "zone_code": 4,
+      "url": "https://www.gardenate.com/plant/Tomato?zone=4"
+    }
+  },
+  "Carrot": {
+    "United Kingdom - cool/temperate": {
+      "sowing": "Easy to grow.  Sow in garden. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 8\u00b0C and 30\u00b0C.",
+      "spacing": "Space plants:  5 - 30  cm apart",
+      "harvest": "Harvest in 12-18 weeks.",
+      "companion": "Compatible with (can grow beside): Onions, Leeks, Lettuce, Sage, Peas, Radishes, Tomatoes, Beans, Celery, Rosemary",
+      "avoid": "Avoid growing close to: Parsnips, Beetroot, Dill, Brassicas, Fennel",
+      "plant_name": "Carrot",
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_code": 26,
+      "url": "https://www.gardenate.com/plant/Carrot?zone=26"
+    },
+    "USA - Zone 6b": {
+      "sowing": "Easy to grow.  Sow in garden. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 8\u00b0C and 30\u00b0C.",
+      "spacing": "Space plants:  5 - 30  cm apart",
+      "harvest": "Harvest in 12-18 weeks.",
+      "companion": "Compatible with (can grow beside): Onions, Leeks, Lettuce, Sage, Peas, Radishes, Tomatoes, Beans, Celery, Rosemary",
+      "avoid": "Avoid growing close to: Parsnips, Beetroot, Dill, Brassicas, Fennel",
+      "plant_name": "Carrot",
+      "zone_name": "USA - Zone 6b",
+      "zone_code": 110,
+      "url": "https://www.gardenate.com/plant/Carrot?zone=110"
+    },
+    "Australia - temperate": {
+      "sowing": "Easy to grow.  Sow in garden. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 8\u00b0C and 30\u00b0C.",
+      "spacing": "Space plants:  5 - 30  cm apart",
+      "harvest": "Harvest in 12-18 weeks.",
+      "companion": "Compatible with (can grow beside): Onions, Leeks, Lettuce, Sage, Peas, Radishes, Tomatoes, Beans, Celery, Rosemary",
+      "avoid": "Avoid growing close to: Parsnips, Beetroot, Dill, Brassicas, Fennel",
+      "plant_name": "Carrot",
+      "zone_name": "Australia - temperate",
+      "zone_code": 4,
+      "url": "https://www.gardenate.com/plant/Carrot?zone=4"
+    }
+  },
+  "Lettuce": {
+    "United Kingdom - cool/temperate": {
+      "sowing": "Easy to grow.  Sow in garden, or start in seed trays and plant out in 4-6 weeks.. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 8\u00b0C and 27\u00b0C.",
+      "spacing": "Space plants:  20 - 30  cm apart",
+      "harvest": "Harvest in 8-12 weeks.",
+      "companion": "Compatible with (can grow beside): Carrots, Onions, Strawberries, Beets, Brassicas, Radish, Marigold, Borage, Chervil, Florence fennel, leeks.",
+      "avoid": "Avoid growing close to: Parsley, Celery",
+      "plant_name": "Lettuce",
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_code": 26,
+      "url": "https://www.gardenate.com/plant/Lettuce?zone=26"
+    },
+    "USA - Zone 6b": {
+      "sowing": "Easy to grow.  Sow in garden, or start in seed trays and plant out in 4-6 weeks.. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 8\u00b0C and 27\u00b0C.",
+      "spacing": "Space plants:  20 - 30  cm apart",
+      "harvest": "Harvest in 8-12 weeks.",
+      "companion": "Compatible with (can grow beside): Carrots, Onions, Strawberries, Beets, Brassicas, Radish, Marigold, Borage, Chervil, Florence fennel, leeks.",
+      "avoid": "Avoid growing close to: Parsley, Celery",
+      "plant_name": "Lettuce",
+      "zone_name": "USA - Zone 6b",
+      "zone_code": 110,
+      "url": "https://www.gardenate.com/plant/Lettuce?zone=110"
+    },
+    "Australia - temperate": {
+      "sowing": "Easy to grow.  Sow in garden, or start in seed trays and plant out in 4-6 weeks.. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 8\u00b0C and 27\u00b0C.",
+      "spacing": "Space plants:  20 - 30  cm apart",
+      "harvest": "Harvest in 8-12 weeks.",
+      "companion": "Compatible with (can grow beside): Carrots, Onions, Strawberries, Beets, Brassicas, Radish, Marigold, Borage, Chervil, Florence fennel, leeks.",
+      "avoid": "Avoid growing close to: Parsley, Celery",
+      "plant_name": "Lettuce",
+      "zone_name": "Australia - temperate",
+      "zone_code": 4,
+      "url": "https://www.gardenate.com/plant/Lettuce?zone=4"
+    }
+  },
+  "Basil": {
+    "United Kingdom - cool/temperate": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 18\u00b0C and 35\u00b0C.",
+      "spacing": "Space plants:  20 - 25  cm apart",
+      "harvest": "Harvest in 10-12 weeks. Pick before flowering.",
+      "companion": "Compatible with (can grow beside): Tomato",
+      "avoid": "",
+      "plant_name": "Basil",
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_code": 26,
+      "url": "https://www.gardenate.com/plant/Basil?zone=26"
+    },
+    "USA - Zone 6b": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 18\u00b0C and 35\u00b0C.",
+      "spacing": "Space plants:  20 - 25  cm apart",
+      "harvest": "Harvest in 10-12 weeks. Pick before flowering.",
+      "companion": "Compatible with (can grow beside): Tomato",
+      "avoid": "",
+      "plant_name": "Basil",
+      "zone_name": "USA - Zone 6b",
+      "zone_code": 110,
+      "url": "https://www.gardenate.com/plant/Basil?zone=110"
+    },
+    "Australia - temperate": {
+      "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 18\u00b0C and 35\u00b0C.",
+      "spacing": "Space plants:  20 - 25  cm apart",
+      "harvest": "Harvest in 10-12 weeks. Pick before flowering.",
+      "companion": "Compatible with (can grow beside): Tomato",
+      "avoid": "",
+      "plant_name": "Basil",
+      "zone_name": "Australia - temperate",
+      "zone_code": 4,
+      "url": "https://www.gardenate.com/plant/Basil?zone=4"
+    }
+  }
+}

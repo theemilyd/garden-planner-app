@@ -1,0 +1,607 @@
+{
+  "name": "Radish",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in United Kingdom - cool/temperate regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in Australia - cool/mountain regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in Australia - temperate regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in Australia - sub-tropical regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in Australia - tropical regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in New Zealand - temperate regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in New Zealand - cool/mountain regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in New Zealand - sub-tropical regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in United Kingdom - cool/temperate regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Radish",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativas",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Radish in United Kingdom - warm/temperate regions)",
+            "Small, spicy tasting root vegetable usually round but some longer varieties.\nAvailable in a range of colours between red and white.",
+            "Very easy to grow. \nGood for a child's first garden as seedlings appear in two or three days. \nSow between other vegetables as they will mark the rows until the slower germinating plants appear.",
+            "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well and remove leaves and roots.\r\nUse raw in salads or on their own with bread and butter."
+        ]
+      }
+    }
+  ]
+}

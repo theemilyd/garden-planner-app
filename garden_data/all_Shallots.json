@@ -1,0 +1,542 @@
+{
+  "name": "Shallots",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in United Kingdom - cool/temperate regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in Australia - cool/mountain regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in Australia - temperate regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in Australia - sub-tropical regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in Australia - tropical regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in New Zealand - temperate regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in New Zealand - cool/mountain regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in New Zealand - sub-tropical regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in United Kingdom - cool/temperate regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Shallots",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa, aggregatum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Shallots in United Kingdom - warm/temperate regions)",
+            "Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.",
+            "A type of small mild multiplying onion, popular in French cooking.",
+            "Tree onions or 'walking onions' produce bulbs at the top of the stem.",
+            "Shallots are not spring onions and are quite different to the green bunching 'Eschallots' (Allium fistulosum) which, just to confuse us, are also sometimes called 'shallots' in Eastern Australia.",
+            "They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",
+            "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in any recipe instead of onions.\r\nCan be cooked whole, braised gently with other vegetables.\r\nSometimes pickled."
+        ]
+      }
+    }
+  ]
+}

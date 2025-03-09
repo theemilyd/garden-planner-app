@@ -1,0 +1,503 @@
+{
+  "name": "Strawberries (from seeds)",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in United Kingdom - cool/temperate regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in Australia - cool/mountain regions)",
+            "September: Start under cover",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in Australia - temperate regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in Australia - sub-tropical regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in Australia - tropical regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in New Zealand - temperate regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in New Zealand - cool/mountain regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in New Zealand - sub-tropical regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in United Kingdom - cool/temperate regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Strawberries (from seeds)",
+        "alternative_names": [],
+        "scientific_name": "Fragaria",
+        "family": "Rosaceae / the rose family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Strawberries (from seeds) in United Kingdom - warm/temperate regions)",
+            "Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour.",
+            "Chill the seeds, in a closed jar or plastic box, 2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.",
+            "Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.\nKeep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.\nAfter about a year the strawberries will form low-growing leafy plants,between 12 - 15 cm (about 6 inches) high and will spread to about 50 - 100 cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.",
+            "Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. \nStrawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.\nTo protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",
+            "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strawberries can be used in any dessert needing soft fruit or berries. Summer pudding with raspberries and blackberries or boysenberries, mousse, trifle, dipped in melted chocolate or just with cream.\r\nSprinkle a bowl of strawberries with balsamic vinegar and a little sugar to enhance the flavour and colour.\r\nStraight from the garden, warmed by the sun is best."
+        ]
+      }
+    }
+  ]
+}

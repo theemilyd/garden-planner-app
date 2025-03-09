@@ -1,0 +1,489 @@
+{
+  "name": "Sweet Marjoram",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in United Kingdom - cool/temperate regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in Australia - cool/mountain regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "T",
+            "P"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in Australia - temperate regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in Australia - sub-tropical regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in Australia - tropical regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in New Zealand - temperate regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in New Zealand - cool/mountain regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in New Zealand - sub-tropical regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in United Kingdom - cool/temperate regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Sweet Marjoram",
+        "alternative_names": [],
+        "scientific_name": "Origanum majorana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Marjoram in United Kingdom - warm/temperate regions)",
+            "Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.\nThe name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots.",
+            "Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15 cm to 20 cm tall.",
+            "It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22 C during the day and 15 C at night.",
+            "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Sweet Marjoram has a mild oregano flavor with a hint of balsam.\r\nSweet Marjoram can be used as a substitute for oregano in sauces for mediterranean style pizza, lasagna, and eggplant parmigiana."
+        ]
+      }
+    }
+  ]
+}

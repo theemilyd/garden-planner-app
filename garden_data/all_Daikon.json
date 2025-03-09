@@ -1,0 +1,480 @@
+{
+  "name": "Daikon",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in Australia - cool/mountain regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in Australia - temperate regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in Australia - sub-tropical regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in Australia - tropical regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in New Zealand - temperate regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in New Zealand - cool/mountain regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in New Zealand - sub-tropical regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Daikon",
+        "alternative_names": [],
+        "scientific_name": "Raphanus sativus var. longipinnatus",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Daikon in United Kingdom - warm/temperate regions)",
+            "A long white radish, milder flavour than the small round or oval radishes.\nMost varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.\nGrow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.",
+            "Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.",
+            "A range of varieties of Daikon is available, some will do better in warm areas.",
+            "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Daikon radish can be eaten simmered, stir fried, grated, pickled or baked. Its leaves are also edible and can be used in recipes that call for turnip greens, and its seeds make  sprouts to eat in salads or in sandwiches."
+        ]
+      }
+    }
+  ]
+}

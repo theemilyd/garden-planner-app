@@ -1,0 +1,471 @@
+{
+  "name": "Rhubarb",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in United Kingdom - cool/temperate regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in Australia - cool/mountain regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in Australia - temperate regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in Australia - sub-tropical regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - tropical regions",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in New Zealand - temperate regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in New Zealand - cool/mountain regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in New Zealand - sub-tropical regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in United Kingdom - cool/temperate regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Rhubarb",
+        "alternative_names": [],
+        "scientific_name": "Rheum rhabarbarum",
+        "family": "Polygonaceae / the dock family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rhubarb in United Kingdom - warm/temperate regions)",
+            "Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.\nPlant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.\nBetter in cooler climates, but can be grown in shady areas of warm climates.\nYou can lift and divide rhubarb to make more plants. It is best to do this when the plant is dormant (or at least less actively growing) in winter or late autumn.\nIt is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.\nIf you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.\nAlthough rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.",
+            "NB: Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.",
+            "Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.",
+            "Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",
+            "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Pick stems about the thickness of your finger. Large stems will have tough 'strings' down the length of them.\r\nUse in pies, crumbles, fools and jams. Rhubarb goes well with orange.\r\nWill usually need sweetener."
+        ]
+      }
+    }
+  ]
+}

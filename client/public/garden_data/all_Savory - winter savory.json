@@ -1,0 +1,504 @@
+{
+  "name": "Savory - winter savory",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in United Kingdom - cool/temperate regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in Australia - cool/mountain regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in Australia - temperate regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in Australia - sub-tropical regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in Australia - tropical regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in New Zealand - temperate regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in New Zealand - cool/mountain regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in New Zealand - sub-tropical regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in United Kingdom - cool/temperate regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Savory - winter savory",
+        "alternative_names": [],
+        "scientific_name": "Satureja montana",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Savory - winter savory in United Kingdom - warm/temperate regions)",
+            "Grow this perennial herb in light, well drained soil in full sun.",
+            "Winter savory is a small shrub with small, dark, green leaves.",
+            "Will make a decorative low hedge if trimmed.",
+            "Winter savory propagates better from cuttings than seeds.",
+            "It will survive all but the hardest winters if it is mulched well before frosts.",
+            "Can be used as seasoning for beans and other green vegetables.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as seasoning for beans and other green vegetables."
+        ]
+      }
+    }
+  ]
+}

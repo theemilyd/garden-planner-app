@@ -1,0 +1,556 @@
+{
+  "name": "NZ Spinach",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in United Kingdom - cool/temperate regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in Australia - cool/mountain regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in Australia - temperate regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in Australia - sub-tropical regions)",
+            "August: Bring on in boxes",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in Australia - tropical regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in New Zealand - temperate regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in New Zealand - cool/mountain regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in New Zealand - sub-tropical regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in United Kingdom - cool/temperate regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "NZ Spinach",
+        "alternative_names": [],
+        "scientific_name": "Tetragonia expansa",
+        "family": "Aizoaceae / the fig-marigold family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing NZ Spinach in United Kingdom - warm/temperate regions)",
+            "NZ spinach has green, triangulated leaves and a spreading habit.",
+            "This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.",
+            "It can withstand hot, dry summer weather when real spinach tends to die off.\nWill self-sow and become widespread.",
+            "Soak seeds for one or two hours before sowing as the outer skin is hard.",
+            "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used as a substitute for real spinach in cooking. Pick the growing tips at about 8 - 10 cm (4 - 6 in).\n\r\nTo remove oxalates it's a good idea to blanch the leaves for 3 minutes or so, then rinse the leaves in cold water before using them in salads or for cooking. (ABC TV)"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "name": "Broad Beans",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in United Kingdom - cool/temperate regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in Australia - cool/mountain regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in Australia - temperate regions)",
+            "May: Will need supports if windy weather",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in Australia - sub-tropical regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - tropical regions",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in New Zealand - temperate regions)",
+            "May: Will need supports if windy weather",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in New Zealand - cool/mountain regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in New Zealand - sub-tropical regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in United Kingdom - cool/temperate regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Broad Beans",
+        "alternative_names": [],
+        "scientific_name": "Vicia faba",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broad Beans in United Kingdom - warm/temperate regions)",
+            "It is a rigid, erect plant 0.5 - 1.7 m tall, with stout stems with a square cross-section. \nThe leaves are 10 - 25 cm long, pinnate with 2 - 7 leaflets, and of a distinct glaucous grey-green color.\nHarvest 90 - 160 days depending on how cold the weather is.",
+            "In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.\nPick the tops out once beans start setting to prevent blackfly.",
+            "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The fresh beans are eaten steamed or boiled. As the beans mature it is better to remove their tough outer skins after cooking.\r\nThe leafy top shoots of the adult plants can be picked and steamed after flowering. \r\nSmall beans can be eaten whole in the pods.\r\nBroad beans will freeze well. Remove from pods and blanch."
+        ]
+      }
+    }
+  ]
+}

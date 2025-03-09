@@ -1,0 +1,64 @@
+{
+    "plant_name": "Carrot",
+    "climate_zone": "Australia - temperate",
+    "alternate_names": [
+        "Daucus carota"
+    ],
+    "planting_calendar": {
+        "Jan": "P",
+        "Feb": "P",
+        "Mar": "P",
+        "Apr": "P",
+        "May": "P",
+        "Jun": "P",
+        "Jul": "P",
+        "Aug": "P",
+        "Sep": "P",
+        "Oct": "P",
+        "Nov": "P",
+        "Dec": "P"
+    },
+    "planting_methods": {
+        "S": "Plant undercover in seed trays",
+        "T": "Plant out (transplant) seedlings",
+        "P": "Sow seed"
+    },
+    "growing_info": {
+        "soil_temp": "Best planted at soil temperatures between 8°C and 30°C.",
+        "spacing": "- Space plants: 5 - 30 cm apart",
+        "harvest_time": "- Harvest in 12-18 weeks."
+    },
+    "companion_planting": {
+        "compatible_with": [
+            "-  Onions",
+            "Leeks",
+            "Lettuce",
+            "Sage",
+            "Peas",
+            "Radishes",
+            "Tomatoes",
+            "Beans",
+            "Celery",
+            "Rosemary"
+        ],
+        "avoid_growing_close_to": [
+            "-  Parsnips",
+            "Beetroot",
+            "Dill",
+            "Brassicas",
+            "Fennel"
+        ]
+    },
+    "growing_notes": [
+        "A hardy root vegetable which grows well in deep cool soil.",
+        "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+        "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+        "Over fertilised ground will produce split roots. Protect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years."
+    ],
+    "culinary_hints": [
+        "- cooking and eating Carrot",
+        "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze.",
+        "They can be added to most casserole-type dishes.",
+        "Grate raw carrots and add to salads"
+    ]
+}

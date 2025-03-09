@@ -1,0 +1,523 @@
+{
+  "name": "Tomatillo",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in United Kingdom - cool/temperate regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in Australia - cool/mountain regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in Australia - temperate regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in Australia - sub-tropical regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in Australia - tropical regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in New Zealand - temperate regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in New Zealand - cool/mountain regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in New Zealand - sub-tropical regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in United Kingdom - cool/temperate regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Tomatillo",
+        "alternative_names": [],
+        "scientific_name": "Physalis ixocarpa",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomatillo in United Kingdom - warm/temperate regions)",
+            "NB: Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.\nTomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit.",
+            "Tomatillo plants are similar in growth to tomatoes and spread about 1 - 1.5 m. Can be supported but are happy spreading themselves around.\nThe plants are very productive so 2 or 3 plants may be enough for the average household.",
+            "Tomatillos will cope with cooler weather than tomatoes. \nThe fruit will swell to fill the husk as they ripen. \nDo not use fertiliser.",
+            "When buying seed, check that it is Ph.ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",
+            "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in spicy sauces with or to replace tomatoes.\r\nThey are the base of salsa verde in Mexican cookery."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "name": "Endive",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in United Kingdom - cool/temperate regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in Australia - cool/mountain regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in Australia - temperate regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in Australia - sub-tropical regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in Australia - tropical regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in New Zealand - temperate regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in New Zealand - cool/mountain regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in New Zealand - sub-tropical regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in United Kingdom - cool/temperate regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Endive",
+        "alternative_names": [],
+        "scientific_name": "Cichorium endivia",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Endive in United Kingdom - warm/temperate regions)",
+            "This is a green leafy plant which looks a bit like a crinkly lettuce.\nSlightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.\nBlanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.\nRelative of chicory.",
+            "Best grown in cooler months as hot weather might make it bolt to flower.\nKeep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",
+            "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Very tasty topped with grated swiss cheese and grilled for a couple of minutes to crisp up the cheese and wilt the leaves. \n\r\nCan use in salads additional to lettuce, but needs a flavoursome dressing if you aren't overly fond of bitterness."
+        ]
+      }
+    }
+  ]
+}

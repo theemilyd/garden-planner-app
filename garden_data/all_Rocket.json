@@ -1,0 +1,561 @@
+{
+  "name": "Rocket",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in United Kingdom - cool/temperate regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in Australia - cool/mountain regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in Australia - temperate regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in Australia - sub-tropical regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in Australia - tropical regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in New Zealand - temperate regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in New Zealand - cool/mountain regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in New Zealand - sub-tropical regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in United Kingdom - cool/temperate regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Rocket",
+        "alternative_names": [],
+        "scientific_name": "Eruca vesicaria",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rocket in United Kingdom - warm/temperate regions)",
+            "Plant every 2 to 3 weeks for a continuous supply.\nLeafy green plant with lobed, dark green leaves.\nIt has a slightly spicy, nutty flavour. The spiciness intensifies as the plant gets older.",
+            "Frost tender.",
+            "Keep well watered in well drained ground.\nWill go to flower rapidly in hot dry weather.",
+            "Use in salads and stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in salads and stir-fry."
+        ]
+      }
+    }
+  ]
+}

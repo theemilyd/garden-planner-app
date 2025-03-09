@@ -1,0 +1,656 @@
+{
+  "name": "Silverbeet",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in United Kingdom - cool/temperate regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in Australia - cool/mountain regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in Australia - temperate regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T"
+          ],
+          "jul": [
+            "S",
+            "T"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in Australia - sub-tropical regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in Australia - tropical regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "S",
+            "T"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in New Zealand - temperate regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in New Zealand - cool/mountain regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "S",
+            "T"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "S",
+            "T"
+          ],
+          "jul": [
+            "S",
+            "T"
+          ],
+          "aug": [
+            "S",
+            "T"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in New Zealand - sub-tropical regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in United Kingdom - cool/temperate regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Silverbeet",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris var. cicla",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Silverbeet in United Kingdom - warm/temperate regions)",
+            "Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.",
+            "Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.\nThe multi-coloured ones look good in a flower border.",
+            "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash thoroughly and inspect the back of the leaves for insects. \r\nChop and put in a saucepan with very little water (or just what is on the leaves). \r\nCover and cook over a low to medium heat until the leaves collapse. \r\nA small amount of nutmeg enhances the flavour."
+        ]
+      }
+    }
+  ]
+}

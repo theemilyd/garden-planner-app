@@ -1,0 +1,554 @@
+{
+  "name": "Broccoli",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in United Kingdom - cool/temperate regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in Australia - cool/mountain regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in Australia - temperate regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in Australia - sub-tropical regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in Australia - tropical regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in New Zealand - temperate regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in New Zealand - cool/mountain regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in New Zealand - sub-tropical regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in United Kingdom - cool/temperate regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Broccoli",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Broccoli in United Kingdom - warm/temperate regions)",
+            "Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.",
+            "Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.",
+            "There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.",
+            "Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.",
+            "'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",
+            "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stem (peeled), leaves, and flowerhead are all edible. \n\r\nSteam for best flavour. Peel large stalks, slice and steam.\r\nGoes well with blue cheese sauce."
+        ]
+      }
+    }
+  ]
+}

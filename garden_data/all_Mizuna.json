@@ -1,0 +1,513 @@
+{
+  "name": "Mizuna",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in United Kingdom - cool/temperate regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in Australia - cool/mountain regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in Australia - temperate regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in Australia - sub-tropical regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in Australia - tropical regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in New Zealand - temperate regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in New Zealand - cool/mountain regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in New Zealand - sub-tropical regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli.",
+            "Be the first to post a question or tip from   New Zealand"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in United Kingdom - cool/temperate regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Mizuna",
+        "alternative_names": [],
+        "scientific_name": "Brassica rapa var japonica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Mizuna in United Kingdom - warm/temperate regions)",
+            "Mizuna and Mibuna are both grown for their leaves.\nFast growing plants which have a mild mustardy flavour when young.",
+            "Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",
+            "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Leaves used raw, stir-fried, in soups. Young flowering stems can be cooked like broccoli."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "name": "Lettuce",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in United Kingdom - cool/temperate regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in Australia - cool/mountain regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in Australia - temperate regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in Australia - sub-tropical regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in Australia - tropical regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in New Zealand - temperate regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in New Zealand - cool/mountain regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in New Zealand - sub-tropical regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in United Kingdom - cool/temperate regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "lactuca sativa",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lettuce in United Kingdom - warm/temperate regions)",
+            "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+            "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+            "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+            "Sow in rows and use thinnings as small salad greens.",
+            "Ideal crop for succession planting.",
+            "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+            "Wash well, spin or shake dry and use in salads and sandwiches",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Wash well, spin or shake dry and use in salads and sandwiches"
+        ]
+      }
+    }
+  ]
+}

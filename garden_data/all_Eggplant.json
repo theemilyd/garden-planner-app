@@ -1,0 +1,537 @@
+{
+  "name": "Eggplant",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in United Kingdom - cool/temperate regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "P"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in Australia - cool/mountain regions)",
+            "September: Bring on in pots - need a long growing season",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in Australia - temperate regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in Australia - sub-tropical regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in Australia - tropical regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in New Zealand - temperate regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in New Zealand - cool/mountain regions)",
+            "September: Bring on in pots - need a long growing season",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in New Zealand - sub-tropical regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in United Kingdom - cool/temperate regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Eggplant",
+        "alternative_names": [],
+        "scientific_name": "Solanum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Eggplant in United Kingdom - warm/temperate regions)",
+            "A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.",
+            "Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.",
+            "In cold climates grow in heated greenhouse and reduce artificial heat during summer.",
+            "Perennial in tropical climates otherwise grown as an annual.",
+            "Needs a long season. \nStart under cover and plant out when frosts have finished.\nSome varieties with slim, long fruit such as Asian Bride produce their fruit earlier.\nMulch well and keep well watered.\nMay need staking.",
+            "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut and use the same day if possible.\r\nSlice, no need to peel, and fry in olive oil. \r\nBrush with oil and grill or bake.\r\nOr microwave, plain, for about 4 minutes on high.\r\nMakes a good substitute for pasta in lasagne or moussaka.\r\nCan be smoked over a gas ring or barbecue, cooled and peeled and used to make dips."
+        ]
+      }
+    }
+  ]
+}

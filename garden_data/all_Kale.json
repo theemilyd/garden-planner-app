@@ -1,0 +1,545 @@
+{
+  "name": "Kale",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in United Kingdom - cool/temperate regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in Australia - cool/mountain regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in Australia - temperate regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in Australia - sub-tropical regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in Australia - tropical regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in New Zealand - temperate regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in New Zealand - cool/mountain regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in New Zealand - sub-tropical regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in United Kingdom - cool/temperate regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Kale",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kale in United Kingdom - warm/temperate regions)",
+            "Green leafy plant. Kale is a good addition or substitute for cabbage varieties.\nCavalo Nero can be grown in slightly smaller spacing.",
+            "Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.\nRotate with other crops to avoid clubroot infection.",
+            "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Strong flavoured and nutritious vegetable.\r\nWash well and chop finely then steam.\r\nA tomato or cheese sauce will mask the flavour if too strong."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3004 @@
+[
+  {
+    "name": "Amaranth",
+    "zones": [
+      {
+        "zone_name": "Australia - arid",
+        "zone_number": 0,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "Australia - arid",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in United Kingdom - cool/temperate regions)",
+              "March: Plant in greenhouse",
+              "May: Plant out when frosts finish",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - cool/mountain",
+        "zone_number": 1,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "Australia - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "T"
+            ],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in Australia - cool/mountain regions)",
+              "September: Sow after frost",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - sub-tropical",
+        "zone_number": 2,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "Australia - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T",
+              "P"
+            ],
+            "feb": [
+              "S",
+              "T",
+              "P"
+            ],
+            "mar": [
+              "T"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S",
+              "P"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in Australia - temperate regions)",
+              "September: sow after risk of frost has gone",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - temperate",
+        "zone_number": 3,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "Australia - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T",
+              "P"
+            ],
+            "feb": [
+              "S",
+              "T",
+              "P"
+            ],
+            "mar": [
+              "S",
+              "T",
+              "P"
+            ],
+            "apr": [
+              "T"
+            ],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S",
+              "T",
+              "P"
+            ],
+            "sep": [
+              "S",
+              "T",
+              "P"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in Australia - sub-tropical regions)",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - tropical",
+        "zone_number": 4,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "Australia - tropical",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [
+              "S",
+              "T",
+              "P"
+            ],
+            "may": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jun": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jul": [
+              "S",
+              "T",
+              "P"
+            ],
+            "aug": [
+              "T",
+              "P"
+            ],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in Australia - tropical regions)",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - cool/mountain",
+        "zone_number": 5,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "New Zealand - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in New Zealand - temperate regions)",
+              "September: sow after risk of frost has gone",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - sub-tropical",
+        "zone_number": 6,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "New Zealand - sub-tropical",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in New Zealand - cool/mountain regions)",
+              "September: Sow after frost",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - temperate",
+        "zone_number": 7,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "New Zealand - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in New Zealand - sub-tropical regions)",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - cool/temperate",
+        "zone_number": 8,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "United Kingdom - cool/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in United Kingdom - cool/temperate regions)",
+              "March: Plant in greenhouse",
+              "May: Plant out when frosts finish",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - warm/temperate",
+        "zone_number": 9,
+        "data": {
+          "plant_name": "Amaranth",
+          "alternative_names": [],
+          "scientific_name": "Amaranthus caudatus",
+          "family": "Amaranthaceae / the amaranth family",
+          "climate_zone": "United Kingdom - warm/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Amaranth in United Kingdom - warm/temperate regions)",
+              "Amaranth species are frequently grown as flower plants and have many colour variations.",
+              "Amaranth tricolor is known as Chinese spinach and has an insignificant flower.",
+              "Needs a warm sunny position. \nAvoid heavy soils. \nPoor germination rates are common.",
+              "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Both leaves and seeds can be used. Excessive intake is not recommended. \r\nSuggestions for use and warnings can be found here http://en. wikipedia.org/wiki/Amaranth"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Basil",
+    "zones": [
+      {
+        "zone_name": "Australia - arid",
+        "zone_number": 0,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "Australia - arid",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [],
+            "may": [
+              "T"
+            ],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in United Kingdom - cool/temperate regions)",
+              "February: Sow in greenhouse or indoors",
+              "May: Plant out after frosts finish",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - cool/mountain",
+        "zone_number": 1,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "Australia - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T"
+            ],
+            "feb": [
+              "T"
+            ],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S",
+              "T"
+            ],
+            "dec": [
+              "S",
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in Australia - cool/mountain regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - sub-tropical",
+        "zone_number": 2,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "Australia - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T"
+            ],
+            "feb": [
+              "S",
+              "T"
+            ],
+            "mar": [
+              "T"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S",
+              "T"
+            ],
+            "nov": [
+              "S",
+              "T"
+            ],
+            "dec": [
+              "S",
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in Australia - temperate regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - temperate",
+        "zone_number": 3,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "Australia - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T"
+            ],
+            "feb": [
+              "S",
+              "T"
+            ],
+            "mar": [
+              "T"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S",
+              "T"
+            ],
+            "oct": [
+              "S",
+              "T"
+            ],
+            "nov": [
+              "S",
+              "T"
+            ],
+            "dec": [
+              "S",
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in Australia - sub-tropical regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - tropical",
+        "zone_number": 4,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "Australia - tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T"
+            ],
+            "feb": [
+              "S",
+              "T"
+            ],
+            "mar": [
+              "S",
+              "T"
+            ],
+            "apr": [
+              "S",
+              "T"
+            ],
+            "may": [
+              "S",
+              "T"
+            ],
+            "jun": [
+              "S",
+              "T"
+            ],
+            "jul": [
+              "S",
+              "T"
+            ],
+            "aug": [
+              "S",
+              "T"
+            ],
+            "sep": [
+              "S",
+              "T"
+            ],
+            "oct": [
+              "S",
+              "T"
+            ],
+            "nov": [
+              "S",
+              "T"
+            ],
+            "dec": [
+              "S",
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in Australia - tropical regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - cool/mountain",
+        "zone_number": 5,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "New Zealand - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "P"
+            ],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S",
+              "T"
+            ],
+            "nov": [
+              "T"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in New Zealand - temperate regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - sub-tropical",
+        "zone_number": 6,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "New Zealand - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "T"
+            ],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "T"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in New Zealand - cool/mountain regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - temperate",
+        "zone_number": 7,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "New Zealand - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "P"
+            ],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "T"
+            ],
+            "nov": [
+              "T"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in New Zealand - sub-tropical regions)",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - cool/temperate",
+        "zone_number": 8,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "United Kingdom - cool/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [],
+            "may": [
+              "T"
+            ],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in United Kingdom - cool/temperate regions)",
+              "February: Sow in greenhouse or indoors",
+              "May: Plant out after frosts finish",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - warm/temperate",
+        "zone_number": 9,
+        "data": {
+          "plant_name": "Basil",
+          "alternative_names": [],
+          "scientific_name": "Ocimum basilicum",
+          "family": "Lamiaceae / the mint family",
+          "climate_zone": "United Kingdom - warm/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [
+              "S"
+            ],
+            "mar": [],
+            "apr": [],
+            "may": [
+              "T"
+            ],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Basil in United Kingdom - warm/temperate regions)",
+              "February: Sow in greenhouse or indoors",
+              "May: Plant out after frosts finish",
+              "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+              "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+              "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+              "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Carrot",
+    "zones": [
+      {
+        "zone_name": "Australia - arid",
+        "zone_number": 0,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "Australia - arid",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in United Kingdom - cool/temperate regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - cool/mountain",
+        "zone_number": 1,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "Australia - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in Australia - cool/mountain regions)",
+              "January: water well",
+              "September: broadcast sow",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - sub-tropical",
+        "zone_number": 2,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "Australia - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in Australia - temperate regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - temperate",
+        "zone_number": 3,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "Australia - temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in Australia - sub-tropical regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - tropical",
+        "zone_number": 4,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "Australia - tropical",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in Australia - tropical regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - cool/mountain",
+        "zone_number": 5,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "New Zealand - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in New Zealand - temperate regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - sub-tropical",
+        "zone_number": 6,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "New Zealand - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in New Zealand - cool/mountain regions)",
+              "January: water well",
+              "September: broadcast sow",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - temperate",
+        "zone_number": 7,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "New Zealand - temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in New Zealand - sub-tropical regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - cool/temperate",
+        "zone_number": 8,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "United Kingdom - cool/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in United Kingdom - cool/temperate regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - warm/temperate",
+        "zone_number": 9,
+        "data": {
+          "plant_name": "Carrot",
+          "alternative_names": [],
+          "scientific_name": "Daucus carota",
+          "family": "Apiaceae / the umbelliferae family",
+          "climate_zone": "United Kingdom - warm/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Carrot in United Kingdom - warm/temperate regions)",
+              "A hardy root vegetable which grows well in deep cool soil.",
+              "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+              "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+              "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+              "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+              "Be the first to post a question or tip from the  United Kingdom"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "zones": [
+      {
+        "zone_name": "Australia - arid",
+        "zone_number": 0,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "Australia - arid",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in United Kingdom - cool/temperate regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - cool/mountain",
+        "zone_number": 1,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "Australia - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T",
+              "P"
+            ],
+            "feb": [
+              "S",
+              "T",
+              "P"
+            ],
+            "mar": [
+              "S",
+              "T",
+              "P"
+            ],
+            "apr": [
+              "S",
+              "T",
+              "P"
+            ],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S",
+              "T",
+              "P"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in Australia - cool/mountain regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - sub-tropical",
+        "zone_number": 2,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "Australia - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T",
+              "P"
+            ],
+            "feb": [
+              "S",
+              "T",
+              "P"
+            ],
+            "mar": [
+              "S",
+              "T",
+              "P"
+            ],
+            "apr": [
+              "S",
+              "T",
+              "P"
+            ],
+            "may": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jun": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jul": [
+              "S",
+              "T",
+              "P"
+            ],
+            "aug": [
+              "S",
+              "T",
+              "P"
+            ],
+            "sep": [
+              "S",
+              "T",
+              "P"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in Australia - temperate regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - temperate",
+        "zone_number": 3,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "Australia - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "S",
+              "T",
+              "P"
+            ],
+            "feb": [
+              "S",
+              "T",
+              "P"
+            ],
+            "mar": [
+              "S",
+              "T",
+              "P"
+            ],
+            "apr": [
+              "S",
+              "T",
+              "P"
+            ],
+            "may": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jun": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jul": [
+              "S",
+              "T",
+              "P"
+            ],
+            "aug": [
+              "S",
+              "T",
+              "P"
+            ],
+            "sep": [
+              "S",
+              "T",
+              "P"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in Australia - sub-tropical regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - tropical",
+        "zone_number": 4,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "Australia - tropical",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S",
+              "T",
+              "P"
+            ],
+            "may": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jun": [
+              "T",
+              "P"
+            ],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in Australia - tropical regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - cool/mountain",
+        "zone_number": 5,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "New Zealand - cool/mountain",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in New Zealand - temperate regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - sub-tropical",
+        "zone_number": 6,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "New Zealand - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in New Zealand - cool/mountain regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - temperate",
+        "zone_number": 7,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "New Zealand - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "S"
+            ],
+            "feb": [
+              "S"
+            ],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "S"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in New Zealand - sub-tropical regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - cool/temperate",
+        "zone_number": 8,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "United Kingdom - cool/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in United Kingdom - cool/temperate regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - warm/temperate",
+        "zone_number": 9,
+        "data": {
+          "plant_name": "Lettuce",
+          "alternative_names": [],
+          "scientific_name": "lactuca sativa",
+          "family": "Asteraceae / the daisy family",
+          "climate_zone": "United Kingdom - warm/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S"
+            ],
+            "jul": [
+              "S"
+            ],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Lettuce in United Kingdom - warm/temperate regions)",
+              "Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.",
+              "Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.",
+              "Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.",
+              "Sow in rows and use thinnings as small salad greens.",
+              "Ideal crop for succession planting.",
+              "Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",
+              "Wash well, spin or shake dry and use in salads and sandwiches"
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Wash well, spin or shake dry and use in salads and sandwiches"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tomato",
+    "zones": [
+      {
+        "zone_name": "Australia - arid",
+        "zone_number": 0,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "Australia - arid",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [
+              "S"
+            ],
+            "jun": [],
+            "jul": [
+              "T"
+            ],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in United Kingdom - cool/temperate regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - cool/mountain",
+        "zone_number": 1,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "Australia - cool/mountain",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in Australia - cool/mountain regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - sub-tropical",
+        "zone_number": 2,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "Australia - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "T"
+            ],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in Australia - temperate regions)",
+              "August: Frost tender. Start undercover",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - temperate",
+        "zone_number": 3,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "Australia - temperate",
+          "monthly_calendar": {
+            "jan": [
+              "T",
+              "P"
+            ],
+            "feb": [
+              "T"
+            ],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "S",
+              "T",
+              "P"
+            ],
+            "nov": [
+              "S",
+              "T",
+              "P"
+            ],
+            "dec": [
+              "S",
+              "T",
+              "P"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in Australia - sub-tropical regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "Australia - tropical",
+        "zone_number": 4,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "Australia - tropical",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [
+              "S"
+            ],
+            "jun": [
+              "S",
+              "T",
+              "P"
+            ],
+            "jul": [
+              "T"
+            ],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in Australia - tropical regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - cool/mountain",
+        "zone_number": 5,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "New Zealand - cool/mountain",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "T"
+            ],
+            "nov": [
+              "T"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in New Zealand - temperate regions)",
+              "August: Frost tender",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - sub-tropical",
+        "zone_number": 6,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "New Zealand - sub-tropical",
+          "monthly_calendar": {
+            "jan": [
+              "T"
+            ],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [
+              "S"
+            ],
+            "nov": [
+              "S"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in New Zealand - cool/mountain regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "New Zealand - temperate",
+        "zone_number": 7,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "New Zealand - temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [],
+            "jun": [],
+            "jul": [],
+            "aug": [
+              "S"
+            ],
+            "sep": [
+              "S"
+            ],
+            "oct": [
+              "T"
+            ],
+            "nov": [
+              "T"
+            ],
+            "dec": [
+              "T"
+            ]
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in New Zealand - sub-tropical regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - cool/temperate",
+        "zone_number": 8,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "United Kingdom - cool/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [],
+            "apr": [],
+            "may": [
+              "S"
+            ],
+            "jun": [],
+            "jul": [
+              "T"
+            ],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in United Kingdom - cool/temperate regions)",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      },
+      {
+        "zone_name": "United Kingdom - warm/temperate",
+        "zone_number": 9,
+        "data": {
+          "plant_name": "Tomato",
+          "alternative_names": [],
+          "scientific_name": "Lycopersicon esculentum",
+          "family": "Solanaceae / the nightshade family",
+          "climate_zone": "United Kingdom - warm/temperate",
+          "monthly_calendar": {
+            "jan": [],
+            "feb": [],
+            "mar": [
+              "S"
+            ],
+            "apr": [
+              "S"
+            ],
+            "may": [
+              "T"
+            ],
+            "jun": [
+              "T"
+            ],
+            "jul": [],
+            "aug": [],
+            "sep": [],
+            "oct": [],
+            "nov": [],
+            "dec": []
+          },
+          "growing_info": {
+            "soil_temperature": "",
+            "spacing": "",
+            "harvest_time": "",
+            "additional_notes": [
+              "(Best months for growing Tomato in United Kingdom - warm/temperate regions)",
+              "January: GROW IN A Propagator with minimum temperature of 50-55F (10-12C)\r\nPlant out in March for June crops",
+              "April: Under cover",
+              "December: Grow in a heated glasshouse or propagator. Minimum temp 50-55F (10-12C)\r\nPlant out in early March (protect from frost) for June crops",
+              "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+              "Tomatoes should be grown in shelter or under cover in cool climates.",
+              "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+              "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+              "There are many different varieties of tomatoes but they all have one of two growth habits.",
+              "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+              "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+              "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+              "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+              "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+            ]
+          },
+          "companion_plants": [],
+          "avoid_plants": [],
+          "culinary_hints": [
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+          ]
+        }
+      }
+    ]
+  }
+]

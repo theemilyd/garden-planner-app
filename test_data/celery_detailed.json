@@ -1,0 +1,35 @@
+{
+  "United Kingdom - cool/temperate": {
+    "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 12\u00b0C and 21\u00b0C.",
+    "spacing": "Space plants:  15 - 30  cm apart",
+    "harvest": "Harvest in 17-18 weeks.",
+    "companion": "Compatible with (can grow beside): Not applicable as celery needs to be close together to encourage blanching.",
+    "avoid": "Avoid growing close to: Sweetcorn",
+    "plant_name": "Celery",
+    "zone_name": "United Kingdom - cool/temperate",
+    "zone_code": 26,
+    "url": "https://www.gardenate.com/plant/Celery?zone=26"
+  },
+  "USA - Zone 6b": {
+    "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 12\u00b0C and 21\u00b0C.",
+    "spacing": "Space plants:  15 - 30  cm apart",
+    "harvest": "Harvest in 17-18 weeks.",
+    "companion": "Compatible with (can grow beside): Not applicable as celery needs to be close together to encourage blanching.",
+    "avoid": "Avoid growing close to: Sweetcorn",
+    "plant_name": "Celery",
+    "zone_name": "USA - Zone 6b",
+    "zone_code": 110,
+    "url": "https://www.gardenate.com/plant/Celery?zone=110"
+  },
+  "Australia - temperate": {
+    "sowing": "Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 12\u00b0C and 21\u00b0C.",
+    "spacing": "Space plants:  15 - 30  cm apart",
+    "harvest": "Harvest in 17-18 weeks.",
+    "companion": "Compatible with (can grow beside): Not applicable as celery needs to be close together to encourage blanching.",
+    "avoid": "Avoid growing close to: Sweetcorn",
+    "plant_name": "Celery",
+    "zone_name": "Australia - temperate",
+    "zone_code": 4,
+    "url": "https://www.gardenate.com/plant/Celery?zone=4"
+  }
+}

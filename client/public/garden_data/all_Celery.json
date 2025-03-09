@@ -1,0 +1,547 @@
+{
+  "name": "Celery",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in United Kingdom - cool/temperate regions)",
+            "March: Under cover",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in Australia - cool/mountain regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in Australia - temperate regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in Australia - sub-tropical regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in Australia - tropical regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in New Zealand - temperate regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in New Zealand - cool/mountain regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in New Zealand - sub-tropical regions)",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in United Kingdom - cool/temperate regions)",
+            "March: Under cover",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Celery",
+        "alternative_names": [],
+        "scientific_name": "Apium sp.",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Celery in United Kingdom - warm/temperate regions)",
+            "March: Under cover",
+            "Most varieties improve with blanching but there are some self-blanching varieties available.",
+            "To Blanch: plant in trenches 15 - 20 cm (6 - 8 in) deep and 20 cm (8 in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks.",
+            "Alternatively wrap the plants in sleeves of paper or black plastic.",
+            "Celery needs moist fertile soil.",
+            "Chop and use raw in salad or braised in hot dishes.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chop and use raw in salad or braised in hot dishes."
+        ]
+      }
+    }
+  ]
+}

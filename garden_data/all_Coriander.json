@@ -1,0 +1,607 @@
+{
+  "name": "Coriander",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in United Kingdom - cool/temperate regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in Australia - cool/mountain regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in Australia - temperate regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in Australia - sub-tropical regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in Australia - tropical regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in New Zealand - temperate regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in New Zealand - cool/mountain regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in New Zealand - sub-tropical regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in United Kingdom - cool/temperate regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Coriander",
+        "alternative_names": [],
+        "scientific_name": "Coriandrum sativum",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Coriander in United Kingdom - warm/temperate regions)",
+            "Broadcast sow and thin to 45 cm apart. Grows to about 60 cm.",
+            "Harvest 30 - 45 days",
+            "A half-hardy herb with feathery leaves.",
+            "Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted.",
+            "Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.",
+            "Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",
+            "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use the leaves to flavour hot meals or add fresh to salads.\r\nThe seeds can be dried and ground up for curries."
+        ]
+      }
+    }
+  ]
+}

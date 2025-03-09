@@ -1,0 +1,524 @@
+{
+  "name": "Lemon Balm",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in United Kingdom - cool/temperate regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in Australia - cool/mountain regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in Australia - temperate regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in Australia - sub-tropical regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in Australia - tropical regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in New Zealand - temperate regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in New Zealand - cool/mountain regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in New Zealand - sub-tropical regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in United Kingdom - cool/temperate regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Lemon Balm",
+        "alternative_names": [],
+        "scientific_name": "Melissa Officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Lemon Balm in United Kingdom - warm/temperate regions)",
+            "Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.",
+            "Leaf shape is somewhat like mint and it likes to spread in the same way.",
+            "Pleasant lemon scent, released when a leaf is crushed.",
+            "Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.\nAttracts bees.",
+            "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "As a herb tea or added to fruit punch.\r\nCan be used to replace lemon, used sparingly, in desserts and with stewed fruit.\r\nChop leaves into salad.\n\r\nBetter used fresh than dried."
+        ]
+      }
+    }
+  ]
+}

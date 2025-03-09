@@ -1,0 +1,565 @@
+{
+  "name": "Turnip",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in United Kingdom - cool/temperate regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in Australia - cool/mountain regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in Australia - temperate regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in Australia - sub-tropical regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in Australia - tropical regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in New Zealand - temperate regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in New Zealand - cool/mountain regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in New Zealand - sub-tropical regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in United Kingdom - cool/temperate regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Turnip",
+        "alternative_names": [],
+        "scientific_name": "brassica rapa var.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Turnip in United Kingdom - warm/temperate regions)",
+            "Round, root vegetable.  The flesh is white.\nTurnips take about 6 to 10 weeks to reach a use-able size.",
+            "Sow every three or four weeks for a continuous supply.",
+            "Water regularly.",
+            "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Grate young turnips and use raw in salads.\r\nUse older turnips in casseroles and stews."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "name": "Squash",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in United Kingdom - cool/temperate regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in Australia - cool/mountain regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in Australia - temperate regions)",
+            "September: Frost tender",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in Australia - sub-tropical regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in Australia - tropical regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in New Zealand - temperate regions)",
+            "September: Frost tender",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in New Zealand - cool/mountain regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in New Zealand - sub-tropical regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in United Kingdom - cool/temperate regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Squash",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita pepo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Squash in United Kingdom - warm/temperate regions)",
+            "Start in individual pots then transfer when all risk of frost is past.\nFor succession, later plantings can be straight into the ground.\nFast maturing squash varieties for summer growing. Not suitable to store like pumpkins.\nUsually grown to pick when young and used without removing rind or seeds.",
+            "Zucchini/courgette (see under Z) is also a variety of squash",
+            "Protect from frost.\nWater well. Grow on well mulched, raised area. Shelter from strong winds.",
+            "A spray with a 5 gm/teasp Bicarbonate of Soda in 600 ml/pint of water will help slow powdery mildew when it appears.",
+            "Use whole or sliced. Steam or fry.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use whole or sliced. Steam or fry."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "name": "Luffa",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in United Kingdom - cool/temperate regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in Australia - cool/mountain regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in Australia - temperate regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in Australia - sub-tropical regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in Australia - tropical regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in New Zealand - temperate regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in New Zealand - cool/mountain regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in New Zealand - sub-tropical regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in United Kingdom - cool/temperate regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Luffa",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitcaea",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Luffa in United Kingdom - warm/temperate regions)",
+            "This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.",
+            "The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.",
+            "They grow on vines similar to cucumbers.",
+            "A large loofa makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",
+            "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The luffa flowers and fruits are soft and edible when young and are sometimes cooked and eaten like squash or okra. Loofah has been an important food source in many Asian cultures. The leaves and vines should not be eaten."
+        ]
+      }
+    }
+  ]
+}

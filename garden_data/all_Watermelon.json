@@ -1,0 +1,562 @@
+{
+  "name": "Watermelon",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in Australia - cool/mountain regions)",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in Australia - temperate regions)",
+            "August: Frost tender Start under cover",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in Australia - sub-tropical regions)",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in Australia - tropical regions)",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in New Zealand - temperate regions)",
+            "August: Frost tender",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in New Zealand - cool/mountain regions)",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Watermelon in New Zealand - sub-tropical regions)",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Watermelon",
+        "alternative_names": [],
+        "scientific_name": "Cucurbitaceae     c. lanatus",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - warm/temperate regions",
+            "Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.",
+            "Some have stripes on the skin.",
+            "Some varieties will produce fruit up to 14 kg (31 US pounds).",
+            "Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.",
+            "Watermelon needs plenty of room to grow as it sends out long vines",
+            "Needs a long warm season to mature.",
+            "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up and eat in slices.\r\nUse to make fruit drinks.\r\nUse in fruit salads."
+        ]
+      }
+    }
+  ]
+}

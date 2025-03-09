@@ -1,0 +1,535 @@
+{
+  "name": "Pumpkin",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in Australia - cool/mountain regions)",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in Australia - temperate regions)",
+            "September: Frost tender",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in Australia - sub-tropical regions)",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in Australia - tropical regions)",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in New Zealand - temperate regions)",
+            "September: Frost tender",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in New Zealand - cool/mountain regions)",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in New Zealand - sub-tropical regions)",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Pumpkin",
+        "alternative_names": [],
+        "scientific_name": "Cucurbita sp.",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pumpkin in United Kingdom - warm/temperate regions)",
+            "A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room. Grow them at the edge of your garden patch so that they can spread away from other vegetables.\nButternut produces small to medium  pear-shaped fruit with deep orange flesh.\nButtercup are small to medium round pumpkins with dark green skin.\nThere are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the \"Cinderella coach\" type giant round fruit which are not such good eating.",
+            "Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs.",
+            "Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",
+            "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut up, remove the skin and roast with other vegetables or meat. \n\r\nYoung crisp shoots with young leaves can be cooked and eaten - stewed in coconut milk they are popular in Melanesia. Remove any strings and tough parts and stew until tender, or cook as a vegetable in boiling water 3 - 5 minutes."
+        ]
+      }
+    }
+  ]
+}
