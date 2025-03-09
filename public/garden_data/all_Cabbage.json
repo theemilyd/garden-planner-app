@@ -1,0 +1,612 @@
+{
+  "name": "Cabbage",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in United Kingdom - cool/temperate regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in Australia - cool/mountain regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in Australia - temperate regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "S",
+            "T"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in Australia - sub-tropical regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "S",
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in Australia - tropical regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in New Zealand - temperate regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in New Zealand - cool/mountain regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in New Zealand - sub-tropical regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in United Kingdom - cool/temperate regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Cabbage",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cabbage in United Kingdom - warm/temperate regions)",
+            "There are many varieties of cabbage.",
+            "Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.",
+            "Red cabbage is grown in a similar way to green varieties.",
+            "In temperate climates ff you plant a selection of types you can have cabbage growing all year round.",
+            "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young spring cabbage can be chopped and added to salad greens.\r\nSteaming preserves the goodness and flavour of cabbage.\r\nCan also be used in stir-fry.\r\nRed cabbage chopped and cooked with brown sugar, red wine, onions, vinegar and stock is served with boiled bacon or pork."
+        ]
+      }
+    }
+  ]
+}

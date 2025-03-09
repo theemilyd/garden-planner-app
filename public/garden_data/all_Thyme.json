@@ -1,0 +1,526 @@
+{
+  "name": "Thyme",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in United Kingdom - cool/temperate regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in Australia - cool/mountain regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in Australia - temperate regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in Australia - sub-tropical regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in Australia - tropical regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in New Zealand - temperate regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in New Zealand - cool/mountain regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in New Zealand - sub-tropical regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in United Kingdom - cool/temperate regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Thyme",
+        "alternative_names": [],
+        "scientific_name": "Thymus vulgaris",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Thyme in United Kingdom - warm/temperate regions)",
+            "Thyme is slow to grow from seed and is best propagated from root divisions or cuttings.",
+            "Seeds need to be started in a warm frost-free place. A greenhouse is ideal. Keep under cover until about 10 cm (4 in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year.",
+            "Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot.",
+            "Water sparingly once established and avoid feeding. The plants will have most flavour in Summer months.",
+            "Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",
+            "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Common, lemon, orange and caraway thyme are used in cooking.\r\nThyme is mainly used with meat and fish but also tastes good with vegetables such as mushrooms, beans and carrots.\n\r\nThe flavour can be very intense so thyme is best used sparingly."
+        ]
+      }
+    }
+  ]
+}

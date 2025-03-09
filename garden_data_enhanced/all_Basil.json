@@ -1,0 +1,575 @@
+{
+  "name": "Basil",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in United Kingdom - cool/temperate regions)",
+            "February: Sow in greenhouse or indoors",
+            "May: Plant out after frosts finish",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in Australia - cool/mountain regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in Australia - temperate regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "18\u00b0C-35\u00b0C",
+          "spacing": "20-25 cm",
+          "harvest_time": "10-12 weeks",
+          "additional_notes": [
+            "(Best months for growing Basil in Australia - sub-tropical regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+            "Sowing: Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 18\u00b0C and 35\u00b0C.",
+            "Spacing: Space plants:  20 - 25  cm apart",
+            "Harvest: Harvest in 10-12 weeks. Pick before flowering."
+          ]
+        },
+        "companion_plants": [
+          "Tomato"
+        ],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "S",
+            "T"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "S",
+            "T"
+          ],
+          "jul": [
+            "S",
+            "T"
+          ],
+          "aug": [
+            "S",
+            "T"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in Australia - tropical regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in New Zealand - temperate regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in New Zealand - cool/mountain regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in New Zealand - sub-tropical regions)",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "18\u00b0C-35\u00b0C",
+          "spacing": "20-25 cm",
+          "harvest_time": "10-12 weeks",
+          "additional_notes": [
+            "(Best months for growing Basil in United Kingdom - cool/temperate regions)",
+            "February: Sow in greenhouse or indoors",
+            "May: Plant out after frosts finish",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+            "Be the first to post a question or tip from the  United Kingdom",
+            "Sowing: Grow in seed trays, and plant out in 4-6 weeks. \t\t\t\tSow seed at a depth approximately three times the diameter of the seed.\n\t\t\t\tBest planted at soil temperatures between 18\u00b0C and 35\u00b0C.",
+            "Spacing: Space plants:  20 - 25  cm apart",
+            "Harvest: Harvest in 10-12 weeks. Pick before flowering."
+          ]
+        },
+        "companion_plants": [
+          "Tomato"
+        ],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Basil",
+        "alternative_names": [],
+        "scientific_name": "Ocimum basilicum",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Basil in United Kingdom - warm/temperate regions)",
+            "February: Sow in greenhouse or indoors",
+            "May: Plant out after frosts finish",
+            "A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.\nThere are many varieties including Thai, purple ruffles, and lemon.",
+            "In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.",
+            "Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.\nPick off the flowers to encourage more leaf growth.",
+            "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Basil is commonly used fresh in cooked recipes. It is generally added at the last moment, as cooking quickly destroys the flavour. Tear rather than chop.\r\nThe fresh herb can be kept for a short time in plastic bags in the refrigerator, or for a longer period in the freezer, after being blanched  quickly in boiling water."
+        ]
+      }
+    }
+  ]
+}

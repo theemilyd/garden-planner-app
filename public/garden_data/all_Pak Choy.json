@@ -1,0 +1,505 @@
+{
+  "name": "Pak Choy",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in United Kingdom - cool/temperate regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in Australia - cool/mountain regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in Australia - temperate regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in Australia - sub-tropical regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in Australia - tropical regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in New Zealand - temperate regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in New Zealand - cool/mountain regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in New Zealand - sub-tropical regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in United Kingdom - cool/temperate regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Pak Choy",
+        "alternative_names": [],
+        "scientific_name": "Brassica campestris var. pekinensis",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Pak Choy in United Kingdom - warm/temperate regions)",
+            "Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.\nGrows quickly and will also go to seed quickly in hot weather.\nBest grown in cooler months.",
+            "Needs plenty of water.",
+            "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "You can treat Pak Choy as \"cut and come again\" or use the whole plant in one go, whichever suits your needs."
+        ]
+      }
+    }
+  ]
+}

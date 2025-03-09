@@ -1,0 +1,442 @@
+{
+  "us": {
+    "northeast": [
+      {
+        "tip": "Wait until soil temperature reaches 60°F (15.5°C) before planting warm-season crops like tomatoes and peppers",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Consider using raised beds to improve drainage in heavy clay soils common in the Northeast",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Start cool-season crops like peas and lettuce as soon as soil can be worked in spring",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Plant fall crops in August for harvest before first frost",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      },
+      {
+        "tip": "Apply row covers to extend growing season in spring and fall",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      }
+    ],
+    "southeast": [
+      {
+        "tip": "Start heat-tolerant varieties in spring for summer harvests",
+        "applies_to": ["vegetable", "herb"],
+        "season": "spring"
+      },
+      {
+        "tip": "Plant cool-season crops in September/October for fall and winter harvests",
+        "applies_to": ["vegetable"],
+        "season": "fall"
+      },
+      {
+        "tip": "Provide afternoon shade for lettuce and greens during hot summers",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      },
+      {
+        "tip": "Consider drip irrigation to reduce fungal diseases in humid climate",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Monitor for pests year-round as mild winters allow pest populations to persist",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      }
+    ],
+    "midwest": [
+      {
+        "tip": "Wait until after last frost date to plant warm-season crops",
+        "applies_to": ["vegetable", "herb"],
+        "season": "spring"
+      },
+      {
+        "tip": "Use cold frames or plastic tunnels to extend growing season by up to 4 weeks",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      },
+      {
+        "tip": "Plant cool-season crops like spinach and peas as soon as soil can be worked",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Choose short-season varieties in northern areas with shorter growing seasons",
+        "applies_to": ["vegetable"],
+        "season": "all"
+      },
+      {
+        "tip": "Consider mulching to retain soil moisture during hot, dry summers",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "summer"
+      }
+    ],
+    "southwest": [
+      {
+        "tip": "Plant heat-sensitive crops like lettuce and peas in fall for winter harvest",
+        "applies_to": ["vegetable"],
+        "season": "fall"
+      },
+      {
+        "tip": "Use shade cloth during summer months to protect plants from intense sun",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "summer"
+      },
+      {
+        "tip": "Choose drought-tolerant varieties when possible",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Consider deep watering less frequently to encourage deep root growth",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "In low desert areas, avoid planting tomatoes when nighttime temperatures exceed 85°F (29°C)",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      }
+    ],
+    "west": [
+      {
+        "tip": "Plant drought-tolerant Mediterranean herbs like rosemary and thyme in full sun",
+        "applies_to": ["herb"],
+        "season": "spring"
+      },
+      {
+        "tip": "Consider establishing plants before summer heat to develop strong root systems",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "spring"
+      },
+      {
+        "tip": "Use mulch to conserve soil moisture in dry climate",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "In coastal areas, choose varieties resistant to powdery mildew due to foggy conditions",
+        "applies_to": ["vegetable", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Plant fall garden in August/September for extended harvests",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      }
+    ],
+    "northwest": [
+      {
+        "tip": "Choose cool-season crops and rain-tolerant varieties",
+        "applies_to": ["vegetable", "herb"],
+        "season": "all"
+      },
+      {
+        "tip": "Start seeds indoors to get a head start during rainy spring",
+        "applies_to": ["vegetable", "flower"],
+        "season": "spring"
+      },
+      {
+        "tip": "Use raised beds to improve drainage in rainy climate",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Consider row covers or cloches to protect from persistent rain",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      },
+      {
+        "tip": "Plant warm-season crops like tomatoes in warmest, sunniest garden locations",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      }
+    ]
+  },
+  "uk": {
+    "north": [
+      {
+        "tip": "Choose fast-maturing varieties to account for shorter growing season",
+        "applies_to": ["vegetable"],
+        "season": "all"
+      },
+      {
+        "tip": "Use cloches or polytunnels to extend growing season by 3-4 weeks",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      },
+      {
+        "tip": "Start seeds indoors 6-8 weeks before last frost date",
+        "applies_to": ["vegetable", "flower"],
+        "season": "spring"
+      },
+      {
+        "tip": "Consider planting in sheltered locations to protect from wind",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Choose hardy varieties that tolerate cooler temperatures and shorter days",
+        "applies_to": ["vegetable", "flower"],
+        "season": "all"
+      }
+    ],
+    "midlands": [
+      {
+        "tip": "Avoid planting frost-sensitive crops before mid-May",
+        "applies_to": ["vegetable", "herb"],
+        "season": "spring"
+      },
+      {
+        "tip": "Consider fleece or cloches for early and late season protection",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      },
+      {
+        "tip": "Plant green manures in autumn to improve soil structure and fertility",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "fall"
+      },
+      {
+        "tip": "Start brassicas indoors in July for autumn and winter harvests",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      },
+      {
+        "tip": "Consider raised beds to improve drainage during wet periods",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      }
+    ],
+    "south": [
+      {
+        "tip": "Take advantage of longer growing season by succession planting",
+        "applies_to": ["vegetable"],
+        "season": "all"
+      },
+      {
+        "tip": "Start tender crops like tomatoes and cucumbers after mid-April",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Consider drought-resistant varieties for dry summer periods",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "summer"
+      },
+      {
+        "tip": "Plant winter vegetables in July/August for autumn and winter harvests",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      },
+      {
+        "tip": "Mulch to conserve moisture during dry summer months",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "summer"
+      }
+    ]
+  },
+  "canada": {
+    "atlantic": [
+      {
+        "tip": "Choose short-season varieties that can mature within 100 days",
+        "applies_to": ["vegetable"],
+        "season": "all"
+      },
+      {
+        "tip": "Use raised beds to improve drainage in areas with high rainfall",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Start seeds indoors 6-8 weeks before last frost date",
+        "applies_to": ["vegetable", "flower"],
+        "season": "spring"
+      },
+      {
+        "tip": "Plant cool-season crops as soon as soil can be worked in spring",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Consider row covers to protect from late spring and early fall frosts",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      }
+    ],
+    "central": [
+      {
+        "tip": "Wait until soil temperature reaches 15°C (60°F) before planting heat-loving crops",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Use season extenders like cold frames or tunnels in spring and fall",
+        "applies_to": ["vegetable", "herb"],
+        "season": ["spring", "fall"]
+      },
+      {
+        "tip": "Start seeds indoors 8-10 weeks before last frost date",
+        "applies_to": ["vegetable", "flower"],
+        "season": "winter"
+      },
+      {
+        "tip": "Select varieties rated for your hardiness zone",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Consider planting a fall garden in July for harvest before first frost",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      }
+    ],
+    "prairie": [
+      {
+        "tip": "Choose drought-tolerant varieties where possible",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Use mulch to conserve moisture and moderate soil temperature",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Consider wind protection for garden beds in open areas",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Plant cool-season crops in early April and again in August",
+        "applies_to": ["vegetable"],
+        "season": ["spring", "summer"]
+      },
+      {
+        "tip": "Choose fast-maturing varieties (60-80 days) for areas with short growing seasons",
+        "applies_to": ["vegetable"],
+        "season": "all"
+      }
+    ],
+    "west_coast": [
+      {
+        "tip": "Take advantage of mild climate with extended planting seasons",
+        "applies_to": ["vegetable", "herb"],
+        "season": "all"
+      },
+      {
+        "tip": "Use raised beds to improve drainage in rainy coastal regions",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Consider planting fall and winter gardens for year-round harvests",
+        "applies_to": ["vegetable"],
+        "season": ["summer", "fall"]
+      },
+      {
+        "tip": "Choose rain-tolerant varieties in coastal areas",
+        "applies_to": ["vegetable", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Plant cool-season crops throughout fall for winter harvest",
+        "applies_to": ["vegetable"],
+        "season": "fall"
+      }
+    ]
+  },
+  "australia": {
+    "northern": [
+      {
+        "tip": "Plant cool-season vegetables during the dry season (May-September)",
+        "applies_to": ["vegetable"],
+        "season": "winter"
+      },
+      {
+        "tip": "Choose varieties adapted to tropical conditions with high humidity tolerance",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Use shade cloth during the hottest months to protect plants",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "summer"
+      },
+      {
+        "tip": "Consider raised beds for better drainage during wet season",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Plant heat-loving crops at the beginning of the wet season",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      }
+    ],
+    "central": [
+      {
+        "tip": "Choose drought-tolerant varieties for hot, dry summers",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Use mulch extensively to conserve soil moisture",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Plant cool-season crops in March-April for winter harvest",
+        "applies_to": ["vegetable"],
+        "season": "fall"
+      },
+      {
+        "tip": "Consider shade protection for plants during hottest summer months",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "summer"
+      },
+      {
+        "tip": "Use drip irrigation to conserve water in arid climate",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      }
+    ],
+    "southern": [
+      {
+        "tip": "Plant frost-sensitive crops after mid-October (after risk of frost has passed)",
+        "applies_to": ["vegetable", "herb"],
+        "season": "spring"
+      },
+      {
+        "tip": "Start cool-season crops in February-March for autumn and winter harvest",
+        "applies_to": ["vegetable"],
+        "season": "summer"
+      },
+      {
+        "tip": "Consider wind protection in coastal and exposed areas",
+        "applies_to": ["vegetable", "herb", "flower"],
+        "season": "all"
+      },
+      {
+        "tip": "Plant heat-loving crops like tomatoes and peppers in November",
+        "applies_to": ["vegetable"],
+        "season": "spring"
+      },
+      {
+        "tip": "Use cloches or row covers to protect from late spring frosts",
+        "applies_to": ["vegetable", "herb"],
+        "season": "spring"
+      }
+    ]
+  }
+}

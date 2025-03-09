@@ -1,0 +1,533 @@
+{
+  "name": "Sage",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in United Kingdom - cool/temperate regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in Australia - cool/mountain regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in Australia - temperate regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in Australia - sub-tropical regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in Australia - tropical regions)",
+            "May: Best grown in large pots or planter boxes as sage cannot cope with very wet soil.",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in New Zealand - temperate regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in New Zealand - cool/mountain regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in New Zealand - sub-tropical regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in United Kingdom - cool/temperate regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Sage",
+        "alternative_names": [],
+        "scientific_name": "Salvia officinalis",
+        "family": "Lamiaceae / the mint family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sage in United Kingdom - warm/temperate regions)",
+            "Sage grows well from seeds but it is slow developing.",
+            "One plant will usually be enough for the average household.",
+            "A plant grown from a cutting will be ready to use in about 3 months.",
+            "Stake or protect from strong winds, otherwise the plant may snap off the main stem.",
+            "Sage will grow almost anywhere as long as it is in full sun for most of the day.\nSage does not like soil that is moist all the time - avoid frequent watering even in the middle of the summer.",
+            "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The leaves are used to flavour stuffing and meat dishes. \r\nSage keeps well if dried."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+:root {
+  /* Modern sage green color palette */
+  --sage-green-100: #E6EFEA;
+  --sage-green-200: #C9DFD1;
+  --sage-green-300: #ADC9B8;
+  --sage-green-400: #91B3A0;
+  --sage-green-500: #759C87;
+  --sage-green-600: #5A816E;
+  --sage-green-700: #436556;
+  --sage-green-800: #2D483D;
+  --sage-green-900: #182C25;
+  
+  /* Calendar colors */
+  --indoor-blue: #E8F4FD;
+  --outdoor-green: #E6EFEA;
+  --harvest-yellow: #FFF8E1;
+  
+  /* Neutral colors */
+  --white: #FFFFFF;
+  --gray-100: #F8F9FA;
+  --gray-200: #E9ECEF;
+  --gray-300: #DEE2E6;
+  --gray-400: #CED4DA;
+  --gray-500: #ADB5BD;
+  --gray-600: #6C757D;
+  --gray-700: #495057;
+  --gray-800: #343A40;
+  --gray-900: #212529;
+  
+  /* Global design variables */
+  --border-radius-sm: 6px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px;
+  --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --transition-standard: all 0.25s ease;
+}
+
+/* Base styles */
+.seed-sowing-calendar {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--gray-800);
+  background-color: var(--gray-100);
+  padding: 1.5rem;
+}
+
+/* Typography */
+.seed-sowing-calendar h1, 
+.seed-sowing-calendar h2, 
+.seed-sowing-calendar h3, 
+.seed-sowing-calendar h4, 
+.seed-sowing-calendar h5, 
+.seed-sowing-calendar h6,
+.seed-sowing-calendar .card-header {
+  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Card styling */
+.seed-sowing-calendar .card {
+  border: 1px solid var(--gray-200);
+  border-radius: var(--border-radius-md);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  transition: var(--transition-standard);
+  height: 100%;
+  background-color: var(--white);
+}
+
+.seed-sowing-calendar .card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.seed-sowing-calendar .card-header {
+  background-color: var(--sage-green-600);
+  color: white;
+  border-bottom: none;
+  padding: 1rem 1.25rem;
+}
+
+.seed-sowing-calendar .card-body {
+  padding: 1.5rem;
+}
+
+/* Button styling */
+.seed-sowing-calendar .btn {
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .btn-success,
+.seed-sowing-calendar .btn-primary {
+  background: linear-gradient(to bottom, var(--sage-green-500), var(--sage-green-600));
+  border-color: var(--sage-green-600);
+}
+
+.seed-sowing-calendar .btn-success:hover,
+.seed-sowing-calendar .btn-success:focus,
+.seed-sowing-calendar .btn-primary:hover,
+.seed-sowing-calendar .btn-primary:focus {
+  background: linear-gradient(to bottom, var(--sage-green-600), var(--sage-green-700));
+  border-color: var(--sage-green-700);
+  transform: translateY(-1px);
+}
+
+.seed-sowing-calendar .btn-outline-success,
+.seed-sowing-calendar .btn-outline-primary {
+  color: var(--sage-green-600);
+  border-color: var(--sage-green-400);
+}
+
+.seed-sowing-calendar .btn-outline-success:hover,
+.seed-sowing-calendar .btn-outline-success:focus,
+.seed-sowing-calendar .btn-outline-primary:hover,
+.seed-sowing-calendar .btn-outline-primary:focus {
+  background-color: var(--sage-green-600);
+  border-color: var(--sage-green-600);
+  color: white;
+}
+
+/* Form controls */
+.seed-sowing-calendar .form-control,
+.seed-sowing-calendar .form-select {
+  border-radius: var(--border-radius-sm);
+  border: 1px solid var(--gray-300);
+  padding: 0.625rem 1rem;
+  transition: var(--transition-standard);
+  font-size: 0.95rem;
+}
+
+.seed-sowing-calendar .form-control:focus,
+.seed-sowing-calendar .form-select:focus {
+  border-color: var(--sage-green-500);
+  box-shadow: 0 0 0 0.25rem rgba(90, 129, 110, 0.25);
+}
+
+.seed-sowing-calendar .form-label {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: var(--gray-700);
+}
+
+/* Floating label styles */
+.seed-sowing-calendar .floating-label {
+  position: relative;
+}
+
+.seed-sowing-calendar .floating-label input:focus ~ label,
+.seed-sowing-calendar .floating-label input:not(:placeholder-shown) ~ label {
+  transform: translateY(-1.5rem) scale(0.85);
+  background-color: white;
+  padding: 0 0.5rem;
+  color: var(--sage-green-600);
+}
+
+.seed-sowing-calendar .floating-label label {
+  position: absolute;
+  left: 1rem;
+  top: 0.625rem;
+  transition: var(--transition-standard);
+  pointer-events: none;
+  transform-origin: left top;
+}
+
+/* Search input styling */
+.seed-sowing-calendar .search-container {
+  position: relative;
+}
+
+.seed-sowing-calendar .search-input {
+  padding-right: 3rem;
+}
+
+.seed-sowing-calendar .search-button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+/* Badge styling */
+.seed-sowing-calendar .badge {
+  font-weight: 500;
+  padding: 0.35em 0.65em;
+  border-radius: 50rem;
+}
+
+.seed-sowing-calendar .badge.bg-success {
+  background-color: var(--sage-green-600) !important;
+}
+
+.seed-sowing-calendar .badge.pill {
+  border-radius: 50rem;
+}
+
+/* Plant type filter toggle */
+.seed-sowing-calendar .plant-type-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.seed-sowing-calendar .filter-toggle {
+  background-color: var(--white);
+  border: 1px solid var(--gray-300);
+  color: var(--gray-700);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .filter-toggle.active {
+  background-color: var(--sage-green-600);
+  color: white;
+  border-color: var(--sage-green-600);
+}
+
+.seed-sowing-calendar .filter-toggle:hover:not(.active) {
+  background-color: var(--gray-100);
+  border-color: var(--gray-400);
+}
+
+/* List group styling */
+.seed-sowing-calendar .list-group-item {
+  border-color: var(--gray-200);
+  padding: 0.875rem 1.25rem;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .list-group-item:hover {
+  background-color: var(--sage-green-100);
+}
+
+.seed-sowing-calendar .list-group-item:first-child {
+  border-top-left-radius: var(--border-radius-sm);
+  border-top-right-radius: var(--border-radius-sm);
+}
+
+.seed-sowing-calendar .list-group-item:last-child {
+  border-bottom-left-radius: var(--border-radius-sm);
+  border-bottom-right-radius: var(--border-radius-sm);
+}
+
+/* Plant item styling */
+.seed-sowing-calendar .plant-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  background-color: white;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .plant-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+  border-color: var(--sage-green-300);
+  background-color: var(--sage-green-100);
+}
+
+.seed-sowing-calendar .plant-icon {
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--sage-green-100);
+  border-radius: 50%;
+  margin-right: 0.75rem;
+  font-size: 1.2rem;
+}
+
+.seed-sowing-calendar .plant-item.dragging {
+  opacity: 0.5;
+}
+
+.seed-sowing-calendar .plant-item .remove-btn {
+  visibility: hidden;
+  opacity: 0;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .plant-item:hover .remove-btn {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Calendar styling */
+.seed-sowing-calendar .planting-calendar {
+  background-color: white;
+  border-radius: var(--border-radius-md);
+  overflow: auto;
+  box-shadow: var(--shadow-sm);
+}
+
+.seed-sowing-calendar .calendar-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.seed-sowing-calendar .calendar-table th {
+  position: sticky;
+  top: 0;
+  background-color: var(--sage-green-600);
+  color: white;
+  padding: 0.75rem;
+  text-align: center;
+  font-weight: 600;
+  z-index: 10;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+.seed-sowing-calendar .calendar-table td {
+  padding: 0.75rem 0.5rem;
+  text-align: center;
+  border: 1px solid var(--gray-200);
+  font-size: 0.9rem;
+  position: relative;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .calendar-table td.drag-over {
+  background-color: var(--sage-green-200) !important;
+  box-shadow: inset 0 0 0 2px var(--sage-green-600);
+}
+
+.seed-sowing-calendar .month-column {
+  width: 7.5%;
+}
+
+.seed-sowing-calendar .plant-column {
+  width: 10%;
+}
+
+.seed-sowing-calendar .plant-name-cell {
+  cursor: pointer;
+  text-align: left;
+  position: relative;
+  font-weight: 500;
+  background-color: var(--gray-100);
+}
+
+.seed-sowing-calendar .plant-name-cell:hover {
+  background-color: var(--sage-green-100);
+}
+
+.seed-sowing-calendar .plant-type-badge {
+  position: absolute;
+  top: 0.25rem;
+  right: 0.25rem;
+  font-size: 0.65rem;
+  background-color: var(--gray-200);
+  color: var(--gray-700);
+}
+
+/* Calendar cell colors */
+.seed-sowing-calendar .indoor-cell {
+  background-color: var(--indoor-blue);
+  position: relative;
+}
+
+.seed-sowing-calendar .outdoor-cell {
+  background-color: var(--outdoor-green);
+  position: relative;
+}
+
+.seed-sowing-calendar .harvest-cell {
+  background-color: var(--harvest-yellow);
+  position: relative;
+}
+
+.seed-sowing-calendar .calendar-cell {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.seed-sowing-calendar .calendar-cell:hover {
+  transform: scale(1.05);
+  z-index: 5;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Cell tooltips */
+.seed-sowing-calendar .cell-tooltip {
+  visibility: hidden;
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--gray-800);
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.75rem;
+  white-space: nowrap;
+  z-index: 20;
+  opacity: 0;
+  transition: var(--transition-standard);
+  pointer-events: none;
+}
+
+.seed-sowing-calendar .calendar-cell:hover .cell-tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Calendar legend */
+.seed-sowing-calendar .calendar-legend {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.seed-sowing-calendar .legend-item {
+  display: flex;
+  align-items: center;
+}
+
+.seed-sowing-calendar .legend-color {
+  width: 1rem;
+  height: 1rem;
+  border-radius: var(--border-radius-sm);
+  margin-right: 0.5rem;
+}
+
+/* Modals */
+.seed-sowing-calendar .modal-header {
+  background-color: var(--sage-green-600);
+  color: white;
+  border-bottom: none;
+}
+
+.seed-sowing-calendar .modal-content {
+  border-radius: var(--border-radius-md);
+  overflow: hidden;
+  border: none;
+  box-shadow: var(--shadow-lg);
+}
+
+.seed-sowing-calendar .modal-footer {
+  border-top: none;
+  padding: 1rem 1.5rem 1.5rem;
+}
+
+/* Plant details modal */
+.seed-sowing-calendar .plant-details-header {
+  display: flex;
+  align-items: center;
+}
+
+.seed-sowing-calendar .plant-details-icon {
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--sage-green-100);
+  border-radius: 50%;
+  margin-right: 1rem;
+  font-size: 1.75rem;
+}
+
+.seed-sowing-calendar .date-badge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  margin-top: 0.25rem;
+}
+
+.seed-sowing-calendar .indoor-badge {
+  background-color: var(--indoor-blue);
+  color: var(--gray-800);
+}
+
+.seed-sowing-calendar .outdoor-badge {
+  background-color: var(--outdoor-green);
+  color: var(--gray-800);
+}
+
+.seed-sowing-calendar .harvest-badge {
+  background-color: var(--harvest-yellow);
+  color: var(--gray-800);
+}
+
+/* Weather widget */
+.seed-sowing-calendar .weather-widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.seed-sowing-calendar .current-weather {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: var(--sage-green-100);
+  border-radius: var(--border-radius-md);
+  width: 100%;
+}
+
+.seed-sowing-calendar .weather-icon {
+  font-size: 2.5rem;
+  color: var(--sage-green-600);
+  margin-bottom: 0.5rem;
+}
+
+.seed-sowing-calendar .forecast-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.seed-sowing-calendar .forecast-day {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.75rem;
+  background-color: var(--gray-100);
+  border-radius: var(--border-radius-sm);
+  flex: 1;
+  margin: 0 0.25rem;
+  transition: var(--transition-standard);
+}
+
+.seed-sowing-calendar .forecast-day:hover {
+  transform: translateY(-5px);
+  background-color: var(--sage-green-100);
+}
+
+.seed-sowing-calendar .growing-recommendations {
+  background-color: var(--gray-100);
+  border-radius: var(--border-radius-md);
+  padding: 1rem;
+  width: 100%;
+}
+
+/* Location section styling */
+.seed-sowing-calendar .zone-info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+}
+
+.seed-sowing-calendar .zone-info-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.seed-sowing-calendar .zone-label {
+  font-size: 0.85rem;
+  color: var(--gray-600);
+}
+
+.seed-sowing-calendar .zone-value {
+  font-weight: 600;
+  color: var(--gray-800);
+}
+
+/* Instructions card */
+.seed-sowing-calendar .instruction-item {
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.seed-sowing-calendar .instruction-icon {
+  margin-right: 0.75rem;
+  color: var(--sage-green-600);
+  flex-shrink: 0;
+}
+
+/* Feature cards */
+.seed-sowing-calendar .feature-icon {
+  width: 4rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--sage-green-100);
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+}
+
+/* Advanced filters */
+.seed-sowing-calendar .advanced-filters {
+  background-color: var(--gray-100);
+  border-radius: var(--border-radius-md);
+  padding: 1rem;
+  margin-top: 0.5rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.seed-sowing-calendar .fade-in {
+  animation: fadeIn 0.5s ease forwards;
+}
+
+.seed-sowing-calendar .slide-in-up {
+  animation: slideInUp 0.5s ease forwards;
+}
+
+.seed-sowing-calendar .pulse {
+  animation: pulse 1s ease infinite;
+}
+
+/* Responsive styles */
+@media (max-width: 992px) {
+  .seed-sowing-calendar .calendar-table th,
+  .seed-sowing-calendar .calendar-table td {
+    padding: 0.5rem 0.25rem;
+    font-size: 0.85rem;
+  }
+  
+  .seed-sowing-calendar .forecast-day {
+    padding: 0.5rem;
+  }
+  
+  .seed-sowing-calendar .zone-info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .seed-sowing-calendar {
+    padding: 1rem;
+  }
+  
+  .seed-sowing-calendar .calendar-table {
+    min-width: 800px;
+  }
+  
+  .seed-sowing-calendar .planting-calendar {
+    overflow-x: auto;
+  }
+  
+  .seed-sowing-calendar .calendar-legend {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .seed-sowing-calendar .legend-item {
+    margin-bottom: 0.5rem;
+  }
+  
+  .seed-sowing-calendar .current-weather,
+  .seed-sowing-calendar .forecast-wrapper,
+  .seed-sowing-calendar .growing-recommendations {
+    width: 100%;
+  }
+}
+
+/* Print styles */
+@media print {
+  .seed-sowing-calendar .no-print {
+    display: none !important;
+  }
+  
+  .seed-sowing-calendar {
+    padding: 0;
+    background-color: white;
+  }
+  
+  .seed-sowing-calendar .card,
+  .seed-sowing-calendar .planting-calendar {
+    box-shadow: none;
+    border: none;
+  }
+  
+  .seed-sowing-calendar .calendar-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .seed-sowing-calendar .calendar-table th, 
+  .seed-sowing-calendar .calendar-table td {
+    border: 1px solid var(--gray-300);
+    padding: 8px;
+    font-size: 10pt;
+  }
+  
+  .seed-sowing-calendar .plant-name-cell {
+    font-weight: bold;
+  }
+  
+  .seed-sowing-calendar .indoor-cell,
+  .seed-sowing-calendar .outdoor-cell,
+  .seed-sowing-calendar .harvest-cell {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "name": "Parsnip",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in United Kingdom - cool/temperate regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in Australia - cool/mountain regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in Australia - temperate regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in Australia - sub-tropical regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - tropical regions",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in New Zealand - temperate regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in New Zealand - cool/mountain regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in New Zealand - sub-tropical regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in United Kingdom - cool/temperate regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Parsnip",
+        "alternative_names": [],
+        "scientific_name": "Pastinaca sativa",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Parsnip in United Kingdom - warm/temperate regions)",
+            "Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.\nLeave in the ground until after frost or at least a couple of weeks of really cold weather.\nThe cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.",
+            "Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.\nThin seedlings down so they are about 8 cm (4 in) apart. If you are planting in rows then space the rows about 50 cm (20 in) apart.",
+            "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peel and roast with vegetables or meat. The sweetish flavour of parsnips enhances most other vegetables."
+        ]
+      }
+    }
+  ]
+}

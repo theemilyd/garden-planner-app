@@ -1,0 +1,655 @@
+{
+  "name": "Chives",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in United Kingdom - cool/temperate regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in Australia - cool/mountain regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in Australia - temperate regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in Australia - sub-tropical regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in Australia - tropical regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in New Zealand - temperate regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in New Zealand - cool/mountain regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in New Zealand - sub-tropical regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in United Kingdom - cool/temperate regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Chives",
+        "alternative_names": [],
+        "scientific_name": "Allium schoenoprasum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chives in United Kingdom - warm/temperate regions)",
+            "Grass-like leaves in clumps. Likes full sun but not too dry.",
+            "Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.",
+            "Remove flowers to encourage a continuous supply of leaves.",
+            "If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",
+            "Use raw in salads or as a mild onion flavour in cooked dishes.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use raw in salads or as a mild onion flavour in cooked dishes."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "name": "Sunflower",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in United Kingdom - cool/temperate regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in Australia - cool/mountain regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in Australia - temperate regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in Australia - sub-tropical regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in Australia - tropical regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in New Zealand - temperate regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in New Zealand - cool/mountain regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in New Zealand - sub-tropical regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in United Kingdom - cool/temperate regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Sunflower",
+        "alternative_names": [],
+        "scientific_name": "helianthus annuus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sunflower in United Kingdom - warm/temperate regions)",
+            "Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production.",
+            "Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.\nProtect seed heads from birds when ripening with nets or paper bags.\nChickens love a sunflower head hung for them to peck!",
+            "Use seeds fresh or toasted or press for oil.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use seeds fresh or toasted or press for oil."
+        ]
+      }
+    }
+  ]
+}

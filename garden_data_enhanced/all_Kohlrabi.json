@@ -1,0 +1,609 @@
+{
+  "name": "Kohlrabi",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in United Kingdom - cool/temperate regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in Australia - cool/mountain regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in Australia - temperate regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in Australia - sub-tropical regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in Australia - tropical regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in New Zealand - temperate regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in New Zealand - cool/mountain regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in New Zealand - sub-tropical regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in United Kingdom - cool/temperate regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Kohlrabi",
+        "alternative_names": [],
+        "scientific_name": "Brassica oleracea gongylodes",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Kohlrabi in United Kingdom - warm/temperate regions)",
+            "The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.",
+            "Protect from cabbage white butterflies.",
+            "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when young.\r\nScrub well, cut off leaf stalks, roots and woody parts.\r\nYoung ones do not need peeling.\r\nCan be grated raw for salads.\r\nOr cut in pieces and steam.\r\nUse in casseroles."
+        ]
+      }
+    }
+  ]
+}

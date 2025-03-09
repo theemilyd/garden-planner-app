@@ -1,0 +1,529 @@
+{
+  "name": "Asparagus Pea",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in United Kingdom - cool/temperate regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in Australia - cool/mountain regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in Australia - temperate regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in Australia - sub-tropical regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in Australia - tropical regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in New Zealand - temperate regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in New Zealand - cool/mountain regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in New Zealand - sub-tropical regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in United Kingdom - cool/temperate regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Asparagus Pea",
+        "alternative_names": [],
+        "scientific_name": "Lotus tetragonobolus",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus Pea in United Kingdom - warm/temperate regions)",
+            "This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5 cm (1 in) long. ( about 80 days)",
+            "Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.",
+            "It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.",
+            "Only the pods are edible for Lotus tetragonobolus.",
+            "Not to be confused with the other asparagus pea, the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.",
+            "Support with twigs to keep the stems off the ground. Protect from slugs and snails. \nPick pods when small as they become hard and dry if left too long.",
+            "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cook quickly by steaming and serve with just a touch of butter and they are said to taste like their namesake ."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "name": "Beans - dwarf",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in United Kingdom - cool/temperate regions)",
+            "January: In Grow-bags in a glasshouse or heated propagator\r\n\r\nMinimum temperature 10-12C (50-55F)",
+            "December: In Grow-bags in a glasshouse or heated propagator\r\n\r\nMinimum temperature 10-12C (50-55F)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in Australia - cool/mountain regions)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in Australia - temperate regions)",
+            "September: sow after frost",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in Australia - sub-tropical regions)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in Australia - tropical regions)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in New Zealand - temperate regions)",
+            "September: sow after frost",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in New Zealand - cool/mountain regions)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in New Zealand - sub-tropical regions)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in United Kingdom - cool/temperate regions)",
+            "January: In Grow-bags in a glasshouse or heated propagator\r\n\r\nMinimum temperature 10-12C (50-55F)",
+            "December: In Grow-bags in a glasshouse or heated propagator\r\n\r\nMinimum temperature 10-12C (50-55F)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Beans - dwarf",
+        "alternative_names": [],
+        "scientific_name": "Phaseolus vulgaris",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Beans - dwarf in United Kingdom - warm/temperate regions)",
+            "January: In Grow-bags in a glasshouse or heated propagator\r\nMinimum temperature 10-12C (50-55F)",
+            "December: In Grow-bags in a glasshouse or heated propagator\r\nMinimum temperature 10-12C (50-55F)",
+            "Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.",
+            "Keep watered and watch for shield bugs and green caterpillars\nPick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.\nFor a continuous crop, plant more seed as soon as the previous planting starts to flower.\nProtect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",
+            "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Can be used in salads when young, blanched and cooled.\r\nWill freeze well."
+        ]
+      }
+    }
+  ]
+}

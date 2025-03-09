@@ -1,0 +1,537 @@
+{
+  "name": "Florence Fennel",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in United Kingdom - cool/temperate regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in Australia - cool/mountain regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in Australia - temperate regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in Australia - sub-tropical regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in Australia - tropical regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in New Zealand - temperate regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in New Zealand - cool/mountain regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in New Zealand - sub-tropical regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in United Kingdom - cool/temperate regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Florence Fennel",
+        "alternative_names": [],
+        "scientific_name": "foeniculum vulgare dulce",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Florence Fennel in United Kingdom - warm/temperate regions)",
+            "This is a perennial grown as an annual as the stems become more fibrous with age.\n Both seeds and leaves have a mild aniseed flavour.\nWith its feathery leaves it makes a good background plant in a border. Grows to approx 1.5 m (5 ft)\nCan be repeat sown throughout the year or left to self seed.",
+            "Fennel prefers well-drained fertile soil.",
+            "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The swollen base of the stem is used.\n\r\n Slice and steam/stir-fry the bulb, or use raw/grated in salads.  Can be cooked and served with sauces or butter."
+        ]
+      }
+    }
+  ]
+}

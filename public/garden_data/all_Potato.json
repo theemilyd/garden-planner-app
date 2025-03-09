@@ -1,0 +1,629 @@
+{
+  "name": "Potato",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in United Kingdom - cool/temperate regions)",
+            "January: In large pots in a heated glasshouse. Minimum 10-12C (50-55F)",
+            "December: In large pots in a heated glasshouse. Minimum 10-12C (50-55F)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in Australia - cool/mountain regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in Australia - temperate regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in Australia - sub-tropical regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in Australia - tropical regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in New Zealand - temperate regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in New Zealand - cool/mountain regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in New Zealand - sub-tropical regions)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in United Kingdom - cool/temperate regions)",
+            "January: In large pots in a heated glasshouse. Minimum 10-12C (50-55F)",
+            "December: In large pots in a heated glasshouse. Minimum 10-12C (50-55F)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Potato",
+        "alternative_names": [],
+        "scientific_name": "Solanum tuberosum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Potato in United Kingdom - warm/temperate regions)",
+            "January: In large pots in a heated glasshouse. Minimum 10-12C (50-55F)",
+            "December: In large pots in a heated glasshouse. Minimum 10-12C (50-55F)",
+            "Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.",
+            "Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1 cm long - this can take a few weeks.\nIn hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.",
+            "Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.",
+            "Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40 cm wide and 10 - 20 cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30 cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.",
+            "As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up' the crop this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.",
+            "Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.",
+            "If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.",
+            "Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30 cm apart, trying to get the shoots pointing upwards.",
+            "Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30 cm. Don't flatten the cover down.",
+            "Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.",
+            "Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.",
+            "Put about 10 - 20 cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30 cm apart. Cover with about 10 - 20 cm of compost mixed with mulch (straw, grass clippings. Water well.",
+            "As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)",
+            "For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.",
+            "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Peeled or unpeeled and scrubbed, potatoes can be boiled, baked, fried and roasted. - The only way they are not used is raw.\n\r\nKeep in a pot of cold water after peeling, otherwise they will discolour."
+        ]
+      }
+    }
+  ]
+}

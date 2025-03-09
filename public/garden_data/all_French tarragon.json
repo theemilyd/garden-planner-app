@@ -1,0 +1,522 @@
+{
+  "name": "French tarragon",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in United Kingdom - cool/temperate regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in Australia - cool/mountain regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in Australia - temperate regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in Australia - sub-tropical regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T",
+            "P"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in Australia - tropical regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in New Zealand - temperate regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in New Zealand - cool/mountain regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in New Zealand - sub-tropical regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in United Kingdom - cool/temperate regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "French tarragon",
+        "alternative_names": [],
+        "scientific_name": "Artemisia dracunculus",
+        "family": "Asteraceae / the daisy family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing French tarragon in United Kingdom - warm/temperate regions)",
+            "French tarragon a half hardy perennial herb that is native of southern Europe.\nIt is frost tender, which may be one of the reasons that it is not particularly widely grown.\nFrench tarragon is easy to grow but rarely sets seeds.\nIt is propagated by division, or from cuttings.\nSeed grown tarragon is usually Russian tarragon which does not have such a good flavour.",
+            "French tarragon must have a sunny position. The site should be sheltered from winds and winter frosts. Keep well watered in dry weather. In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter. Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.",
+            "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Tarragon goes well with fish, pork, beef, poultry, game, potatoes, tomatoes, carrots, and most vegetables. Can be used in cream sauces, herbed butters and vinegars, soups, sour creams, and yogurt. However, it can be overpowering in large amounts."
+        ]
+      }
+    }
+  ]
+}

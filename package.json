@@ -1,0 +1,27 @@
+{
+  "name": "garden-planner",
+  "version": "1.0.0",
+  "description": "Garden Planner Application",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "cd client && npm install && npm run build",
+    "install-server": "cd server && npm install",
+    "install-client": "cd client && npm install",
+    "heroku-postbuild": "npm run install-server && npm run build",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm start\""
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    "client/node_modules",
+    "server/node_modules"
+  ],
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

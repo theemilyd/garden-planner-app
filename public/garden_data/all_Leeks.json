@@ -1,0 +1,572 @@
+{
+  "name": "Leeks",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in United Kingdom - cool/temperate regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T",
+            "P"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in Australia - cool/mountain regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in Australia - temperate regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "P"
+          ],
+          "mar": [
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S",
+            "P"
+          ],
+          "sep": [
+            "T",
+            "P"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in Australia - sub-tropical regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S",
+            "P"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in Australia - tropical regions)",
+            "April: Leeks need moist soil throughout their growth.",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in New Zealand - temperate regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in New Zealand - cool/mountain regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [],
+          "oct": [
+            "T"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in New Zealand - sub-tropical regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in United Kingdom - cool/temperate regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Leeks",
+        "alternative_names": [],
+        "scientific_name": "allium porrum",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Leeks in United Kingdom - warm/temperate regions)",
+            "A member of the onion family.\nLooks rather like a large spring onion (scallion).\nGrow in seed trays or punnets until about 20 cm (8 in) tall. They look rather like large blades of grass at that stage. \nThen plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.\nTrenches should be about 20 - 25 cm (8 - 10 in) deep. Set the seedlings 10 - 15  cm (4 - 6 in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.\nOtherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3 - 4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.",
+            "Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",
+            "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Trim off the roots and any damaged leaves.\r\nYoung ones can be used whole with some of the green leaves.\r\nWash thoroughly as the earth tends to get inside.\r\nChop and fry in butter (or olive oil) until tender.\r\nCan be added to casserole meals, allowing time to cook through.\r\nLeek and mushroom make a tasty combination for a tart filling."
+        ]
+      }
+    }
+  ]
+}

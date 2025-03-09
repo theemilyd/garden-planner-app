@@ -1,0 +1,467 @@
+{
+  "name": "Sweet Potato",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - cool/mountain regions",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Potato in Australia - temperate regions)",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Potato in Australia - sub-tropical regions)",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Potato in Australia - tropical regions)",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Potato in New Zealand - temperate regions)",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - cool/mountain regions",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Potato in New Zealand - sub-tropical regions)",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Sweet Potato",
+        "alternative_names": [],
+        "scientific_name": "Ipomoea batatas",
+        "family": "Convolvulaceae / the morning glory family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Sweet Potato in United Kingdom - warm/temperate regions)",
+            "Sweet Potatoes require a long warm growing season. \nPlant in free draining loose soil.\nFertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.",
+            "Mound up the soil about 20 cm (8 in) before planting.\nLet the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days. then store in a cool dry place for up to five months.",
+            "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use mashed, boiled, roasted, baked or fried. Or use in soups, pies, casseroles, curries and salads."
+        ]
+      }
+    }
+  ]
+}

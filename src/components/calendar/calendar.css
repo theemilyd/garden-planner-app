@@ -1,0 +1,298 @@
+/* Global Seed Sowing Calendar CSS */
+
+/* Calendar Navigation Controls */
+.calendar-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.calendar-month-selector {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.month-selector-btn {
+  padding: 0.5rem 1rem;
+  background-color: var(--sage-50);
+  border: 1px solid var(--sage-200);
+  color: var(--sage-800);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+  font-weight: 500;
+}
+
+.month-selector-btn.active {
+  background-color: var(--sage-600);
+  color: white;
+  border-color: var(--sage-600);
+}
+
+.month-selector-btn:hover:not(.active) {
+  background-color: var(--sage-100);
+  border-color: var(--sage-300);
+}
+
+/* Calendar Container */
+.calendar-wrapper {
+  position: relative;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.calendar-container {
+  overflow-x: auto;
+  width: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: var(--sage-400) var(--sage-100);
+  padding-bottom: 0.5rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.calendar-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.calendar-container::-webkit-scrollbar-track {
+  background: var(--sage-100);
+  border-radius: 10px;
+}
+
+.calendar-container::-webkit-scrollbar-thumb {
+  background-color: var(--sage-400);
+  border-radius: 10px;
+}
+
+/* Calendar Grid Structure */
+.calendar-grid {
+  width: auto;
+  min-width: 100%;
+  display: grid;
+  grid-template-columns: 180px repeat(11, minmax(90px, 1fr)) minmax(110px, 1fr); /* December gets extra width */
+  gap: 8px; /* Increased gap between cells */
+  padding-right: 50px; /* Extra right padding */
+  margin-right: 16px; /* Additional space to ensure visibility */
+  position: relative;
+  /* Force minimum width to ensure all months are visible */
+  min-width: calc(180px + (11 * 90px) + 110px + (12 * 8px) + 50px);
+  table-layout: fixed; /* When using table display in print mode */
+}
+
+.calendar-header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  font-size: 0.8rem;
+  padding: 12px 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+/* Special styling for December header to ensure visibility */
+.calendar-header:last-child {
+  min-width: 110px; /* Ensure December has enough space */
+  position: relative;
+  margin-right: 16px; /* Extra margin on the right */
+  padding-right: 16px; /* Extra padding on the right */
+}
+
+.header-row {
+  display: contents;
+}
+
+.plant-row {
+  display: contents;
+}
+
+.plant-name-cell {
+  position: sticky;
+  left: 0;
+  z-index: 4;
+  background-color: var(--sage-50);
+  font-weight: 500;
+}
+
+/* Plant Tags */
+.plant-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.plant-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 0.75rem;
+  background-color: var(--sage-50);
+  border: 1px solid var(--sage-200);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.plant-tag:hover {
+  background-color: var(--sage-100);
+  border-color: var(--sage-300);
+  transform: translateY(-2px);
+}
+
+.plant-tag-icon {
+  margin-right: 0.5rem;
+  color: var(--sage-600);
+}
+
+/* Calendar Controls */
+.calendar-controls {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  pointer-events: none;
+  z-index: 3;
+}
+
+.scroll-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  pointer-events: auto;
+  transition: all 0.3s ease;
+  opacity: 0.7;
+}
+
+.scroll-btn:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.scroll-btn-left {
+  margin-left: -20px;
+}
+
+.scroll-btn-right {
+  margin-right: -20px;
+}
+
+/* Print Styles */
+@media print {
+  /* Styling for print mode */
+  .print-hidden, 
+  .calendar-navigation,
+  .calendar-month-selector,
+  .calendar-controls,
+  .scroll-btn {
+    display: none !important;
+  }
+  
+  .calendar-container {
+    overflow: visible;
+  }
+  
+  .calendar-grid {
+    display: table;
+    width: 100%;
+    page-break-before: auto;
+    page-break-after: auto;
+    page-break-inside: avoid;
+  }
+  
+  .header-row, .plant-row {
+    display: table-row;
+    page-break-inside: avoid;
+  }
+  
+  .calendar-header, .plant-name-cell, .calendar-cell {
+    display: table-cell;
+    page-break-inside: avoid;
+  }
+  
+  .calendar-header {
+    position: static;
+  }
+  
+  .plant-name-cell {
+    position: static;
+  }
+}
+
+/* Responsive styling */
+@media (max-width: 991px) {
+  .calendar-grid {
+    grid-template-columns: 150px repeat(12, minmax(80px, 1fr));
+  }
+  
+  .month-selector-btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .calendar-grid {
+    grid-template-columns: 120px repeat(12, minmax(70px, 1fr));
+  }
+  
+  .calendar-header,
+  .plant-name-cell {
+    font-size: 0.8rem;
+    padding: 10px 6px;
+  }
+  
+  .plant-tags {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .plant-tag {
+    width: 100%;
+  }
+  
+  .scroll-btn {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+@media (max-width: 576px) {
+  .calendar-grid {
+    grid-template-columns: 100px repeat(12, minmax(60px, 1fr));
+  }
+  
+  .calendar-header {
+    padding: 8px 4px;
+    font-size: 0.75rem;
+  }
+  
+  .plant-name-cell {
+    font-size: 0.75rem;
+    padding: 8px 6px;
+  }
+  
+  .month-selector-btn {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.8rem;
+  }
+}

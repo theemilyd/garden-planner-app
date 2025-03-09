@@ -1,0 +1,432 @@
+{
+  "name": "Cowpeas",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - cool/mountain regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cowpeas in Australia - temperate regions)",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cowpeas in Australia - sub-tropical regions)",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Cowpeas in Australia - tropical regions)",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - temperate regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - cool/mountain regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - sub-tropical regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Cowpeas",
+        "alternative_names": [],
+        "scientific_name": "Vigna Unguiculata",
+        "family": "Fabaceae / the pea or legume family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - warm/temperate regions",
+            "Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.\nThey are an ancient food source and have probably been used since Neolithic times.",
+            "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Young leaves can be cooked and used like spinach and are very high in protein. The young pods are edible."
+        ]
+      }
+    }
+  ]
+}

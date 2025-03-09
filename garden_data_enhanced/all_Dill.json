@@ -1,0 +1,536 @@
+{
+  "name": "Dill",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in United Kingdom - cool/temperate regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "T",
+            "P"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in Australia - cool/mountain regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in Australia - temperate regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "T",
+            "P"
+          ],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in Australia - sub-tropical regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in Australia - tropical regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in New Zealand - temperate regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in New Zealand - cool/mountain regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in New Zealand - sub-tropical regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in United Kingdom - cool/temperate regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Dill",
+        "alternative_names": [],
+        "scientific_name": "Anethum graveolens",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Dill in United Kingdom - warm/temperate regions)",
+            "Dill is best grown as an annual.\nIt is easy to grow from seed and will produce wispy leaves growing on a single stem about 75 cm (30 in) high, which can be harvested about eight weeks after sowing.\nOnce the plant will begins to produce flower heads, the leaf production will stop.\nDill, like most herbs, grows best in the sun, but will tolerate afternoon shade.\nDill grows up to 1 m (36 in) tall, so plant it in the back of your flower, vegetable or herb garden.\nSow seeds close together. This will allow the plants, which blow over easily, to support each other.",
+            "If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.",
+            "Repeat sow for a regular supply of leaves.",
+            "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Dill leaves can be used fresh or dried in salads, meats, vegetable dishes and soups. \r\nFreshly cut leaves enhance the flavour of dips, herb butter, soups, salads, fish dishes, and salads. \r\nBoth the flowering heads and seeds are used in flavoured vinegars and oils. \r\nUsed whole or ground, the seeds add zest to bread, cheese, and salad dressing."
+        ]
+      }
+    }
+  ]
+}

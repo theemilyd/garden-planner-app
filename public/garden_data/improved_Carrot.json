@@ -1,0 +1,608 @@
+{
+  "name": "Carrot",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in United Kingdom - cool/temperate regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Be the first to post a question or tip from the  United Kingdom",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in Australia - cool/mountain regions)",
+            "January: water well",
+            "September: broadcast sow",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in Australia - temperate regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in Australia - sub-tropical regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in Australia - tropical regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in New Zealand - temperate regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in New Zealand - cool/mountain regions)",
+            "January: water well",
+            "September: broadcast sow",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in New Zealand - sub-tropical regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in United Kingdom - cool/temperate regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Be the first to post a question or tip from the  United Kingdom",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Daucus carota",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Carrot in United Kingdom - warm/temperate regions)",
+            "A hardy root vegetable which grows well in deep cool soil.",
+            "Carrots take about 3 weeks to show themselves and the first leaves look like grass.",
+            "If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.",
+            "Over fertilised ground will produce split roots.\nProtect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",
+            "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads",
+            "Be the first to post a question or tip from the  United Kingdom",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steamed or raw carrots are tasty. Cook them in a small amount of water until nearly dry then add a pat of butter and teaspoon of brown sugar to glaze. \r\nThey can be added to most casserole-type dishes. \r\nGrate raw carrots and add to salads"
+        ]
+      }
+    }
+  ]
+}

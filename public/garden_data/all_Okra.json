@@ -1,0 +1,495 @@
+{
+  "name": "Okra",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - cool/mountain regions",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Okra in Australia - temperate regions)",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T",
+            "P"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Okra in Australia - sub-tropical regions)",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "T",
+            "P"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Okra in Australia - tropical regions)",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Okra in New Zealand - temperate regions)",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - cool/mountain regions",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [
+            "P"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Okra in New Zealand - sub-tropical regions)",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Okra",
+        "alternative_names": [],
+        "scientific_name": "Abelmoschus esculentus",
+        "family": "Malvaceae / the mallow family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - warm/temperate regions",
+            "Raise seedlings in a similar way to capsicums - warmth is essential.\nPick pods when they are about 5 - 8 cm (2 - 4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!",
+            "Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked).",
+            "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use pods cut or whole in soups or casseroles as a boiled vegetable, or stirfry. \r\nFreeze uncut okra pods for using later - they'll keep for months frozen."
+        ]
+      }
+    }
+  ]
+}

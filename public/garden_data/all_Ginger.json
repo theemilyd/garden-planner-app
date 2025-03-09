@@ -1,0 +1,495 @@
+{
+  "name": "Ginger",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - cool/mountain regions",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Ginger in Australia - temperate regions)",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Ginger in Australia - sub-tropical regions)",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Ginger in Australia - tropical regions)",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - temperate regions",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - cool/mountain regions",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Ginger in New Zealand - sub-tropical regions)",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - cool/temperate regions",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Ginger",
+        "alternative_names": [],
+        "scientific_name": "Zingiber Officinale",
+        "family": "Zingiberaceae / the ginger family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in United Kingdom - warm/temperate regions",
+            "Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.\nPrepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.\nThis perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.",
+            "Harvesting Ginger:\nYou can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout.",
+            "You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.",
+            "Let plants become well established before harvesting - it is often best to wait until the second growing season.",
+            "Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating.",
+            "Ginger can be grown in pots. The best growing temperature is around 25 - 30 C (75 - 85 F)",
+            "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Ginger root freezes well either whole or grated, and can be used direct from the freezer in most recipes requiring fresh ginger."
+        ]
+      }
+    }
+  ]
+}

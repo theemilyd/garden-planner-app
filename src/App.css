@@ -1,0 +1,1622 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Modernized sage green color palette */
+  --sage-900: #253B30;
+  --sage-800: #3A5648;
+  --sage-700: #506B5D;
+  --sage-600: #648170;
+  --sage-500: #7A9688;
+  --sage-400: #93ADA1;
+  --sage-300: #ADC3BA;
+  --sage-200: #C7D8D1;
+  --sage-100: #E2EDE8;
+  --sage-50: #F3F8F6;
+  
+  /* Complementary accent colors */
+  --terracotta: #E07A5F;
+  --gold: #F2CC8F;
+  --lavender: #B185DB;
+  --sky: #81B5D0;
+  
+  /* UI Elements */
+  --text-color: #2F3438;
+  --light-text: #6c757d;
+  --background: #FCFCFC;
+  --card-bg: #FFFFFF;
+  --border-color: #E8EAED;
+  --border-radius-sm: 8px;
+  --border-radius: 12px;
+  --border-radius-lg: 16px;
+  --box-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --box-shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --transition: all 0.3s ease;
+  
+  /* Functional colors */
+  --indoor-color: var(--sage-300);
+  --outdoor-color: var(--sage-600);
+  --alert-color: var(--gold);
+  --alert-border: #E6B65F;
+  --success-color: var(--sage-600);
+  --danger-color: #E07A5F;
+  --warning-color: var(--gold);
+  --info-color: var(--sky);
+  
+  /* Plant categories */
+  --vegetable-color: var(--sage-600);
+  --herb-color: var(--sage-400);
+  --flower-color: var(--lavender);
+  --fruit-color: var(--terracotta);
+  
+  /* Overlays and modals */
+  --modal-overlay: rgba(0, 0, 0, 0.4);
+  
+  /* Difficulty levels */
+  --difficulty-easy: var(--sage-400);
+  --difficulty-moderate: var(--gold);
+  --difficulty-difficult: var(--terracotta);
+  
+  /* Subscription tiers */
+  --tier-free: var(--sage-200);
+  --tier-premium: var(--sage-600);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--background);
+  color: var(--text-color);
+  line-height: 1.6;
+  min-height: 100vh;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', serif;
+  color: var(--sage-800);
+  line-height: 1.3;
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+}
+
+/* Loading animation */
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: var(--background);
+}
+
+.loader {
+  border: 5px solid var(--light-mint);
+  border-radius: 50%;
+  border-top: 5px solid var(--forest-green);
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+  margin-bottom: 20px;
+}
+
+.loading-screen h2 {
+  color: var(--forest-green);
+  font-size: 1.5rem;
+  margin-top: 20px;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}
+
+/* Layout containers */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.app-main {
+  flex: 1;
+  padding: 32px 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 24px;
+}
+
+.col-6 {
+  grid-column: span 6;
+}
+
+.col-4 {
+  grid-column: span 4;
+}
+
+.col-8 {
+  grid-column: span 8;
+}
+
+@media (max-width: 991px) {
+  .col-6 {
+    grid-column: span 12;
+  }
+  
+  .col-4 {
+    grid-column: span 6;
+  }
+  
+  .col-8 {
+    grid-column: span 12;
+  }
+}
+
+@media (max-width: 768px) {
+  .col-4 {
+    grid-column: span 12;
+  }
+}
+
+/* Cards and Components */
+.card {
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow-sm);
+  border: 1px solid var(--border-color);
+  margin-bottom: 2rem;
+  overflow: hidden;
+  transition: var(--transition);
+  height: 100%;
+}
+
+.card:hover {
+  box-shadow: var(--box-shadow);
+  transform: translateY(-2px);
+}
+
+.card-header {
+  background: linear-gradient(to right, var(--sage-600), var(--sage-700));
+  color: white;
+  font-family: 'Lora', serif;
+  border-bottom: none;
+  padding: 1.25rem 1.5rem;
+  font-weight: 500;
+}
+
+.card-header.light {
+  background: linear-gradient(to right, var(--sage-400), var(--sage-500));
+  color: white;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card-footer {
+  background-color: var(--sage-50);
+  border-top: 1px solid var(--border-color);
+  padding: 1rem 1.5rem;
+}
+
+/* Buttons */
+.btn {
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  padding: 0.625rem 1.25rem;
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 0.01em;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn-icon {
+  margin-right: 0.5rem;
+}
+
+.btn-primary {
+  background: linear-gradient(to right, var(--sage-600), var(--sage-700));
+  border-color: var(--sage-700);
+  color: white;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+  background: linear-gradient(to right, var(--sage-700), var(--sage-800));
+  border-color: var(--sage-800);
+}
+
+.btn-secondary {
+  background: linear-gradient(to right, var(--sage-400), var(--sage-500));
+  border-color: var(--sage-500);
+  color: white;
+}
+
+.btn-secondary:hover, .btn-secondary:focus {
+  background: linear-gradient(to right, var(--sage-500), var(--sage-600));
+  border-color: var(--sage-600);
+}
+
+.btn-outline-primary {
+  background-color: transparent;
+  border: 1px solid var(--sage-600);
+  color: var(--sage-600);
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:focus {
+  background-color: var(--sage-600);
+  color: white;
+  border-color: var(--sage-600);
+}
+
+.btn-accent {
+  background: linear-gradient(to right, var(--terracotta), #DF6B4F);
+  border-color: var(--terracotta);
+  color: white;
+}
+
+.btn-accent:hover, .btn-accent:focus {
+  background: linear-gradient(to right, #DF6B4F, #DD5C3F);
+  border-color: #DD5C3F;
+}
+
+.btn-group {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-ripple:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle, white 10%, transparent 10%);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transform: scale(10, 10);
+  opacity: 0;
+  transition: transform 0.5s, opacity 0.5s;
+}
+
+.btn-ripple:active:after {
+  transform: scale(0, 0);
+  opacity: 0.3;
+  transition: 0s;
+}
+
+/* Navigation */
+.navbar {
+  background: linear-gradient(to right, var(--sage-600), var(--sage-700));
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-brand {
+  font-family: 'Lora', serif;
+  font-weight: 600;
+  color: white;
+  letter-spacing: 0.02em;
+  font-size: 1.5rem;
+}
+
+.navbar-brand:hover {
+  color: white;
+  opacity: 0.9;
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.9);
+  transition: var(--transition);
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  position: relative;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: white;
+}
+
+.nav-link:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: white;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover:after, .nav-link.active:after {
+  width: 80%;
+}
+
+/* Forms */
+.form-label {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: var(--sage-800);
+  font-size: 0.9rem;
+}
+
+.form-control, .form-select {
+  border-radius: var(--border-radius-sm);
+  border: 1px solid var(--border-color);
+  padding: 0.75rem 1rem;
+  transition: var(--transition);
+  font-size: 1rem;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.03);
+  background-color: white;
+}
+
+.form-control::placeholder {
+  color: var(--light-text);
+  opacity: 0.7;
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--sage-500);
+  box-shadow: 0 0 0 3px rgba(122, 150, 136, 0.15);
+  outline: none;
+}
+
+.form-floating > .form-control,
+.form-floating > .form-select {
+  height: calc(3.5rem + 2px);
+  padding: 1.25rem 1rem;
+}
+
+.form-floating > label {
+  padding: 1rem;
+  transition: var(--transition);
+}
+
+.form-floating > .form-control:focus ~ label,
+.form-floating > .form-control:not(:placeholder-shown) ~ label,
+.form-floating > .form-select ~ label {
+  opacity: 0.75;
+  transform: scale(0.85) translateY(-0.75rem) translateX(0.15rem);
+  color: var(--sage-600);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  background-color: white;
+}
+
+.form-group {
+  margin-bottom: 1.25rem;
+}
+
+.form-text {
+  color: var(--light-text);
+  font-size: 0.85rem;
+  margin-top: 0.35rem;
+}
+
+/* Badges and Tags */
+.badge {
+  font-weight: 500;
+  padding: 0.35em 0.65em;
+  border-radius: 4px;
+}
+
+.badge-premium {
+  background-color: var(--marigold);
+  color: var(--text-color);
+}
+
+/* Calendar Specific Styles */
+.calendar-container {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 1.5rem;
+  padding-bottom: 1rem; /* Prevent scrollbar from cutting off bottom */
+  padding-right: 2rem; /* Extra padding on the right to ensure December shows */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  position: relative; /* For positioning controls */
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: var(--sage-400) var(--sage-100); /* Firefox */
+}
+
+/* Custom scrollbar for better visibility */
+.calendar-container::-webkit-scrollbar {
+  height: 10px;
+}
+
+.calendar-container::-webkit-scrollbar-track {
+  background: var(--sage-100);
+  border-radius: 10px;
+}
+
+.calendar-container::-webkit-scrollbar-thumb {
+  background-color: var(--sage-400);
+  border-radius: 10px;
+  border: 2px solid var(--sage-100);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: 200px repeat(12, minmax(95px, 1fr));
+  gap: 8px; /* Increased gap for better separation */
+  min-width: 1350px; /* Increased to ensure all months are fully visible */
+  padding-right: 50px; /* Extra padding to ensure December is fully visible */
+  margin-right: 16px; /* Additional margin to prevent cutoff */
+  overflow: visible; /* Ensure no hidden overflow */
+  border-spacing: 2px; /* Additional spacing between grid cells */
+}
+
+.calendar-header {
+  background: linear-gradient(to right, var(--sage-600), var(--sage-700));
+  color: white;
+  padding: 0.75rem 0.25rem; /* Reduced horizontal padding */
+  text-align: center;
+  font-weight: 500;
+  border-radius: var(--border-radius-sm);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  font-family: 'Lora', serif;
+  text-transform: uppercase;
+  font-size: 0.8rem; /* Slightly smaller font */
+  letter-spacing: 0.03em; /* Reduced letter spacing */
+  box-shadow: var(--box-shadow-sm);
+  white-space: nowrap; /* Prevent text wrapping */
+  overflow: hidden; /* Hide overflow */
+  text-overflow: ellipsis; /* Show ellipsis for overflow */
+  min-width: 0; /* Allow column to shrink properly */
+}
+
+.calendar-scroll-controls {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0.5rem;
+  gap: 0.5rem;
+}
+
+.calendar-scroll-btn {
+  background-color: var(--sage-100);
+  border: 1px solid var(--sage-300);
+  color: var(--sage-800);
+  border-radius: var(--border-radius-sm);
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  transition: var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calendar-scroll-btn:hover {
+  background-color: var(--sage-200);
+  color: var(--sage-900);
+}
+
+.calendar-row {
+  display: contents;
+}
+
+.calendar-plant {
+  background-color: var(--sage-200);
+  color: var(--text-color);
+  padding: 0.75rem 0.5rem;
+  border-radius: var(--border-radius-sm);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 500;
+  box-shadow: var(--box-shadow-sm);
+  position: sticky;
+  left: 0;
+  z-index: 5;
+}
+
+.calendar-cell {
+  height: 40px;
+  border-radius: var(--border-radius-sm);
+  transition: var(--transition);
+  position: relative;
+}
+
+.calendar-cell:hover {
+  transform: scale(1.05);
+  z-index: 15;
+  box-shadow: var(--box-shadow-sm);
+}
+
+.calendar-indoor {
+  background: linear-gradient(135deg, var(--sage-300), var(--sage-200));
+  opacity: 0.85;
+}
+
+.calendar-outdoor {
+  background: linear-gradient(135deg, var(--sage-600), var(--sage-500));
+}
+
+.calendar-harvest {
+  background: linear-gradient(135deg, var(--gold), #F7D6A0);
+}
+
+.calendar-tooltip {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--text-color);
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.8rem;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 20;
+  box-shadow: var(--box-shadow);
+}
+
+.calendar-cell:hover .calendar-tooltip {
+  opacity: 1;
+}
+
+.calendar-legend {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  font-size: 0.85rem;
+}
+
+.legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+/* Microclimate Adjustment Styles */
+.microclimate-card {
+  border-left: 4px solid var(--sage);
+}
+
+.microclimate-factor {
+  margin-bottom: 1rem;
+}
+
+.factor-label {
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.factor-value {
+  background-color: var(--light-mint);
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  display: inline-block;
+}
+
+.adjustment-result {
+  background-color: var(--light-mint);
+  border-radius: 6px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.adjustment-value {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--forest-green);
+}
+
+/* Succession Planting Styles */
+.succession-timeline {
+  margin: 1.5rem 0;
+  position: relative;
+  height: 180px;
+}
+
+.timeline-base {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #ccc;
+}
+
+.planting-marker {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: var(--forest-green);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+.growing-line {
+  position: absolute;
+  height: 4px;
+  background-color: var(--sage);
+  bottom: 19px;
+  z-index: 1;
+}
+
+.harvest-bar {
+  position: absolute;
+  height: 24px;
+  background-color: var(--marigold);
+  border-radius: 4px;
+  bottom: 30px;
+  opacity: 0.7;
+  z-index: 1;
+}
+
+.month-marker {
+  position: absolute;
+  bottom: 0;
+  transform: translateX(-50%);
+}
+
+.month-marker::before {
+  content: "";
+  display: block;
+  height: 10px;
+  width: 2px;
+  background-color: #666;
+  margin: 0 auto;
+}
+
+.month-label {
+  font-size: 0.75rem;
+  text-align: center;
+  margin-top: 5px;
+  color: #666;
+}
+
+/* Weather Widget Styles */
+.weather-card {
+  background-color: var(--cream);
+  overflow: hidden;
+}
+
+.weather-current {
+  text-align: center;
+  padding: 1rem;
+}
+
+.temperature-display {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: var(--forest-green);
+}
+
+.condition-text {
+  color: var(--light-text);
+  text-transform: capitalize;
+}
+
+.weather-details {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.weather-detail {
+  padding: 0.5rem;
+}
+
+.detail-icon {
+  color: var(--forest-green);
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.detail-label {
+  font-size: 0.75rem;
+  color: var(--light-text);
+}
+
+.detail-value {
+  font-weight: 500;
+}
+
+.forecast-scroll {
+  display: flex;
+  overflow-x: auto;
+  padding: 0.5rem 0;
+  margin: 0 -0.5rem;
+}
+
+.forecast-day {
+  min-width: 80px;
+  text-align: center;
+  padding: 0.75rem 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.day-name {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.day-temp {
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+.soil-temperature {
+  background-color: var(--sage);
+  border-radius: 6px;
+  padding: 1rem;
+  margin-top: 1rem;
+  color: white;
+}
+
+.soil-value {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.soil-guidance {
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.frost-risk {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+.frost-risk.high {
+  background-color: var(--danger-color);
+  color: white;
+}
+
+.frost-risk.moderate {
+  background-color: var(--warning-color);
+  color: var(--text-color);
+}
+
+.frost-risk.low {
+  background-color: var(--success-color);
+  color: white;
+}
+
+.risk-value {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* Historical Success Tracking */
+.historical-chart {
+  height: 250px;
+  margin: 1rem 0;
+}
+
+.history-card {
+  margin-bottom: 1rem;
+  border-left: 4px solid var(--sage);
+}
+
+.history-metric {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.metric-label {
+  flex: 1;
+  font-weight: 500;
+}
+
+.metric-value {
+  font-weight: 600;
+  color: var(--forest-green);
+}
+
+.progress-bar {
+  height: 8px;
+  background-color: #e9ecef;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 0.25rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--sage);
+  border-radius: 4px;
+}
+
+/* PDF Export Styles */
+.export-options {
+  margin-top: 1rem;
+}
+
+.export-type {
+  margin-bottom: 1rem;
+}
+
+.template-preview {
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-top: 1rem;
+  background-color: white;
+}
+
+/* Empty State Designs */
+.empty-state {
+  padding: 3rem 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--light-text);
+  background-color: var(--sage-50);
+  border-radius: var(--border-radius);
+  border: 1px dashed var(--sage-300);
+}
+
+.empty-state-icon {
+  font-size: 3rem;
+  color: var(--sage-400);
+  margin-bottom: 1.5rem;
+}
+
+.empty-state-illustration {
+  width: 160px;
+  height: 160px;
+  margin-bottom: 1.5rem;
+  background-color: var(--sage-100);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.empty-state-illustration:before {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-color: var(--sage-200);
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.empty-state-illustration:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 80px;
+  background-color: var(--sage-300);
+  border-radius: 20px;
+  transform: rotate(45deg);
+  top: 40px;
+  right: 60px;
+  z-index: 0;
+}
+
+.empty-state-title {
+  font-family: 'Lora', serif;
+  font-size: 1.25rem;
+  color: var(--sage-800);
+  margin-bottom: 0.75rem;
+}
+
+.empty-state-text {
+  margin-bottom: 1.5rem;
+  max-width: 400px;
+  line-height: 1.5;
+}
+
+/* Premium Features Promotion */
+.premium-feature {
+  position: relative;
+  padding-top: 2rem;
+}
+
+.premium-badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: linear-gradient(to right, var(--gold), #F4D4A3);
+  color: var(--text-color);
+  padding: 0.35rem 0.6rem;
+  border-radius: var(--border-radius-sm);
+  font-size: 0.75rem;
+  font-weight: 600;
+  box-shadow: var(--box-shadow-sm);
+}
+
+.premium-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(3px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  border-radius: var(--border-radius);
+}
+
+.premium-message {
+  background: linear-gradient(to right, var(--gold), #F4D4A3);
+  color: var(--text-color);
+  padding: 1.5rem 2rem;
+  border-radius: var(--border-radius);
+  text-align: center;
+  max-width: 80%;
+  box-shadow: var(--box-shadow);
+  animation: floatUpDown 4s ease-in-out infinite;
+}
+
+.premium-message h4 {
+  margin-bottom: 0.75rem;
+  color: var(--sage-900);
+}
+
+@keyframes floatUpDown {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Location Detection */
+.location-controls {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.location-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.location-toggle-btn {
+  padding: 0.5rem 1rem;
+  background-color: var(--sage-100);
+  border: 1px solid var(--sage-300);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: var(--transition);
+  flex: 1;
+  text-align: center;
+  color: var(--sage-700);
+}
+
+.location-toggle-btn.active {
+  background-color: var(--sage-600);
+  color: white;
+  border-color: var(--sage-600);
+}
+
+.location-toggle-btn:first-child {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.location-toggle-btn:last-child {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+/* Responsiveness */
+@media (max-width: 1199.98px) {
+  .app-container {
+    width: 95%;
+  }
+  
+  h1 {
+    font-size: 2.25rem;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .app-main {
+    padding: 24px 0;
+  }
+  
+  .calendar-container {
+    position: relative;
+  }
+  
+  .calendar-scroll-controls {
+    position: sticky;
+    left: 0;
+    background-color: var(--background);
+    padding: 0.5rem 0;
+    z-index: 20;
+  }
+  
+  .card-header {
+    padding: 1rem 1.25rem;
+  }
+  
+  .card-body {
+    padding: 1.25rem;
+  }
+  
+  .empty-state {
+    padding: 2rem 1.5rem;
+  }
+  
+  .empty-state-illustration {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+  }
+  
+  .calendar-grid {
+    /* Grid remains same size, but container enables scrolling */
+    min-width: 900px;
+  }
+  
+  .calendar-header, .calendar-plant {
+    padding: 0.5rem 0.25rem;
+    font-size: 0.85rem;
+  }
+  
+  .container {
+    width: 95%;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+  
+  .card {
+    margin-bottom: 1.5rem;
+  }
+  
+  .card-body {
+    padding: 1.125rem;
+  }
+  
+  .weather-details {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .succession-timeline {
+    height: 150px;
+  }
+  
+  .btn {
+    padding: 0.5rem 1rem;
+  }
+  
+  .form-floating > .form-control {
+    height: calc(3.25rem + 2px);
+    padding: 1rem 0.75rem;
+  }
+  
+  .premium-message {
+    max-width: 90%;
+    padding: 1.25rem 1.5rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .app-main {
+    padding: 16px 0;
+  }
+  
+  h1 {
+    font-size: 1.75rem;
+  }
+  
+  h2 {
+    font-size: 1.4rem;
+  }
+  
+  .calendar-container .calendar-legend {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .calendar-container .legend-item {
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-row {
+    flex-direction: column;
+  }
+  
+  .form-group {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-bottom: 1rem;
+  }
+  
+  .card {
+    margin-bottom: 1.25rem;
+    border-radius: var(--border-radius-sm);
+  }
+  
+  .card-body {
+    padding: 1rem;
+  }
+  
+  .weather-current {
+    padding: 0.75rem;
+  }
+  
+  .temperature-display {
+    font-size: 2rem;
+  }
+  
+  .weather-details {
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 0.8rem;
+    gap: 0.5rem;
+  }
+  
+  .detail-icon {
+    font-size: 1rem;
+  }
+  
+  .forecast-day {
+    min-width: 60px;
+    padding: 0.5rem 0.25rem;
+  }
+  
+  .empty-state {
+    padding: 1.5rem 1rem;
+  }
+  
+  .empty-state-illustration {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 1rem;
+  }
+  
+  .empty-state-title {
+    font-size: 1.1rem;
+  }
+}
+
+/* Plant Type Filters */
+.plant-filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.plant-filter-item {
+  flex: 1;
+  min-width: 100px;
+  position: relative;
+}
+
+.plant-filter-input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.plant-filter-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background-color: var(--sage-50);
+  border: 1px solid var(--sage-200);
+  color: var(--sage-800);
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: center;
+}
+
+.plant-filter-input:checked + .plant-filter-label {
+  background-color: var(--sage-600);
+  color: white;
+  border-color: var(--sage-600);
+  box-shadow: var(--box-shadow-sm);
+}
+
+.plant-filter-label:hover {
+  background-color: var(--sage-100);
+  border-color: var(--sage-300);
+}
+
+.plant-filter-input:focus + .plant-filter-label {
+  box-shadow: 0 0 0 3px rgba(122, 150, 136, 0.25);
+}
+
+.plant-filter-input:checked:focus + .plant-filter-label {
+  box-shadow: 0 0 0 3px rgba(122, 150, 136, 0.35);
+}
+
+.plant-filter-icon {
+  margin-right: 0.5rem;
+}
+
+.plant-filter-input:checked + .plant-filter-label .plant-filter-icon {
+  transform: scale(1.2);
+}
+
+/* Selected Plants List */
+.selected-plants-list {
+  margin-top: 1rem;
+}
+
+.selected-plant-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background-color: white;
+  border: 1px solid var(--sage-200);
+  border-radius: var(--border-radius-sm);
+  margin-bottom: 0.75rem;
+  transition: var(--transition);
+}
+
+.selected-plant-item:hover {
+  border-color: var(--sage-400);
+  box-shadow: var(--box-shadow-sm);
+  transform: translateY(-2px);
+}
+
+.selected-plant-info {
+  display: flex;
+  align-items: center;
+}
+
+.selected-plant-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--sage-100);
+  border-radius: 50%;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+  color: var(--sage-700);
+}
+
+.selected-plant-name {
+  font-weight: 500;
+}
+
+.selected-plant-category {
+  font-size: 0.8rem;
+  color: var(--light-text);
+  margin-top: 0.25rem;
+}
+
+.selected-plant-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.btn-remove-plant {
+  color: var(--terracotta);
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: var(--transition);
+  padding: 0.25rem;
+  border-radius: 50%;
+}
+
+.btn-remove-plant:hover {
+  background-color: rgba(224, 122, 95, 0.1);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.slide-in {
+  animation: slideIn 0.3s ease-in-out;
+}
+
+.scale-in {
+  animation: scaleIn 0.3s ease-in-out;
+}
+
+/* Print Styles */
+@media print {
+  body {
+    background-color: white;
+    font-size: 12pt;
+    color: black;
+  }
+  
+  .app-container {
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar, 
+  .footer, 
+  .btn, 
+  .premium-overlay, 
+  .premium-badge,
+  .calendar-scroll-controls,
+  .plant-filter-group,
+  .empty-state-illustration,
+  .location-toggle,
+  .form-group.print-hide {
+    display: none !important;
+  }
+  
+  .card {
+    box-shadow: none !important;
+    border: 1px solid #ddd !important;
+    break-inside: avoid;
+    margin-bottom: 1cm;
+  }
+  
+  .calendar-container {
+    overflow: visible;
+    width: 100%;
+  }
+  
+  .calendar-grid {
+    display: table;
+    width: 100%;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    min-width: 100%;
+  }
+  
+  .calendar-row {
+    display: table-row;
+  }
+  
+  .calendar-header,
+  .calendar-plant,
+  .calendar-cell {
+    display: table-cell;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  
+  .calendar-header {
+    background-color: #f0f0f0 !important;
+    color: black !important;
+    border: 1px solid #ddd;
+    position: static;
+  }
+  
+  .calendar-plant {
+    background-color: #f0f0f0 !important;
+    color: black !important;
+    border: 1px solid #ddd;
+    position: static;
+  }
+  
+  .calendar-indoor {
+    background-color: #e0f0e8 !important;
+    background: none !important;
+    border: 1px solid #ddd;
+    position: static;
+  }
+  
+  .calendar-outdoor {
+    background-color: #c0e0d0 !important;
+    background: none !important;
+    border: 1px solid #ddd;
+  }
+  
+  .calendar-harvest {
+    background-color: #fff0c0 !important;
+    background: none !important;
+    border: 1px solid #ddd;
+  }
+  
+  .calendar-tooltip {
+    display: none !important;
+  }
+  
+  .export-options, .btn-export, .btn-back {
+    display: none !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+  
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  
+  .card-header {
+    background: none !important;
+    background-color: white !important;
+    color: black !important;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+  }
+  
+  /* Ensure December shows properly in print */
+  .calendar-header:last-child,
+  .calendar-cell:last-child {
+    display: table-cell !important;
+  }
+  
+  /* Add page breaks where needed */
+  .page-break-before {
+    page-break-before: always;
+    break-before: always;
+  }
+  
+  .page-break-after {
+    page-break-after: always;
+    break-after: always;
+  }
+  
+  /* Improve print coloring */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

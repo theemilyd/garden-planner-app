@@ -1,0 +1,521 @@
+{
+  "name": "Rutabaga",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in United Kingdom - cool/temperate regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in Australia - cool/mountain regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in Australia - temperate regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in Australia - sub-tropical regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "T",
+            "P"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in Australia - tropical regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in New Zealand - temperate regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in New Zealand - cool/mountain regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in New Zealand - sub-tropical regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in United Kingdom - cool/temperate regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Rutabaga",
+        "alternative_names": [],
+        "scientific_name": "Brassica napus var.napobrassica",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rutabaga in United Kingdom - warm/temperate regions)",
+            "Related to turnips.\nRound root vegetable with creamy white flesh and reddish purple leaves.",
+            "They take about 3 to 4 months to grow.",
+            "Grow where beans or peas have been grown the year before.",
+            "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use when about the size of a tennis ball.\r\nThe leaves can be cooked  like cabbage when young."
+        ]
+      }
+    }
+  ]
+}

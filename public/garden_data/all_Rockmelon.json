@@ -1,0 +1,536 @@
+{
+  "name": "Rockmelon",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in United Kingdom - cool/temperate regions)",
+            "April: Grow in greenhouse",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in Australia - cool/mountain regions)",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in Australia - temperate regions)",
+            "September: Frost tender",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in Australia - sub-tropical regions)",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in Australia - tropical regions)",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in New Zealand - temperate regions)",
+            "September: Frost tender",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in New Zealand - cool/mountain regions)",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in New Zealand - sub-tropical regions)",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in United Kingdom - cool/temperate regions)",
+            "April: Grow in greenhouse",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Rockmelon",
+        "alternative_names": [],
+        "scientific_name": "Cucumis melo",
+        "family": "Cucurbitaceae / the gourd family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Rockmelon in United Kingdom - warm/temperate regions)",
+            "April: Grow in greenhouse",
+            "Start in small pots then transplant when no danger of frosts.\nPlant into a raised mound to provide good drainage and warmth.\nProvide plenty of water.",
+            "Ready to use when the fruit falls from the vine.",
+            "In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.",
+            "Rockmelons may need hand pollination with a soft brush.",
+            "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Cut in half and scoop out and discard the seeds.\r\nSprinkle with some ground ginger or serve plain."
+        ]
+      }
+    }
+  ]
+}

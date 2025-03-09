@@ -1,0 +1,482 @@
+{
+  "name": "Angelica",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in United Kingdom - cool/temperate regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in Australia - cool/mountain regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in Australia - temperate regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "T",
+            "P"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in Australia - sub-tropical regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in Australia - tropical regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in New Zealand - temperate regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in New Zealand - cool/mountain regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in New Zealand - sub-tropical regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in United Kingdom - cool/temperate regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Angelica",
+        "alternative_names": [],
+        "scientific_name": "Angelica archangelica",
+        "family": "Apiaceae / the umbelliferae family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Angelica in United Kingdom - warm/temperate regions)",
+            "Angelica is a biennial herb-growing the first year and flowering the second.\nAngelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.\nYoung plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.",
+            "NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",
+            "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "The stems can be candied and used to decorate cakes and pastries.\n\r\nPick the stems in the second year."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "name": "Brussels sprouts",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in United Kingdom - cool/temperate regions)",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in Australia - cool/mountain regions)",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in Australia - temperate regions)",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - sub-tropical regions",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in Australia - tropical regions",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S",
+            "T"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in New Zealand - temperate regions)",
+            "February: prick out into pots and grow on to 10-15cm tall",
+            "March: add lime to acid soils : add nitrogen when 1/2 grown",
+            "April: allow 60-75 cm each way between plants",
+            "May: keep well watered",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in New Zealand - cool/mountain regions)",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "Not recommended for growing in New Zealand - sub-tropical regions",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in United Kingdom - cool/temperate regions)",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Brussels sprouts",
+        "alternative_names": [],
+        "scientific_name": "Brassica sp.",
+        "family": "Brassicaceae / the mustard or cabbage family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T"
+          ],
+          "apr": [
+            "T"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Brussels sprouts in United Kingdom - warm/temperate regions)",
+            "Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.",
+            "Suited to growing in cooler climates.",
+            "Brussel Sprouts will not grow good \"sprouts\" in warm areas - they open and are floppy.",
+            "In warm areas they are likely to become infested with aphids. Pick formed sprouts from the bottom of the stems leaving the plant growing. For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden: Educational Communication online Publishing Catalog Gardening www. cals.uidaho.edu/ edComm/catalog.asp.)",
+            "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Remove any discoloured outer leaves.\r\nCut in half and steam with other vegetables. \r\nDo not overcook as that produces the distinctive smell that puts people off eating Brussels sprouts!\r\nThey go well with a chopped tomato and onion mix.\r\nTraditionally served with roasted chestnuts for Xmas dinner in UK."
+        ]
+      }
+    }
+  ]
+}

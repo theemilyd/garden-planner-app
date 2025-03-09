@@ -1,0 +1,615 @@
+{
+  "name": "Tomato",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in United Kingdom - cool/temperate regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in Australia - cool/mountain regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in Australia - temperate regions)",
+            "August: Frost tender. Start undercover",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "T",
+            "P"
+          ],
+          "feb": [
+            "T"
+          ],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in Australia - sub-tropical regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in Australia - tropical regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in New Zealand - temperate regions)",
+            "August: Frost tender",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [
+            "T"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in New Zealand - cool/mountain regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in New Zealand - sub-tropical regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in United Kingdom - cool/temperate regions)",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Gardenate",
+        "scientific_name": "Lycopersicon esculentum",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Unknown",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Tomato in United Kingdom - warm/temperate regions)",
+            "January: GROW IN A Propagator with minimum temperature of 50-55F (10-12C)\r\nPlant out in March for June crops",
+            "April: Under cover",
+            "December: Grow in a heated glasshouse or propagator. Minimum temp 50-55F (10-12C)\r\nPlant out in early March (protect from frost) for June crops",
+            "There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets.",
+            "Tomatoes should be grown in shelter or under cover in cool climates.",
+            "Tomatoes like lots of food! In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding improves the flavour of the fruit.",
+            "When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.",
+            "There are many different varieties of tomatoes but they all have one of two growth habits.",
+            "Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp.",
+            "Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate.",
+            "Both types need stakes to give them some support otherwise they will sprawl across the garden.",
+            "Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",
+            "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces.",
+            "Put Gardenate in your pocket. Get our app for iPhone, \r\niPad or\r\nAndroid to add your own plants and record your plantings and harvests",
+            "Join 60,000+ gardeners who already use Gardenate and subscribe to the free Gardenate planting reminders email newsletter.",
+            "Home |\nVegetables and herbs to plant |\nClimate zones |\nAbout Gardenate |\nContact us |\nPrivacy Policy",
+            "This planting guide is a general reference intended for home gardeners. We recommend that you take into account your local conditions in making planting decisions. Gardenate is not a farming or commercial advisory service. For specific advice, please contact your local plant suppliers, gardening groups, or agricultural department.\nThe information on this site is presented in good faith, but we take no responsibility as to the accuracy of the information provided. \nWe cannot help if you are overrun by giant slugs."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Use in sauces, with fried meals, in sandwiches. Can be frozen whole or in pieces."
+        ]
+      }
+    }
+  ]
+}

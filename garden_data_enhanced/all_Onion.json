@@ -1,0 +1,533 @@
+{
+  "name": "Onion",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in United Kingdom - cool/temperate regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in Australia - cool/mountain regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in Australia - temperate regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in Australia - sub-tropical regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in Australia - tropical regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [
+            "T"
+          ],
+          "sep": [
+            "T",
+            "P"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in New Zealand - temperate regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [
+            "T"
+          ],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in New Zealand - cool/mountain regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [],
+          "apr": [
+            "T"
+          ],
+          "may": [
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [
+            "T"
+          ],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in New Zealand - sub-tropical regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in United Kingdom - cool/temperate regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Onion",
+        "alternative_names": [],
+        "scientific_name": "Allium cepa",
+        "family": "Amaryllidaceae / the onion family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Onion in United Kingdom - warm/temperate regions)",
+            "Onions come in a range of colours and shapes and sizes. \nBrown - strong flavour and pungent. Usually good keepers for storage.\nWhite - milder but still flavoursome. Keep fairly well.\nRed - Mild, suitable to use raw in salads and sandwiches.\nThe seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.",
+            "They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.",
+            "Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.\nChoose your variety according to your climate and the time of year as some onions will grow better in the cooler months .",
+            "Onion bulbs should sit on the surface of the soil. Do not cover.\nThey will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.\nPull them and leave to dry for a few days.\nStore in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",
+            "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Brown onions roasted whole with other vegetables are delicious.\r\nRed onions add colour to salads or stir-fry."
+        ]
+      }
+    }
+  ]
+}

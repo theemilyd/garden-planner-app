@@ -1,0 +1,126 @@
+{
+  "historical_averages": {
+    "us": {
+      "northeast": {
+        "winter": { "surface": 34, "4inch": 36, "8inch": 38 },
+        "spring": { "surface": 48, "4inch": 46, "8inch": 44 },
+        "summer": { "surface": 72, "4inch": 68, "8inch": 65 },
+        "fall": { "surface": 54, "4inch": 52, "8inch": 50 }
+      },
+      "southeast": {
+        "winter": { "surface": 45, "4inch": 47, "8inch": 49 },
+        "spring": { "surface": 60, "4inch": 58, "8inch": 56 },
+        "summer": { "surface": 82, "4inch": 78, "8inch": 75 },
+        "fall": { "surface": 65, "4inch": 63, "8inch": 61 }
+      },
+      "midwest": {
+        "winter": { "surface": 30, "4inch": 32, "8inch": 34 },
+        "spring": { "surface": 48, "4inch": 46, "8inch": 44 },
+        "summer": { "surface": 72, "4inch": 68, "8inch": 65 },
+        "fall": { "surface": 52, "4inch": 50, "8inch": 48 }
+      },
+      "southwest": {
+        "winter": { "surface": 50, "4inch": 52, "8inch": 54 },
+        "spring": { "surface": 65, "4inch": 63, "8inch": 61 },
+        "summer": { "surface": 90, "4inch": 86, "8inch": 83 },
+        "fall": { "surface": 70, "4inch": 68, "8inch": 66 }
+      },
+      "west": {
+        "winter": { "surface": 42, "4inch": 44, "8inch": 46 },
+        "spring": { "surface": 55, "4inch": 53, "8inch": 51 },
+        "summer": { "surface": 75, "4inch": 72, "8inch": 70 },
+        "fall": { "surface": 60, "4inch": 58, "8inch": 56 }
+      },
+      "northwest": {
+        "winter": { "surface": 38, "4inch": 40, "8inch": 42 },
+        "spring": { "surface": 50, "4inch": 48, "8inch": 46 },
+        "summer": { "surface": 68, "4inch": 66, "8inch": 64 },
+        "fall": { "surface": 55, "4inch": 53, "8inch": 51 }
+      }
+    },
+    "uk": {
+      "north": {
+        "winter": { "surface": 38, "4inch": 40, "8inch": 42 },
+        "spring": { "surface": 45, "4inch": 43, "8inch": 41 },
+        "summer": { "surface": 62, "4inch": 60, "8inch": 58 },
+        "fall": { "surface": 50, "4inch": 48, "8inch": 46 }
+      },
+      "midlands": {
+        "winter": { "surface": 40, "4inch": 42, "8inch": 44 },
+        "spring": { "surface": 48, "4inch": 46, "8inch": 44 },
+        "summer": { "surface": 65, "4inch": 63, "8inch": 61 },
+        "fall": { "surface": 52, "4inch": 50, "8inch": 48 }
+      },
+      "south": {
+        "winter": { "surface": 42, "4inch": 44, "8inch": 46 },
+        "spring": { "surface": 50, "4inch": 48, "8inch": 46 },
+        "summer": { "surface": 68, "4inch": 66, "8inch": 64 },
+        "fall": { "surface": 54, "4inch": 52, "8inch": 50 }
+      }
+    },
+    "canada": {
+      "atlantic": {
+        "winter": { "surface": 30, "4inch": 32, "8inch": 34 },
+        "spring": { "surface": 42, "4inch": 40, "8inch": 38 },
+        "summer": { "surface": 64, "4inch": 62, "8inch": 60 },
+        "fall": { "surface": 48, "4inch": 46, "8inch": 44 }
+      },
+      "central": {
+        "winter": { "surface": 26, "4inch": 28, "8inch": 30 },
+        "spring": { "surface": 40, "4inch": 38, "8inch": 36 },
+        "summer": { "surface": 68, "4inch": 66, "8inch": 64 },
+        "fall": { "surface": 45, "4inch": 43, "8inch": 41 }
+      },
+      "prairie": {
+        "winter": { "surface": 20, "4inch": 22, "8inch": 24 },
+        "spring": { "surface": 38, "4inch": 36, "8inch": 34 },
+        "summer": { "surface": 65, "4inch": 63, "8inch": 61 },
+        "fall": { "surface": 42, "4inch": 40, "8inch": 38 }
+      },
+      "west_coast": {
+        "winter": { "surface": 38, "4inch": 40, "8inch": 42 },
+        "spring": { "surface": 48, "4inch": 46, "8inch": 44 },
+        "summer": { "surface": 62, "4inch": 60, "8inch": 58 },
+        "fall": { "surface": 50, "4inch": 48, "8inch": 46 }
+      },
+      "northern": {
+        "winter": { "surface": 15, "4inch": 17, "8inch": 19 },
+        "spring": { "surface": 32, "4inch": 30, "8inch": 28 },
+        "summer": { "surface": 58, "4inch": 56, "8inch": 54 },
+        "fall": { "surface": 36, "4inch": 34, "8inch": 32 }
+      }
+    },
+    "australia": {
+      "northern": {
+        "summer": { "surface": 85, "4inch": 83, "8inch": 81 },
+        "fall": { "surface": 72, "4inch": 70, "8inch": 68 },
+        "winter": { "surface": 65, "4inch": 63, "8inch": 61 },
+        "spring": { "surface": 78, "4inch": 76, "8inch": 74 }
+      },
+      "central": {
+        "summer": { "surface": 80, "4inch": 78, "8inch": 76 },
+        "fall": { "surface": 68, "4inch": 66, "8inch": 64 },
+        "winter": { "surface": 60, "4inch": 58, "8inch": 56 },
+        "spring": { "surface": 72, "4inch": 70, "8inch": 68 }
+      },
+      "southern": {
+        "summer": { "surface": 75, "4inch": 73, "8inch": 71 },
+        "fall": { "surface": 65, "4inch": 63, "8inch": 61 },
+        "winter": { "surface": 55, "4inch": 53, "8inch": 51 },
+        "spring": { "surface": 68, "4inch": 66, "8inch": 64 }
+      }
+    }
+  },
+  "regional_factors": {
+    "urban_heat_island": 3,
+    "coastal": -2,
+    "mountain": -4,
+    "desert": 5,
+    "forest": -1
+  },
+  "thermal_lag": {
+    "air_to_surface": 1,
+    "surface_to_4inch": 2,
+    "surface_to_8inch": 3
+  }
+}

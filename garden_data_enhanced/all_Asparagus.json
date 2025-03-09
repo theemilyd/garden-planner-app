@@ -1,0 +1,492 @@
+{
+  "name": "Asparagus",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in United Kingdom - cool/temperate regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in Australia - cool/mountain regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in Australia - temperate regions)",
+            "August: frost tender",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in Australia - sub-tropical regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in Australia - tropical regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in New Zealand - temperate regions)",
+            "August: frost tender",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in New Zealand - cool/mountain regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in New Zealand - sub-tropical regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in United Kingdom - cool/temperate regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Asparagus",
+        "alternative_names": [],
+        "scientific_name": "Aspargus officianalis",
+        "family": "Asparagaceae / the asparagus family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Asparagus in United Kingdom - warm/temperate regions)",
+            "Plant crowns (roots) 20 - 40 cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1 - 2 cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5 m/5 - 6 ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.",
+            "Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.",
+            "Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",
+            "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Steaming is traditional, then coating with melted butter or hollandaise sauce. \r\nAlternatively break in short lengths, and cook quickly in hot oil in a wok and sprinkle with soy sauce or balsamic vinegar.\n\r\nNOTE: The asparagus berries are poisonous. Only the young shoots are edible."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "name": "Beetroot",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in United Kingdom - cool/temperate regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in Australia - cool/mountain regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in Australia - temperate regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T",
+            "P"
+          ],
+          "feb": [
+            "S",
+            "T",
+            "P"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jul": [
+            "S",
+            "T",
+            "P"
+          ],
+          "aug": [
+            "S",
+            "T",
+            "P"
+          ],
+          "sep": [
+            "S",
+            "T",
+            "P"
+          ],
+          "oct": [
+            "S",
+            "T",
+            "P"
+          ],
+          "nov": [
+            "S",
+            "T",
+            "P"
+          ],
+          "dec": [
+            "S",
+            "T",
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in Australia - sub-tropical regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S",
+            "T",
+            "P"
+          ],
+          "apr": [
+            "S",
+            "T",
+            "P"
+          ],
+          "may": [
+            "S",
+            "T",
+            "P"
+          ],
+          "jun": [
+            "T",
+            "P"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in Australia - tropical regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in New Zealand - temperate regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in New Zealand - cool/mountain regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S"
+          ],
+          "feb": [
+            "S"
+          ],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [
+            "S"
+          ],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "S"
+          ],
+          "dec": [
+            "S"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in New Zealand - sub-tropical regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [
+            "S"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in United Kingdom - cool/temperate regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Beetroot",
+        "alternative_names": [],
+        "scientific_name": "Beta vulgaris",
+        "family": "Amaranthaceae / the amaranth family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "55 - 70 days but will keep in ground for longer",
+          "additional_notes": [
+            "(Best months for growing Beetroot in United Kingdom - warm/temperate regions)",
+            "Soak seeds in water 24 hours before planting so that you can separate the seeds. \nThinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.\nHarvest in 55 - 70 days but will keep in ground for longer.",
+            "Keep well-watered as dry beetroot develop a woody and inedible core. Tip from the Italian Gardener \"Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.\" For tasty and tender beetroot, start harvesting at golfball-size.",
+            "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice.",
+            "Be the first to post a question or tip from the  United Kingdom"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Apart from boiling whole for salads, beetroot roast well, cut in wedges.\r\nThey also make a tasty salad grated raw with carrot and a little fresh orange juice."
+        ]
+      }
+    }
+  ]
+}

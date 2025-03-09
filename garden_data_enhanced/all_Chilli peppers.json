@@ -1,0 +1,530 @@
+{
+  "name": "Chilli peppers",
+  "zones": [
+    {
+      "zone_name": "Australia - arid",
+      "zone_number": 0,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - arid",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in United Kingdom - cool/temperate regions)",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - cool/mountain",
+      "zone_number": 1,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in Australia - cool/mountain regions)",
+            "September: After risk of frosts",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - sub-tropical",
+      "zone_number": 2,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in Australia - temperate regions)",
+            "August: sow in pots",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - temperate",
+      "zone_number": 3,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "S",
+            "T"
+          ],
+          "feb": [
+            "S",
+            "T"
+          ],
+          "mar": [
+            "T"
+          ],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S",
+            "T"
+          ],
+          "nov": [
+            "S",
+            "T"
+          ],
+          "dec": [
+            "S",
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in Australia - sub-tropical regions)",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "Australia - tropical",
+      "zone_number": 4,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "Australia - tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [
+            "S",
+            "T"
+          ],
+          "jun": [
+            "S",
+            "T"
+          ],
+          "jul": [
+            "T"
+          ],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in Australia - tropical regions)",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - cool/mountain",
+      "zone_number": 5,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - cool/mountain",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in New Zealand - temperate regions)",
+            "August: sow in pots",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - sub-tropical",
+      "zone_number": 6,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - sub-tropical",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "S"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "T"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in New Zealand - cool/mountain regions)",
+            "September: After risk of frosts",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "New Zealand - temperate",
+      "zone_number": 7,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "New Zealand - temperate",
+        "monthly_calendar": {
+          "jan": [
+            "P"
+          ],
+          "feb": [],
+          "mar": [],
+          "apr": [],
+          "may": [],
+          "jun": [],
+          "jul": [],
+          "aug": [
+            "S"
+          ],
+          "sep": [
+            "S"
+          ],
+          "oct": [
+            "T"
+          ],
+          "nov": [
+            "T"
+          ],
+          "dec": [
+            "P"
+          ]
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in New Zealand - sub-tropical regions)",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - cool/temperate",
+      "zone_number": 8,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - cool/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [],
+          "apr": [
+            "S"
+          ],
+          "may": [],
+          "jun": [
+            "T"
+          ],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in United Kingdom - cool/temperate regions)",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    },
+    {
+      "zone_name": "United Kingdom - warm/temperate",
+      "zone_number": 9,
+      "data": {
+        "plant_name": "Chilli peppers",
+        "alternative_names": [],
+        "scientific_name": "Capsicum sp.",
+        "family": "Solanaceae / the nightshade family",
+        "climate_zone": "United Kingdom - warm/temperate",
+        "monthly_calendar": {
+          "jan": [],
+          "feb": [],
+          "mar": [
+            "S"
+          ],
+          "apr": [],
+          "may": [
+            "T"
+          ],
+          "jun": [],
+          "jul": [],
+          "aug": [],
+          "sep": [],
+          "oct": [],
+          "nov": [],
+          "dec": []
+        },
+        "growing_info": {
+          "soil_temperature": "",
+          "spacing": "",
+          "harvest_time": "",
+          "additional_notes": [
+            "(Best months for growing Chilli peppers in United Kingdom - warm/temperate regions)",
+            "Small bushy plants. Dark green ovate leaves.",
+            "Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.",
+            "Most varieties need a long growing period to produce many fruit.",
+            "There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",
+            "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+          ]
+        },
+        "companion_plants": [],
+        "avoid_plants": [],
+        "culinary_hints": [
+          "Chillies freeze very well. Wash, dry, and free whole. Use them direct from the freezer (no need to defrost).\r\nWear plastic gloves or wash your hands thoroughly after handling and cutting to avoid accidentally rubbing chilli juice onto your mouth or eyes!"
+        ]
+      }
+    }
+  ]
+}
