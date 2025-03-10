@@ -198,3 +198,57 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Weather data providers
 - Claude 3.7 AI integration
 - The open-source gardening community
+
+## Deployment
+
+### Deploying to Render.com
+
+This application is configured for easy deployment on [Render.com](https://render.com) using Render's Blueprint feature.
+
+#### Prerequisites for Deployment
+
+1. A GitHub repository containing your PlantPerfectly application code
+2. A Render.com account
+3. A MongoDB Atlas database (or other MongoDB provider)
+
+#### Deployment Steps
+
+1. **Push your code to GitHub**:
+   ```
+   git add .
+   git commit -m "Prepare for deployment"
+   git push origin main
+   ```
+
+2. **Create a new Web Service on Render**:
+   - Log in to your Render.com account
+   - Click on "New +" and select "Blueprint"
+   - Connect your GitHub repository
+   - Render will automatically detect the `render.yaml` configuration file
+
+3. **Configure Environment Variables**:
+   - After the Blueprint is created, you'll need to set up the environment variables
+   - Go to each service (API and client) and add the required environment variables:
+     - For the API service: `MONGODB_URI`, `JWT_SECRET`, `EMAIL_SERVICE`, etc.
+     - For the client service: `REACT_APP_API_URL` (should point to your API service URL)
+
+4. **Deploy the Services**:
+   - Render will automatically build and deploy both the API and client services
+   - You can monitor the deployment progress in the Render dashboard
+
+5. **Access Your Deployed Application**:
+   - Once deployment is complete, you can access your application at the URL provided by Render
+   - The client application will be available at `https://plantperfectly-client.onrender.com`
+   - The API will be available at `https://plantperfectly-api.onrender.com`
+
+#### Updating Your Deployed Application
+
+To update your deployed application, simply push changes to your GitHub repository:
+
+```
+git add .
+git commit -m "Update application"
+git push origin main
+```
+
+Render will automatically detect the changes and redeploy your application.

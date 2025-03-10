@@ -165,6 +165,21 @@ const connectWithRetry = (retryCount = 0, maxRetries = 5) => {
 
 connectWithRetry();
 
+// Health check endpoint for Render.com
+app.get('/api/health', (req, res) => {
+  const healthcheck = {
+    uptime: process.uptime(),
+    message: 'OK',
+    timestamp: Date.now()
+  };
+  try {
+    res.status(200).send(healthcheck);
+  } catch (error) {
+    healthcheck.message = error;
+    res.status(503).send(healthcheck);
+  }
+});
+
 // Routes
 // Apply auth rate limiter to authentication routes
 app.use('/api/auth', authLimiter);
