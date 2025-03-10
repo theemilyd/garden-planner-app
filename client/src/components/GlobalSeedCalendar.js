@@ -15,7 +15,7 @@ import { lightTheme } from '../themes/themes';
 // Import zoneAPI directly instead of using dynamic import
 import { getMockZoneData } from '../services/zoneAPI';
 
-const GlobalSeedCalendar = () => {
+const GlobalSeedCalendar = ({ isMobile: propIsMobile }) => {
   // State for user location
   const [zoneInfo, setZoneInfo] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -27,381 +27,234 @@ const GlobalSeedCalendar = () => {
   // State for weather data
   const [weatherData, setWeatherData] = useState(null);
   
+  // State for email modal
+  const [showEmailModal, setShowEmailModal] = useState(false);
+  
   // Use light theme only
   const theme = lightTheme;
   
   // State for mobile view
-  const [isMobile, setIsMobile] = useState(false);
+  const [isMobile, setIsMobile] = useState(propIsMobile || false);
   
   // Check if user is on mobile
   useEffect(() => {
-    const checkMobile = () => {
-      setIsMobile(window.innerWidth < 768);
-    };
-    
-    checkMobile();
-    window.addEventListener('resize', checkMobile);
-    
-    return () => window.removeEventListener('resize', checkMobile);
-  }, []);
+    // Update from props if available
+    if (propIsMobile !== undefined) {
+      setIsMobile(propIsMobile);
+    } else {
+      const checkMobile = () => {
+        setIsMobile(window.innerWidth < 768);
+      };
+      
+      checkMobile();
+      window.addEventListener('resize', checkMobile);
+      
+      return () => window.removeEventListener('resize', checkMobile);
+    }
+  }, [propIsMobile]);
   
   // Handle location submission and zone retrieval
   const handleLocationSubmit = async (country, postalCode) => {
     setLoading(true);
+    
     try {
-      // Try to get zone data from the API
-      try {
-        const response = await axios.get(`/api/zones/lookup?zipCode=${postalCode}`);
-        setZoneInfo(response.data.data);
-      } catch (apiError) {
-        console.error('API error, using mock data:', apiError);
-        // If API fails, use mock data (for development/demo purposes)
-        const mockData = getMockZoneData(country, postalCode);
-        setZoneInfo(mockData.data);
-      }
+      // For demo purposes, use mock data
+      const zoneData = await getMockZoneData(country, postalCode);
+      setZoneInfo(zoneData);
       
       // Fetch weather data for the location
-      await fetchWeatherData(country, postalCode);
+      fetchWeatherData(country, postalCode);
     } catch (error) {
-      console.error('Error retrieving zone information:', error);
+      console.error('Error fetching zone data:', error);
       // Handle error state
     } finally {
       setLoading(false);
     }
   };
   
-  // Fetch weather data for the specified location
+  // Fetch weather data for the location
   const fetchWeatherData = async (country, postalCode) => {
     try {
-      // For development/demo purposes, we'll use mock data directly
-      console.log('Using mock weather data');
-      
-      // Create accurate mock weather data with more realistic temperatures
-      // Values in Fahrenheit for consistent use
-      let baseTemp;
-      let condition;
-      
-      // Adjust temperatures based on country for more realistic data
-      if (country === 'GB' || country === 'UK') {
-        // UK is typically cooler
-        baseTemp = 55; // ~13°C - spring in UK
-        condition = 'Partly Cloudy';
-      } else if (country === 'CA') {
-        // Canada is typically even cooler
-        baseTemp = 50; // ~10°C - spring in Canada
-        condition = 'Cloudy';
-      } else if (country === 'AU') {
-        // Australia - hot if southern hemisphere
-        baseTemp = 75; // ~24°C - warmer
-        condition = 'Sunny';
-      } else {
-        // US default
-        baseTemp = 65; // ~18°C - moderate
-        condition = 'Mostly Sunny';
-      }
-      
-      // Add a small random variance
-      const variance = 5;
-      const currentTemp = Math.round(baseTemp + (Math.random() * variance * 2 - variance));
-      
-      setWeatherData({
-        status: 'success',
-        data: {
-          location: `${country}, ${postalCode}`,
-          country: country,
-          currentTemp: currentTemp,
-          historicalAverage: baseTemp,
-          averageTemp: baseTemp,
-          forecast: [
-            { date: '2024-04-03', high: currentTemp + 5, low: currentTemp - 8, condition: condition },
-            { date: '2024-04-04', high: currentTemp + 7, low: currentTemp - 7, condition: 'Sunny' },
-            { date: '2024-04-05', high: currentTemp + 3, low: currentTemp - 9, condition: 'Cloudy' },
-          ],
-          frostRisk: currentTemp < 40 ? 'High' : currentTemp < 50 ? 'Medium' : 'Low',
-        }
-      });
-    } catch (error) {
-      console.error('Error fetching weather data:', error);
-      // Weather data is optional, so we can continue without it
-    }
-  };
-  
-  // Add a plant to the selected plants list
-  const handleAddPlant = (plant) => {
-    if (!selectedPlants.some(p => p.id === plant.id)) {
-      console.log('Adding plant to calendar:', plant);
-      
-      // Make sure the plant has all the required properties
-      const enhancedPlant = {
-        ...plant,
-        // Ensure these properties exist
-        growing_calendar: plant.growing_calendar || {},
-        growing_requirements: plant.growing_requirements || {
-          sunlight: 'full sun',
-          water_needs: 'moderate'
+      // For demo purposes, use mock weather data
+      const mockWeatherData = {
+        current: {
+          temp: 72,
+          condition: 'Sunny',
+          humidity: 45,
+          wind: 8,
+          feelsLike: 74,
+          icon: '01d'
         },
-        days_to_maturity: plant.days_to_maturity || { min: 60, max: 90 },
-        // Ensure tags property exists
-        tags: plant.tags || []
+        forecast: [
+          { day: 'Mon', temp: 74, icon: '01d' },
+          { day: 'Tue', temp: 76, icon: '02d' },
+          { day: 'Wed', temp: 71, icon: '03d' },
+          { day: 'Thu', temp: 68, icon: '10d' },
+          { day: 'Fri', temp: 70, icon: '01d' }
+        ],
+        soil: {
+          temp: 65,
+          moisture: 'Medium',
+          readiness: 'Good for planting'
+        },
+        frost: {
+          risk: 'Low',
+          nextDate: 'Nov 15',
+          lastDate: 'Mar 20'
+        }
       };
       
-      setSelectedPlants([...selectedPlants, enhancedPlant]);
+      setWeatherData(mockWeatherData);
+    } catch (error) {
+      console.error('Error fetching weather data:', error);
+      // Handle error state
     }
   };
   
-  // Remove a plant from the selected plants list
+  // Handle adding a plant to the selection
+  const handleAddPlant = (plant) => {
+    // Check if plant is already selected
+    if (!selectedPlants.some(p => p.id === plant.id)) {
+      setSelectedPlants([...selectedPlants, plant]);
+    }
+  };
+  
+  // Handle removing a plant from the selection
   const handleRemovePlant = (plantId) => {
     setSelectedPlants(selectedPlants.filter(plant => plant.id !== plantId));
   };
   
-  // Filter plants by type
+  // Handle changing the plant type filter
   const handleTypeFilterChange = (type) => {
     setTypeFilter(type);
   };
   
-  // State for email capture modal
-  const [showEmailModal, setShowEmailModal] = useState(false);
-  
-  // Export the calendar as PDF
+  // Handle exporting the calendar
   const handleExportCalendar = (calendarData) => {
-    // If calendarData is not provided, create it with basic info
-    let exportData = calendarData || {
-      zone: zoneInfo?.zone || '7b',
-      plants: selectedPlants.map(plant => ({
-        id: plant.id,
-        name: plant.name,
-        type: plant.type,
-        growingCalendar: plant.growingCalendar || plant.growing_calendar,
-        growingRequirements: plant.growingRequirements || plant.growing_requirements,
-        daysToMaturity: plant.daysToMaturity || plant.days_to_maturity
-      })),
-      year: new Date().getFullYear(),
-      month: new Date().getMonth() + 1, // 1-indexed month
-      zoneId: zoneInfo?.id || null,
-      // Include frost dates if available
-      frostDates: {
-        lastFrost: zoneInfo?.lastFrostDate,
-        firstFrost: zoneInfo?.firstFrostDate
-      }
-    };
-    
-    // Log for debugging
-    console.log('Exporting calendar data:', exportData);
-    
-    // Show email capture modal with calendar data
+    // Implementation for exporting calendar
+    console.log('Exporting calendar:', calendarData);
+    // Show email modal when exporting
     setShowEmailModal(true);
-    
-    // Store calendar data in a window variable that can be accessed by the modal
-    window.currentCalendarData = exportData;
   };
   
   // Handle successful email submission
   const handleEmailSuccess = (data) => {
-    // Log the response for debugging
     console.log('Email success response:', data);
-    
     // Display a success notification to the user
     alert('Your calendar has been emailed successfully! Please check your inbox.');
-    
-    // Close the modal
+    // Hide the modal
     setShowEmailModal(false);
-    
-    // Clear the window.currentCalendarData to avoid stale data
-    window.currentCalendarData = null;
   };
   
-
+  // Render the component
   return (
     <ThemeProvider theme={theme}>
-      <CalendarContainer>
-        <Header>
-          <LogoSection>
-            <Logo>🌱</Logo>
-            <Title>Global Seed Sowing Calendar</Title>
-          </LogoSection>
-        </Header>
+      <CalendarContainer className={isMobile ? 'mobile-calendar-container' : ''}>
+        <h1 className={`text-center mb-4 ${isMobile ? 'mobile-heading' : ''}`}>
+          Global Seed Sowing Calendar
+        </h1>
         
-        <Tagline>Know exactly when to plant your seeds, anywhere in the world</Tagline>
+        <p className={`text-center mb-4 lead ${isMobile ? 'mobile-lead' : ''}`}>
+          Find the perfect time to sow your seeds based on your location and climate zone.
+        </p>
         
-        <ContentSection isMobile={isMobile}>
-          <MainContent>
+        <div className={`row ${isMobile ? 'mobile-row' : ''}`}>
+          <div className={`${isMobile ? 'col-12' : 'col-md-4'} mb-4`}>
             <LocationFinder 
               onSubmit={handleLocationSubmit} 
               loading={loading}
-              zoneInfo={zoneInfo}
+              isMobile={isMobile}
             />
             
-            {zoneInfo && (
+            {weatherData && (
+              <WeatherWidget 
+                data={weatherData} 
+                className="mt-4"
+                isMobile={isMobile}
+              />
+            )}
+          </div>
+          
+          <div className={`${isMobile ? 'col-12' : 'col-md-8'}`}>
+            {zoneInfo ? (
               <>
-                <PlantSelector
-                  onAddPlant={handleAddPlant}
-                  onRemovePlant={handleRemovePlant}
-                  selectedPlants={selectedPlants}
-                  typeFilter={typeFilter}
-                  onTypeFilterChange={handleTypeFilterChange}
-                />
-                
-                {selectedPlants.length > 0 && (
-                  <PlantingCalendar
-                    zoneInfo={zoneInfo}
+                <div className={`mb-4 ${isMobile ? 'mobile-plant-selector' : ''}`}>
+                  <PlantSelector 
+                    onAddPlant={handleAddPlant} 
                     selectedPlants={selectedPlants}
-                    weatherData={weatherData}
-                    onExportCalendar={handleExportCalendar}
+                    onRemovePlant={handleRemovePlant}
+                    typeFilter={typeFilter}
+                    onTypeFilterChange={handleTypeFilterChange}
                     isMobile={isMobile}
                   />
-                )}
+                </div>
+                
+                <PlantingCalendar 
+                  zoneInfo={zoneInfo} 
+                  selectedPlants={selectedPlants}
+                  onExport={handleExportCalendar}
+                  isMobile={isMobile}
+                />
               </>
+            ) : (
+              <div className={`text-center p-5 bg-light rounded ${isMobile ? 'mobile-placeholder' : ''}`}>
+                <h3>Enter your location to get started</h3>
+                <p>We'll show you the best times to sow seeds in your area.</p>
+              </div>
             )}
-          </MainContent>
-          
-          {weatherData && zoneInfo && !isMobile && (
-            <Sidebar>
-              <WeatherWidget weatherData={weatherData} zoneInfo={zoneInfo} />
-            </Sidebar>
-          )}
-          
-          {weatherData && zoneInfo && isMobile && (
-            <MobileWeatherSection>
-              <WeatherWidget weatherData={weatherData} zoneInfo={zoneInfo} compact={true} />
-            </MobileWeatherSection>
-          )}
-        </ContentSection>
+          </div>
+        </div>
         
-        <SkipNavLink href="#main-content">Skip to main content</SkipNavLink>
-        
-        {/* Email Capture Modal */}
-        <EmailCaptureModal
+        <EmailCaptureModal 
           show={showEmailModal}
           onHide={() => setShowEmailModal(false)}
           onSuccess={handleEmailSuccess}
           resourceType="calendar"
-          zoneName={zoneInfo?.zone || '7b'}
+          zoneName={zoneInfo?.zone || 'Unknown'}
+          isMobile={isMobile}
         />
       </CalendarContainer>
     </ThemeProvider>
   );
 };
 
-// Styled Components
+// Styled components
 const CalendarContainer = styled.div`
-  font-family: 'Inter', 'Roboto', -apple-system, sans-serif;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 24px;
-  background-color: ${props => props.theme.background};
-  min-height: 100vh;
-  color: ${props => props.theme.text};
-  transition: all 0.3s ease;
-`;
-
-const Header = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 16px;
-`;
-
-const LogoSection = styled.div`
-  display: flex;
-  align-items: center;
-`;
-
-// eslint-disable-next-line no-unused-vars
-const ControlsSection = styled.div`
-  display: flex;
-  align-items: center;
-  gap: 16px;
-`;
-
-// eslint-disable-next-line no-unused-vars
-const ThemeToggle = styled.button`
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
-  padding: 8px;
-  border-radius: 50%;
-  transition: all 0.2s ease;
+  padding: 1rem;
   
-  &:hover {
-    background-color: ${props => props.theme.hoverBackground};
+  &.mobile-calendar-container {
+    padding: 0.5rem;
   }
   
-  &:focus {
-    outline: 2px solid ${props => props.theme.accent};
-    outline-offset: 2px;
+  .mobile-heading {
+    font-size: 1.75rem;
+    margin-bottom: 0.75rem;
   }
-`;
-
-const Logo = styled.div`
-  font-size: 2.5rem;
-  margin-right: 16px;
-  background: linear-gradient(135deg, #3A7B5E, #56A978);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-`;
-
-const Title = styled.h1`
-  color: ${props => props.theme.accent};
-  margin: 0;
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.5px;
-`;
-
-const Tagline = styled.p`
-  color: ${props => props.theme.secondaryText};
-  font-size: 1.1rem;
-  margin-bottom: 32px;
-  font-weight: 300;
-`;
-
-const ContentSection = styled.div`
-  display: flex;
-  flex-direction: ${props => props.isMobile ? 'column' : 'row'};
-  gap: 32px;
-`;
-
-const MainContent = styled.main`
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 32px;
-  min-width: 0;
-  id="main-content"
-`;
-
-const Sidebar = styled.aside`
-  width: 300px;
-  align-self: flex-start;
-  position: sticky;
-  top: 24px;
   
-  @media (max-width: 1100px) {
-    width: 250px;
+  .mobile-lead {
+    font-size: 1rem;
+    margin-bottom: 1rem;
   }
-`;
-
-const MobileWeatherSection = styled.div`
-  margin-top: 16px;
-  margin-bottom: 32px;
-`;
-
-const SkipNavLink = styled.a`
-  position: absolute;
-  top: -40px;
-  left: 0;
-  background: ${props => props.theme.accent};
-  color: white;
-  padding: 8px;
-  z-index: 100;
   
-  &:focus {
-    top: 0;
+  .mobile-row {
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+  }
+  
+  .mobile-plant-selector {
+    margin-bottom: 1rem;
+  }
+  
+  .mobile-placeholder {
+    padding: 1.5rem !important;
+    
+    h3 {
+      font-size: 1.25rem;
+    }
+    
+    p {
+      font-size: 0.9rem;
+    }
   }
 `;
 

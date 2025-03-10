@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /account/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://plantperfectly.com/sitemap.xml 

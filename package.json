@@ -1,7 +1,7 @@
 {
   "name": "garden-planner",
   "version": "1.0.0",
-  "description": "Garden Planner Application",
+  "description": "PlantPerfectly Application",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",

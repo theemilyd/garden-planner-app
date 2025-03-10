@@ -162,7 +162,7 @@ const Dashboard = () => {
       
       <Row className="mb-4">
         <Col>
-          <h1 className="mb-3" style={{ fontFamily: "'Playfair Display', serif" }}>My Garden Planner</h1>
+          <h1 className="mb-3" style={{ fontFamily: "'Playfair Display', serif" }}>My PlantPerfectly</h1>
           <p className="text-muted">Plan your perfect garden with optimized planting schedules.</p>
         </Col>
         <Col md="auto" className="d-flex align-items-center">

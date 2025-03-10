@@ -1620,3 +1620,613 @@ p {
     print-color-adjust: exact !important;
   }
 }
+
+/* Mobile Optimization Styles */
+.mobile-optimized-navbar {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1030;
+  padding: 0.5rem 0;
+}
+
+.mobile-brand {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 767.98px) {
+  .brand-text {
+    font-size: 1rem;
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .mobile-nav {
+    padding: 0.75rem 0;
+    margin-top: 0.5rem;
+  }
+  
+  .mobile-nav-link {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 1.1rem;
+  }
+  
+  .mobile-auth-buttons {
+    padding-top: 0.5rem;
+    width: 100%;
+  }
+  
+  .mobile-btn {
+    width: 100%;
+    padding: 0.75rem;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  /* Improve touch targets for mobile */
+  button, 
+  .btn,
+  .nav-link,
+  input[type="checkbox"],
+  input[type="radio"],
+  select {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* Prevent horizontal overflow */
+  .container, 
+  .container-fluid {
+    overflow-x: hidden;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  
+  /* Improve form elements on mobile */
+  input, 
+  select, 
+  textarea {
+    font-size: 16px !important; /* Prevents iOS zoom on focus */
+  }
+  
+  /* Calendar optimizations for mobile */
+  .calendar-container {
+    padding: 0.5rem;
+    margin: 0 -0.5rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .calendar-grid {
+    min-width: auto;
+    font-size: 0.8rem;
+  }
+  
+  .calendar-header, 
+  .calendar-plant {
+    padding: 0.5rem 0.25rem;
+    font-size: 0.8rem;
+  }
+  
+  .calendar-cell {
+    padding: 0.25rem;
+    min-width: 2rem;
+  }
+  
+  /* Improve scrolling experience on mobile */
+  .calendar-container {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+  }
+  
+  /* Add pull-to-refresh visual indicator */
+  .calendar-container::before {
+    content: '';
+    display: block;
+    height: 2rem;
+    margin-top: -2rem;
+  }
+  
+  /* Improve modal experience on mobile */
+  .modal-dialog {
+    margin: 0.5rem;
+    max-width: calc(100% - 1rem);
+  }
+  
+  .modal-content {
+    border-radius: var(--border-radius);
+  }
+  
+  /* Improve card layouts on mobile */
+  .card {
+    margin-bottom: 1rem;
+  }
+  
+  /* Fix for iOS momentum scrolling */
+  html, body {
+    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+  }
+  
+  /* Prevent text size adjustment on orientation change */
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  /* Improve spacing for mobile */
+  .row {
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+  
+  .col, [class*="col-"] {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+
+/* Tablet optimizations */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .brand-text {
+    font-size: 1.1rem;
+  }
+  
+  .mobile-nav-link {
+    padding: 0.5rem 0;
+  }
+  
+  .calendar-grid {
+    font-size: 0.9rem;
+  }
+  
+  .calendar-header, 
+  .calendar-plant {
+    font-size: 0.9rem;
+  }
+}
+
+/* Add active states for touch devices */
+@media (hover: none) {
+  .btn:active,
+  .nav-link:active,
+  .card:active {
+    transform: scale(0.98);
+  }
+  
+  .calendar-cell:active {
+    opacity: 0.8;
+  }
+}
+
+/* Fix for iOS input zooming */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  select,
+  textarea,
+  input[type="text"],
+  input[type="password"],
+  input[type="datetime"],
+  input[type="datetime-local"],
+  input[type="date"],
+  input[type="month"],
+  input[type="time"],
+  input[type="week"],
+  input[type="number"],
+  input[type="email"],
+  input[type="url"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="color"] {
+    font-size: 16px;
+  }
+}
+
+/* Add support for notched devices */
+@supports (padding: max(0px)) {
+  .mobile-optimized-navbar {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+  
+  .app-container {
+    padding-left: max(0px, env(safe-area-inset-left));
+    padding-right: max(0px, env(safe-area-inset-right));
+    padding-bottom: max(0px, env(safe-area-inset-bottom));
+  }
+}
+
+/* Mobile Footer Styles */
+.mobile-footer {
+  font-size: 0.95rem;
+}
+
+.footer-text {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.1);
+  transition: all 0.2s ease;
+}
+
+.social-icon:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.footer-links li {
+  margin-bottom: 0.75rem;
+}
+
+.footer-link {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0;
+  transition: all 0.2s ease;
+}
+
+.footer-link:hover {
+  transform: translateX(3px);
+  color: #F4B942 !important;
+}
+
+.newsletter-form {
+  max-width: 100%;
+}
+
+.footer-input {
+  height: 44px;
+}
+
+.footer-btn {
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.copyright-text {
+  opacity: 0.8;
+}
+
+.footer-legal-link {
+  opacity: 0.8;
+  transition: all 0.2s ease;
+}
+
+.footer-legal-link:hover {
+  opacity: 1;
+  color: #F4B942 !important;
+}
+
+@media (max-width: 767.98px) {
+  .mobile-footer {
+    text-align: center;
+  }
+  
+  .social-icons {
+    justify-content: center;
+  }
+  
+  .footer-links {
+    margin-bottom: 2rem;
+  }
+  
+  .footer-link {
+    justify-content: center;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+  }
+  
+  .footer-legal {
+    justify-content: center !important;
+    margin-top: 1rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .mobile-footer h5 {
+    font-size: 1.25rem;
+  }
+  
+  .mobile-footer h6 {
+    font-size: 1rem;
+  }
+  
+  .footer-text {
+    font-size: 0.85rem;
+  }
+  
+  .social-icon {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .footer-links li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-link {
+    padding: 0.4rem 0;
+    font-size: 0.9rem;
+  }
+  
+  .newsletter-form {
+    flex-direction: column;
+  }
+  
+  .footer-input,
+  .footer-btn {
+    width: 100%;
+    margin-right: 0;
+  }
+  
+  .footer-btn {
+    margin-top: 0.5rem;
+  }
+  
+  .copyright-text,
+  .footer-legal-link {
+    font-size: 0.8rem !important;
+  }
+}
+
+/* Mobile Test Mode Styles */
+.test-mode {
+  position: relative;
+  padding-top: 40px;
+}
+
+.test-mode-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ff9800;
+  color: #fff;
+  text-align: center;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: bold;
+  z-index: 2000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.test-run-button {
+  background-color: #fff;
+  color: #ff9800;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.test-run-button:hover {
+  background-color: #f5f5f5;
+}
+
+@media (max-width: 767.98px) {
+  .test-mode {
+    padding-top: 40px;
+  }
+  
+  .test-mode .mobile-optimized-navbar {
+    top: 40px;
+  }
+}
+
+/* Mobile View Specific Styles */
+.mobile-view {
+  /* Improve touch targets */
+  touch-action: manipulation;
+}
+
+.mobile-view button,
+.mobile-view input[type="button"],
+.mobile-view input[type="submit"],
+.mobile-view .btn {
+  min-height: 44px;
+  padding: 10px 16px;
+  font-size: 16px !important;
+  border-radius: 8px;
+  width: auto;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
+}
+
+.mobile-view .card {
+  margin-bottom: 1rem;
+  border-radius: var(--border-radius-sm);
+}
+
+.mobile-view .card-body {
+  padding: 1rem;
+}
+
+.mobile-view h1 {
+  font-size: 1.75rem;
+}
+
+.mobile-view h2 {
+  font-size: 1.5rem;
+}
+
+.mobile-view h3 {
+  font-size: 1.25rem;
+}
+
+.mobile-view .container {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.mobile-view .row {
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.mobile-view .col, 
+.mobile-view [class*="col-"] {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+/* Mobile Navbar Improvements */
+.mobile-navbar {
+  padding: 0.5rem 0;
+}
+
+.mobile-navbar .navbar-toggler {
+  padding: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.mobile-navbar .navbar-brand {
+  font-size: 1.25rem;
+}
+
+/* Mobile Calendar Improvements */
+.mobile-view .calendar-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem;
+  margin: 0 -0.5rem;
+}
+
+.mobile-view .calendar-grid {
+  min-width: auto;
+  font-size: 0.8rem;
+}
+
+.mobile-view .calendar-header, 
+.mobile-view .calendar-plant {
+  padding: 0.5rem 0.25rem;
+  font-size: 0.8rem;
+}
+
+.mobile-view .calendar-cell {
+  padding: 0.25rem;
+  min-width: 2rem;
+}
+
+/* Mobile Footer Improvements */
+.mobile-view-footer {
+  text-align: center;
+}
+
+.mobile-view-footer .social-icons {
+  justify-content: center;
+}
+
+.mobile-view-footer .footer-links {
+  margin-bottom: 1.5rem;
+}
+
+.mobile-view-footer .footer-link {
+  justify-content: center;
+}
+
+.mobile-view-footer h5 {
+  font-size: 1.25rem;
+  justify-content: center;
+}
+
+.mobile-view-footer h6 {
+  font-size: 1rem;
+}
+
+.mobile-view-footer .footer-text {
+  font-size: 0.85rem;
+}
+
+/* Fix for iOS momentum scrolling */
+.mobile-view {
+  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden;
+}
+
+/* Prevent text size adjustment on orientation change */
+.mobile-view {
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Add support for notched devices */
+@supports (padding: max(0px)) {
+  .mobile-view .mobile-optimized-navbar {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+  
+  .mobile-view .app-container {
+    padding-left: max(0px, env(safe-area-inset-left));
+    padding-right: max(0px, env(safe-area-inset-right));
+    padding-bottom: max(0px, env(safe-area-inset-bottom));
+  }
+}
+
+/* Loading screen for mobile */
+.mobile-device .loading-screen {
+  padding: 1rem;
+}
+
+.mobile-device .loading-screen h2 {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.mobile-device .loader {
+  width: 60px;
+  height: 60px;
+}
+
+/* Fix for Find Zone button on mobile */
+@media (max-width: 767.98px) {
+  .btn-primary, .btn-secondary, .btn-accent {
+    padding: 10px 16px;
+    font-size: 16px !important;
+    height: auto;
+    min-height: 44px;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: unset;
+    max-width: 100%;
+  }
+  
+  .location-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .location-controls .form-group {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .location-controls .btn {
+    width: 100%;
+    margin-top: 10px;
+  }
+}

@@ -4,11 +4,11 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { 
   faCalendarAlt, faLeaf, faSeedling, 
-  faSignInAlt, faSun
+  faSignInAlt, faSun, faTimes, faBars
 } from '@fortawesome/free-solid-svg-icons';
 import { useAuth } from '../../utils/AuthContext';
 
-function Header() {
+function Header({ isMobile }) {
   // eslint-disable-next-line no-unused-vars
   const { currentUser, logout } = useAuth();
   const navigate = useNavigate();
@@ -33,30 +33,35 @@ function Header() {
   return (
     <Navbar 
       expand="lg" 
-      className="py-3" 
+      className={`py-2 mobile-optimized-navbar ${isMobile ? 'mobile-navbar' : ''}`}
       expanded={expanded}
       onToggle={setExpanded}
       bg="forest-green"
       variant="dark"
+      sticky="top"
     >
-      <Container>
-        <Navbar.Brand as={Link} to="/" onClick={() => setExpanded(false)}>
+      <Container fluid="md">
+        <Navbar.Brand as={Link} to="/" onClick={() => setExpanded(false)} className="mobile-brand">
           <FontAwesomeIcon icon={faSeedling} className="me-2" />
-          Global Seed Sowing Calendar
+          <span className="brand-text d-none d-sm-inline">PlantPerfectly</span>
+          <span className="brand-text d-inline d-sm-none">PlantPerfectly</span>
         </Navbar.Brand>
         
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle aria-controls="basic-navbar-nav" className="border-0">
+          <FontAwesomeIcon icon={expanded ? faTimes : faBars} />
+        </Navbar.Toggle>
         
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto">
+          <Nav className={`ms-auto ${isMobile ? 'mobile-nav' : ''}`}>
             <Nav.Link 
               as={Link} 
               to="/" 
               active={location.pathname === '/'} 
               onClick={() => setExpanded(false)}
+              className={`${isMobile ? 'mobile-nav-link' : ''} py-2`}
             >
               <FontAwesomeIcon icon={faCalendarAlt} className="me-1" />
-              Seed Calendar
+              <span>Planting Guide</span>
             </Nav.Link>
             
             <Nav.Link 
@@ -64,9 +69,10 @@ function Header() {
               to="/planting-calendar" 
               active={location.pathname === '/planting-calendar'} 
               onClick={() => setExpanded(false)}
+              className={`${isMobile ? 'mobile-nav-link' : ''} py-2`}
             >
               <FontAwesomeIcon icon={faLeaf} className="me-1" />
-              Planting Calendar
+              <span>Planting Calendar</span>
             </Nav.Link>
             
             <Nav.Link 
@@ -74,27 +80,30 @@ function Header() {
               to="/garden-recommendations" 
               active={location.pathname === '/garden-recommendations'} 
               onClick={() => setExpanded(false)}
+              className={`${isMobile ? 'mobile-nav-link' : ''} py-2`}
             >
               <FontAwesomeIcon icon={faSun} className="me-1" />
-              Recommendations
+              <span>Recommendations</span>
             </Nav.Link>
-                
-            <Button 
-              variant="outline-light" 
-              className="ms-2" 
-              onClick={() => handleNavigation('/login')}
-            >
-              <FontAwesomeIcon icon={faSignInAlt} className="me-1" />
-              Login
-            </Button>
             
-            <Button 
-              variant="light" 
-              className="ms-2" 
-              onClick={() => handleNavigation('/signup')}
-            >
-              Sign Up
-            </Button>
+            <div className={`d-flex ${isMobile ? 'flex-column' : 'flex-lg-row'} mt-3 mt-lg-0 ${isMobile ? 'mobile-auth-buttons' : ''}`}>
+              <Button 
+                variant="outline-light" 
+                className={`mb-2 mb-lg-0 me-lg-2 ${isMobile ? 'mobile-btn' : ''}`}
+                onClick={() => handleNavigation('/login')}
+              >
+                <FontAwesomeIcon icon={faSignInAlt} className="me-1" />
+                Login
+              </Button>
+              
+              <Button 
+                variant="light" 
+                className={isMobile ? 'mobile-btn' : ''}
+                onClick={() => handleNavigation('/signup')}
+              >
+                Sign Up
+              </Button>
+            </div>
           </Nav>
         </Navbar.Collapse>
       </Container>

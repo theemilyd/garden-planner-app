@@ -6,7 +6,169 @@ const api = axios.create({
   headers: {
     'Content-Type': 'application/json',
   },
+  timeout: 15000, // 15 seconds timeout
 });
+
+// Add a request interceptor for auth token
+api.interceptors.request.use(
+  (config) => {
+    const token = localStorage.getItem('token');
+    if (token) {
+      config.headers.Authorization = `Bearer ${token}`;
+    }
+    return config;
+  },
+  (error) => {
+    return Promise.reject(error);
+  }
+);
+
+// Add a response interceptor for error handling
+api.interceptors.response.use(
+  (response) => {
+    return response;
+  },
+  (error) => {
+    // Create a user-friendly error object
+    const userFriendlyError = {
+      message: 'Something went wrong. Please try again.',
+      details: '',
+      status: 500,
+      originalError: error,
+      isOffline: !navigator.onLine
+    };
+
+    // Check if it's a network error (offline)
+    if (!navigator.onLine || error.message === 'Network Error') {
+      userFriendlyError.message = 'You appear to be offline. Please check your internet connection.';
+      userFriendlyError.isOffline = true;
+      
+      // If service worker and background sync are supported, queue the request
+      if ('serviceWorker' in navigator && 'SyncManager' in window && error.config) {
+        // Store the failed request in IndexedDB for later sync
+        storeRequestForSync(error.config);
+        userFriendlyError.message += ' Your request will be processed when you are back online.';
+      }
+      
+      return Promise.reject(userFriendlyError);
+    }
+
+    // Handle timeout errors
+    if (error.code === 'ECONNABORTED') {
+      userFriendlyError.message = 'The request took too long to complete. Please try again.';
+      return Promise.reject(userFriendlyError);
+    }
+
+    // Handle server errors with response
+    if (error.response) {
+      userFriendlyError.status = error.response.status;
+      
+      // Handle specific HTTP status codes
+      switch (error.response.status) {
+        case 400:
+          userFriendlyError.message = 'The request was invalid. Please check your input.';
+          if (error.response.data && error.response.data.errors) {
+            userFriendlyError.details = formatValidationErrors(error.response.data.errors);
+          }
+          break;
+        case 401:
+          userFriendlyError.message = 'Your session has expired. Please log in again.';
+          // Redirect to login if unauthorized
+          if (window.location.pathname !== '/login') {
+            localStorage.removeItem('token');
+            window.location.href = '/login?session_expired=true';
+          }
+          break;
+        case 403:
+          userFriendlyError.message = 'You do not have permission to perform this action.';
+          break;
+        case 404:
+          userFriendlyError.message = 'The requested resource was not found.';
+          break;
+        case 409:
+          userFriendlyError.message = 'There was a conflict with the current state of the resource.';
+          break;
+        case 422:
+          userFriendlyError.message = 'The request could not be processed.';
+          if (error.response.data && error.response.data.errors) {
+            userFriendlyError.details = formatValidationErrors(error.response.data.errors);
+          }
+          break;
+        case 429:
+          userFriendlyError.message = 'Too many requests. Please try again later.';
+          break;
+        case 500:
+        case 502:
+        case 503:
+        case 504:
+          userFriendlyError.message = 'Server error. Our team has been notified.';
+          // Log server errors to monitoring service (if available)
+          logErrorToMonitoring(error);
+          break;
+        default:
+          if (error.response.data && error.response.data.message) {
+            userFriendlyError.message = error.response.data.message;
+          }
+      }
+    }
+
+    return Promise.reject(userFriendlyError);
+  }
+);
+
+// Helper function to format validation errors
+function formatValidationErrors(errors) {
+  if (Array.isArray(errors)) {
+    return errors.map(err => `${err.field ? err.field + ': ' : ''}${err.message}`).join(', ');
+  }
+  return JSON.stringify(errors);
+}
+
+// Helper function to log errors to a monitoring service
+function logErrorToMonitoring(error) {
+  // This would connect to a service like Sentry, LogRocket, etc.
+  console.error('Server error logged:', error);
+  // Example: Sentry.captureException(error);
+}
+
+// Helper function to store failed requests for background sync
+async function storeRequestForSync(config) {
+  try {
+    // Open IndexedDB
+    const dbPromise = indexedDB.open('PlantPerfectlyOfflineDB', 1);
+    
+    dbPromise.onupgradeneeded = (event) => {
+      const db = event.target.result;
+      if (!db.objectStoreNames.contains('offlineForms')) {
+        db.createObjectStore('offlineForms', { keyPath: 'id', autoIncrement: true });
+      }
+    };
+    
+    dbPromise.onsuccess = (event) => {
+      const db = event.target.result;
+      const transaction = db.transaction(['offlineForms'], 'readwrite');
+      const store = transaction.objectStore('offlineForms');
+      
+      // Store the request for later sync
+      store.add({
+        url: config.url,
+        method: config.method,
+        headers: config.headers,
+        body: config.data,
+        timestamp: new Date().getTime()
+      });
+      
+      // Register for sync if supported
+      if ('serviceWorker' in navigator && 'SyncManager' in window) {
+        navigator.serviceWorker.ready.then(registration => {
+          registration.sync.register('sync-forms');
+        });
+      }
+    };
+  } catch (err) {
+    console.error('Failed to store request for offline sync:', err);
+  }
+}
 
 // DEMO MODE: Mock API interceptors
 // Instead of making real API calls, we'll return mock data
@@ -166,32 +328,6 @@ let mockPlants = [
     updatedAt: '2023-04-28T11:25:00Z'
   }
 ];
-
-// No actual API requests will be made in demo mode
-api.interceptors.request.use(
-  (config) => {
-    // Just pass the config through
-    return config;
-  },
-  (error) => {
-    return Promise.reject(error);
-  }
-);
-
-// Mock response handling
-api.interceptors.response.use(
-  (response) => {
-    // Real response from server (though in demo mode, this shouldn't happen)
-    return response;
-  },
-  (error) => {
-    // If there's an error, we'll just simulate a successful response
-    console.log('Intercepting error in demo mode:', error);
-    
-    // For demo purposes, we'll just return a successful response
-    return Promise.reject(error);
-  }
-);
 
 // DEMO MODE: All API functions return mock data
 

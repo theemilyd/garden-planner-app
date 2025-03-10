@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Testing Page</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #4A7C59;
+    }
+    .card {
+      background-color: #f9f9f9;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    button {
+      background-color: #4A7C59;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 4px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mobile Optimization Test</h1>
+  
+  <div class="card">
+    <h2>Test on this device</h2>
+    <p>Click the button below to open the app with mobile testing enabled:</p>
+    <button id="testButton">Launch Mobile Test</button>
+  </div>
+  
+  <div class="card">
+    <h2>How to test</h2>
+    <p>Once the app loads:</p>
+    <ol>
+      <li>Open the browser's developer console</li>
+      <li>Type <code>runMobileTests()</code> and press Enter</li>
+      <li>Review the test results in the console</li>
+    </ol>
+  </div>
+  
+  <div class="card">
+    <h2>What's being tested</h2>
+    <ul>
+      <li>Viewport configuration</li>
+      <li>Touch target sizes (min 44x44px)</li>
+      <li>Font sizes for readability</li>
+      <li>Horizontal overflow detection</li>
+      <li>Mobile detection</li>
+      <li>Responsive images</li>
+      <li>PWA capabilities</li>
+    </ul>
+  </div>
+  
+  <script>
+    document.getElementById('testButton').addEventListener('click', function() {
+      // Redirect to the app with a test parameter
+      window.location.href = '/?mobileTest=true';
+    });
+  </script>
+</body>
+</html> 

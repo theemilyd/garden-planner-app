@@ -168,7 +168,7 @@ const Signup = () => {
     <div className="signup-container">
       <div className="signup-card">
         <h2>Create an Account</h2>
-        <p>Join the Garden Planner community</p>
+        <p>Join the PlantPerfectly community</p>
         
         {error && <div className="alert alert-danger">{error}</div>}
         

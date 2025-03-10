@@ -1,4 +1,4 @@
-/* Main Styles for Garden Planner Application */
+/* Main Styles for PlantPerfectly Application */
 
 /* ======== Base Styles ======== */
 :root {
@@ -253,6 +253,64 @@ body {
     height: 50px;
     font-size: 1.25rem;
   }
+
+  /* Ensure all interactive elements have adequate touch targets */
+  button,
+  a,
+  input[type="button"],
+  input[type="submit"],
+  input[type="reset"],
+  input[type="checkbox"],
+  input[type="radio"],
+  select,
+  .nav-link,
+  .btn,
+  .clickable,
+  [role="button"],
+  [tabindex="0"] {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 10px;
+    line-height: 24px;
+    font-size: 16px !important; /* Prevent iOS zoom on focus */
+    touch-action: manipulation; /* Disable double-tap to zoom */
+  }
+
+  /* Ensure proper spacing between touch targets */
+  button + button,
+  a + a,
+  .btn + .btn,
+  .nav-link + .nav-link {
+    margin-left: 8px;
+  }
+
+  /* Ensure form controls have adequate touch targets */
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="number"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="url"],
+  textarea {
+    min-height: 44px;
+    font-size: 16px !important; /* Prevent iOS zoom on focus */
+    padding: 10px;
+  }
+
+  /* Make sure checkboxes and radio buttons are easily tappable */
+  input[type="checkbox"],
+  input[type="radio"] {
+    transform: scale(1.25);
+    margin: 10px;
+  }
+
+  /* Ensure dropdown menus have adequate touch targets */
+  .dropdown-item {
+    min-height: 44px;
+    padding: 12px 16px;
+    line-height: 20px;
+  }
 }
 
 /* ======== Utilities ======== */
@@ -310,3 +368,106 @@ body {
 .text-success {
   color: var(--success) !important;
 }
+
+/* ======== Onboarding Tour Styles ======== */
+.onboarding-tour-modal .modal-content {
+  border-radius: 12px;
+  overflow: hidden;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.onboarding-tour-modal .modal-header {
+  padding-top: 1rem;
+  padding-right: 1rem;
+}
+
+.onboarding-tour-modal .step-indicator {
+  width: 100%;
+  padding: 0 1rem;
+}
+
+.onboarding-tour-modal .progress {
+  height: 6px;
+  background-color: #e9ecef;
+  border-radius: 3px;
+}
+
+.onboarding-tour-modal .step-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #e9ecef;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.onboarding-tour-modal .step-dot.active {
+  background-color: #4A7C59;
+  transform: scale(1.2);
+}
+
+.onboarding-tour-modal .step-icon {
+  color: #4A7C59;
+  margin-bottom: 1.5rem;
+}
+
+.onboarding-tour-modal .step-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  color: #333;
+  font-size: 1.8rem;
+}
+
+.onboarding-tour-modal .step-description {
+  color: #666;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 80%;
+  margin: 0 auto 1.5rem;
+}
+
+.onboarding-tour-modal .step-image-container {
+  max-height: 300px;
+  overflow: hidden;
+  border-radius: 8px;
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.onboarding-tour-modal .step-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.onboarding-tour-modal .modal-footer {
+  padding: 1rem 2rem 1.5rem;
+}
+
+.onboarding-tour-modal .btn-success {
+  background-color: #4A7C59;
+  border-color: #4A7C59;
+}
+
+.onboarding-tour-modal .btn-success:hover {
+  background-color: #3a6147;
+  border-color: #3a6147;
+}
+
+@media (max-width: 768px) {
+  .onboarding-tour-modal .step-description {
+    max-width: 100%;
+    font-size: 1rem;
+  }
+  
+  .onboarding-tour-modal .step-title {
+    font-size: 1.5rem;
+  }
+  
+  .onboarding-tour-modal .modal-footer {
+    padding: 1rem;
+  }
+}
+
+/* ======== Mobile Accessibility Improvements ======== */

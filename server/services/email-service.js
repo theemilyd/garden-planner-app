@@ -69,7 +69,7 @@ const sendEmail = async (options) => {
     const msg = {
       to: options.to || options.email,
       from: {
-        name: 'Garden Planner App',
+        name: 'PlantPerfectly',
         address: options.from || process.env.EMAIL_FROM || 'noreply@gardenapp.com'
       },
       subject: options.subject,

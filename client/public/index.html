@@ -1,20 +1,276 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" />
+    <meta name="theme-color" content="#4A7C59" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="format-detection" content="telephone=no" />
+    
+    <!-- Detect JavaScript support - Must be at the top of head -->
+    <script>
+      // Immediately remove the no-js class if JavaScript is enabled
+      document.documentElement.classList.remove('no-js');
+      document.documentElement.classList.add('js');
+    </script>
+    
+    <!-- Content Security Policy -->
+    <meta http-equiv="Content-Security-Policy" content="
+      default-src 'self';
+      script-src 'self' https://cdn.jsdelivr.net https://ajax.googleapis.com 'unsafe-inline' 'unsafe-eval';
+      style-src 'self' https://fonts.googleapis.com https://cdn.jsdelivr.net 'unsafe-inline';
+      img-src 'self' data: https: blob:;
+      font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net;
+      connect-src 'self' https://api.plantperfectly.com https://api.openweathermap.org;
+      frame-src 'self';
+      object-src 'none';
+      base-uri 'self';
+      form-action 'self';
+      frame-ancestors 'self';
+      upgrade-insecure-requests;
+    ">
+    <!-- Primary Meta Tags -->
     <meta
       name="description"
-      content="Garden Planner - Plan your perfect garden based on your location"
+      content="PlantPerfectly - Plan your perfect garden based on your location, climate zone, and growing conditions. Get personalized planting schedules and gardening advice."
     />
+    <meta name="keywords" content="garden planner, planting calendar, gardening app, seed sowing, plant schedule, growing zone, gardening tool" />
+    <meta name="author" content="PlantPerfectly" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://plantperfectly.com/" />
+    <meta property="og:title" content="PlantPerfectly - Your Intelligent Gardening Companion" />
+    <meta property="og:description" content="Plan your perfect garden based on your location, climate zone, and growing conditions. Get personalized planting schedules and gardening advice." />
+    <meta property="og:image" content="%PUBLIC_URL%/og-image.jpg" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://plantperfectly.com/" />
+    <meta property="twitter:title" content="PlantPerfectly - Your Intelligent Gardening Companion" />
+    <meta property="twitter:description" content="Plan your perfect garden based on your location, climate zone, and growing conditions. Get personalized planting schedules and gardening advice." />
+    <meta property="twitter:image" content="%PUBLIC_URL%/og-image.jpg" />
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://plantperfectly.com/" />
+    
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <title>Garden Planner</title>
+    <title>PlantPerfectly - Your Intelligent Gardening Companion</title>
+    
+    <!-- Preconnect to important domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+    <!-- Structured Data - JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "PlantPerfectly",
+      "url": "https://plantperfectly.com",
+      "description": "Plan your perfect garden based on your location, climate zone, and growing conditions. Get personalized planting schedules and gardening advice.",
+      "applicationCategory": "LifestyleApplication",
+      "operatingSystem": "Web",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "screenshot": "https://plantperfectly.com/screenshot.jpg",
+      "featureList": "Location-based planting calendar, Comprehensive plant database, Succession planting recommendations, Weather integration",
+      "author": {
+        "@type": "Organization",
+        "name": "PlantPerfectly",
+        "logo": "https://plantperfectly.com/logo.png"
+      },
+      "potentialAction": {
+        "@type": "UseAction",
+        "target": "https://plantperfectly.com"
+      }
+    }
+    </script>
+    
+    <!-- Critical CSS for above-the-fold content -->
+    <style>
+      /* Critical CSS for faster initial render */
+      :root {
+        --primary: #4A7C59;
+        --primary-light: #8FC0A9;
+        --primary-dark: #3a6147;
+        --secondary: #F4B942;
+        --light: #f8f9fa;
+        --dark: #343a40;
+        --success: #28a745;
+        --danger: #dc3545;
+        --warning: #ffc107;
+        --info: #17a2b8;
+      }
+      
+      /* Base styles */
+      html {
+        overscroll-behavior-y: contain;
+      }
+      
+      body {
+        background-color: #f8f9fa;
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: #333;
+        line-height: 1.5;
+        overflow-x: hidden;
+        width: 100%;
+        -webkit-overflow-scrolling: touch;
+        padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+      }
+      
+      /* App container */
+      .app-container {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      
+      /* Main header */
+      .main-header {
+        background-color: var(--primary);
+        color: white;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+      
+      /* Loading screen */
+      .loading-screen {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: rgba(255,255,255,0.9);
+        z-index: 9999;
+      }
+      
+      .loading-spinner {
+        border: 4px solid rgba(0,0,0,0.1);
+        border-radius: 50%;
+        border-top: 4px solid var(--primary);
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      
+      /* Improve tap targets on mobile */
+      @media (max-width: 767px) {
+        button, 
+        a, 
+        input, 
+        select, 
+        textarea {
+          font-size: 16px !important;
+          min-height: 44px;
+        }
+        
+        /* Prevent iOS zoom on focus */
+        input[type="text"],
+        input[type="email"],
+        input[type="password"],
+        input[type="number"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="url"],
+        select,
+        textarea {
+          font-size: 16px !important;
+        }
+      }
+      
+      /* Fallback content for no-js */
+      .no-js-content {
+        display: none;
+        padding: 2rem;
+        text-align: center;
+        max-width: 600px;
+        margin: 0 auto;
+      }
+      
+      .no-js .no-js-content {
+        display: block;
+      }
+      
+      .no-js #root {
+        display: none;
+      }
+      
+      /* Hide no-js content when JS is enabled */
+      .js .no-js-content {
+        display: none;
+      }
+      
+      .js #root {
+        display: block;
+      }
+    </style>
+    
+    <!-- Add mobile-specific CSS -->
+    <style>
+      /* Additional mobile styles */
+      /* ... existing mobile styles ... */
+    </style>
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <!-- Fallback content for users without JavaScript -->
+    <div class="no-js-content">
+      <h1>JavaScript Required</h1>
+      <p>PlantPerfectly requires JavaScript to provide you with the best gardening experience. Please enable JavaScript in your browser settings and reload the page.</p>
+      <p>If you cannot enable JavaScript, you can still access our <a href="/basic/plants">basic plant database</a> and <a href="/basic/zones">zone information</a>.</p>
+    </div>
+    
+    <noscript>
+      <div style="padding: 2rem; text-align: center; max-width: 600px; margin: 0 auto;">
+        <h1>JavaScript Required</h1>
+        <p>PlantPerfectly requires JavaScript to provide you with the best gardening experience. Please enable JavaScript in your browser settings and reload the page.</p>
+        <p>If you cannot enable JavaScript, you can still access our <a href="/basic/plants">basic plant database</a> and <a href="/basic/zones">zone information</a>.</p>
+      </div>
+    </noscript>
+    
     <div id="root"></div>
+    
+    <!-- Inline loading indicator script -->
+    <script>
+      // Show loading indicator until React loads
+      if (!document.getElementById('loading-indicator')) {
+        var loadingDiv = document.createElement('div');
+        loadingDiv.id = 'loading-indicator';
+        loadingDiv.className = 'loading-screen';
+        loadingDiv.innerHTML = '<div class="loading-spinner"></div><p style="margin-top: 1rem;">Loading PlantPerfectly...</p>';
+        document.body.appendChild(loadingDiv);
+        
+        // Remove loading indicator when app loads
+        window.addEventListener('load', function() {
+          setTimeout(function() {
+            var loadingIndicator = document.getElementById('loading-indicator');
+            if (loadingIndicator) {
+              loadingIndicator.style.opacity = '0';
+              loadingIndicator.style.transition = 'opacity 0.5s ease';
+              setTimeout(function() {
+                if (loadingIndicator && loadingIndicator.parentNode) {
+                  loadingIndicator.parentNode.removeChild(loadingIndicator);
+                }
+              }, 500);
+            }
+          }, 300);
+        });
+      }
+    </script>
   </body>
 </html>

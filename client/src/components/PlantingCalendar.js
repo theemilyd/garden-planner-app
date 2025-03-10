@@ -452,9 +452,9 @@ const PlantingCalendar = () => {
         outdoorStart: 7, // August
         outdoorEnd: 8    // September
       },
-      source: 'Almanac Garden Planner',
+      source: 'PlantPerfectly',
       sources: [
-        { name: 'Almanac Garden Planner', url: 'https://planner.almanac.com' },
+        { name: 'PlantPerfectly', url: 'https://plantperfectly.com' },
         { name: "Johnny's Selected Seeds", url: 'https://www.johnnyseeds.com' }
       ],
       germination: {

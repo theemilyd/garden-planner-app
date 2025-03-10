@@ -22,7 +22,7 @@ const Home = ({ userLocation }) => {
           <div className="d-flex justify-content-center align-items-center mb-3">
             <FontAwesomeIcon icon={faSeedling} style={{ color: '#4A9C59', fontSize: '2.5rem', marginRight: '15px' }} />
             <h1 style={{ fontFamily: 'Montserrat, sans-serif', fontWeight: '600', color: '#333', margin: 0 }}>
-              Global Seed Sowing Calendar
+              PlantPerfectly
             </h1>
           </div>
           <p className="text-muted mb-0" style={{ fontSize: '1.1rem' }}>
@@ -77,7 +77,7 @@ const Home = ({ userLocation }) => {
                 <Col lg={6} className="d-flex justify-content-center">
                   <img 
                     src="/images/calendar-preview.png" 
-                    alt="Seed Calendar Preview" 
+                    alt="PlantPerfectly Preview" 
                     className="img-fluid rounded shadow-lg"
                     style={{ maxHeight: '400px' }}
                   />

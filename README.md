@@ -1,6 +1,6 @@
-# Garden Planner Application
+# PlantPerfectly Application
 
-A comprehensive Garden Planner web application that helps users determine optimal planting times based on their location and plant preferences.
+A comprehensive PlantPerfectly web application that helps users determine optimal planting times based on their location and plant preferences.
 
 ## Features
 
@@ -170,7 +170,7 @@ garden-planner/
 
 ## API Documentation
 
-The Garden Planner API provides endpoints for:
+The PlantPerfectly API provides endpoints for:
 
 - User authentication and profile management
 - Plant database access and searching

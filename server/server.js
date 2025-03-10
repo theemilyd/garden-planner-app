@@ -5,6 +5,9 @@ const morgan = require('morgan');
 const path = require('path');
 require('dotenv').config();
 
+// Import custom logger
+const { logger, logAPIRequest, logAPIResponse, logError } = require('./utils/logger');
+
 // Import routes
 const userRoutes = require('./routes/userRoutes');
 const plantRoutes = require('./routes/plantRoutes');
@@ -14,6 +17,9 @@ const weatherRoutes = require('./routes/weatherRoutes');
 const aiRoutes = require('./routes/aiRoutes');
 const emailRoutes = require('./routes/emailRoutes');
 const pdfExportRoutes = require('./routes/pdfExportRoutes');
+
+// Import middleware
+const { errorHandler } = require('./middleware/errorHandler');
 
 // Initialize express app
 const app = express();
@@ -32,11 +38,102 @@ app.use(cors({
 }));
 app.use(express.json({ limit: '1mb' }));
 app.use(express.urlencoded({ extended: true }));
-app.use(morgan(process.env.NODE_ENV === 'production' ? 'combined' : 'dev'));
+
+// Use custom logger for HTTP requests
+app.use(morgan('combined', { stream: logger.stream }));
+
+// Add request logging middleware
+app.use((req, res, next) => {
+  const startTime = Date.now();
+  
+  // Log API request
+  if (req.originalUrl.startsWith('/api')) {
+    logAPIRequest(req);
+  }
+  
+  // Log API response when request completes
+  res.on('finish', () => {
+    const responseTime = Date.now() - startTime;
+    if (req.originalUrl.startsWith('/api')) {
+      logAPIResponse(req, res, responseTime);
+    }
+  });
+  
+  next();
+});
 
 // Add helmet for security headers
 const helmet = require('helmet');
 app.use(helmet());
+
+// Cache control middleware
+const setCacheControl = (req, res, next) => {
+  // Static assets like images, CSS, and JS
+  if (req.url.match(/\.(jpg|jpeg|png|gif|ico|svg|webp)$/i)) {
+    // Cache images for 1 week
+    res.setHeader('Cache-Control', 'public, max-age=604800, immutable');
+  } else if (req.url.match(/\.(css|js)$/i)) {
+    // Cache CSS and JS for 1 day
+    res.setHeader('Cache-Control', 'public, max-age=86400, immutable');
+  } else if (req.url.match(/\.(woff|woff2|ttf|eot)$/i)) {
+    // Cache fonts for 1 week
+    res.setHeader('Cache-Control', 'public, max-age=604800, immutable');
+  } else if (req.url.match(/\.(json)$/i)) {
+    // Cache JSON data for 1 hour
+    res.setHeader('Cache-Control', 'public, max-age=3600');
+  } else {
+    // Set default no-cache for HTML and other files
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    res.setHeader('Pragma', 'no-cache');
+    res.setHeader('Expires', '0');
+  }
+  next();
+};
+
+// Enhanced rate limiting
+const rateLimit = require('express-rate-limit');
+
+// Global rate limiter for all routes
+const globalLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 500, // limit each IP to 500 requests per windowMs
+  standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers
+  legacyHeaders: false, // Disable the `X-RateLimit-*` headers
+  message: {
+    status: 'error',
+    message: 'Too many requests, please try again later',
+    errorCode: 'RATE_LIMIT_EXCEEDED'
+  }
+});
+
+// Apply global rate limiter
+app.use(globalLimiter);
+
+// More strict rate limiter for authentication routes
+const authLimiter = rateLimit({
+  windowMs: 60 * 60 * 1000, // 1 hour
+  max: 10, // limit each IP to 10 login/register attempts per hour
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: {
+    status: 'error',
+    message: 'Too many login attempts, please try again later',
+    errorCode: 'AUTH_RATE_LIMIT_EXCEEDED'
+  }
+});
+
+// API rate limiter
+const apiLimiter = rateLimit({
+  windowMs: 5 * 60 * 1000, // 5 minutes
+  max: 100, // limit each IP to 100 API requests per 5 minutes
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: {
+    status: 'error',
+    message: 'Too many API requests, please try again later',
+    errorCode: 'API_RATE_LIMIT_EXCEEDED'
+  }
+});
 
 // Connect to MongoDB with enhanced options and retry mechanism
 const connectWithRetry = (retryCount = 0, maxRetries = 5) => {
@@ -48,115 +145,73 @@ const connectWithRetry = (retryCount = 0, maxRetries = 5) => {
       maxPoolSize: 10, // Increase for production if needed
       socketTimeoutMS: 45000,
     })
-    .then(() => console.log('MongoDB connected successfully'))
+    .then(() => {
+      console.log('MongoDB connected successfully');
+    })
     .catch((err) => {
-      console.error(`MongoDB connection error (attempt ${retryCount + 1}/${maxRetries}):`, err);
+      console.error(`MongoDB connection error: ${err.message}`);
+      
       if (retryCount < maxRetries) {
-        console.log(`Retrying connection in ${Math.min(10000, 1000 * 2 ** retryCount)}ms...`);
-        setTimeout(() => connectWithRetry(retryCount + 1, maxRetries), 
-          Math.min(10000, 1000 * 2 ** retryCount)); // Exponential backoff with 10s max
+        console.log(`Retrying connection (${retryCount + 1}/${maxRetries})...`);
+        setTimeout(() => {
+          connectWithRetry(retryCount + 1, maxRetries);
+        }, 5000); // Wait 5 seconds before retrying
       } else {
         console.error('Max retries reached. Could not connect to MongoDB.');
-        process.exit(1); // Exit with error if we can't establish connection after multiple retries
+        process.exit(1);
       }
     });
 };
 
-// Initial connection attempt
 connectWithRetry();
 
-// Handle MongoDB connection events
-mongoose.connection.on('error', (err) => {
-  console.error('MongoDB connection error:', err);
-});
-
-mongoose.connection.on('disconnected', () => {
-  console.warn('MongoDB disconnected. Attempting to reconnect...');
-});
-
-mongoose.connection.on('reconnected', () => {
-  console.log('MongoDB reconnected successfully');
-});
-
-// Handle uncaught exceptions
-process.on('uncaughtException', async (err) => {
-  console.error('Uncaught Exception:', err);
-  // Graceful shutdown
-  try {
-    await mongoose.connection.close();
-    console.log('MongoDB connection closed due to app termination');
-    process.exit(1);
-  } catch (closeError) {
-    console.error('Error closing MongoDB connection:', closeError);
-    process.exit(1);
-  }
-});
-
-// Rate limiting middleware for API routes
-const rateLimit = require('express-rate-limit');
-
-// Apply rate limiting to sensitive routes
-const authLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100, // limit each IP to 100 requests per windowMs
-  message: { error: 'Too many login attempts, please try again later' },
-  standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers
-  legacyHeaders: false, // Disable the `X-RateLimit-*` headers
-});
-
-// General API rate limiting
-const apiLimiter = rateLimit({
-  windowMs: 60 * 1000, // 1 minute
-  max: 120, // limit each IP to 120 requests per windowMs
-  message: { error: 'Too many requests, please try again later' },
-  standardHeaders: true,
-  legacyHeaders: false,
-});
-
-// Apply rate limits to routes BEFORE registering route handlers
-// Apply to auth-related routes
-app.use('/api/users/login', authLimiter);
-app.use('/api/users/register', authLimiter);
-app.use('/api/users/forgot-password', authLimiter);
-// Apply general rate limit to all API routes
-app.use('/api/', apiLimiter);
-
-// API Routes
+// Routes
+// Apply auth rate limiter to authentication routes
+app.use('/api/auth', authLimiter);
 app.use('/api/users', userRoutes);
-app.use('/api/plants', plantRoutes);
-app.use('/api/gardens', gardenRoutes);
-app.use('/api/zones', zoneRoutes);
-app.use('/api/weather', weatherRoutes);
-app.use('/api/ai', aiRoutes);
-app.use('/api/newsletter', emailRoutes);
-app.use('/api/pdfexport', pdfExportRoutes);
+
+// Serve garden data files with cache control
+app.use('/garden_data', setCacheControl, express.static(path.join(__dirname, '../garden_data')));
+app.use('/garden_data_enhanced', setCacheControl, express.static(path.join(__dirname, '../garden_data_enhanced')));
+
+// Apply API rate limiter to other API routes
+app.use('/api/plants', apiLimiter, plantRoutes);
+app.use('/api/gardens', apiLimiter, gardenRoutes);
+app.use('/api/zones', apiLimiter, zoneRoutes);
+app.use('/api/weather', apiLimiter, weatherRoutes);
+app.use('/api/ai', apiLimiter, aiRoutes);
+app.use('/api/email', apiLimiter, emailRoutes);
+app.use('/api/export', apiLimiter, pdfExportRoutes);
 
 // Serve static assets in production
 if (process.env.NODE_ENV === 'production') {
-  // Serve static files from the React app build directory
-  app.use(express.static(path.join(__dirname, '../client/build')));
+  // Set static folder with cache control
+  app.use(express.static(path.join(__dirname, '../client/build'), {
+    etag: true, // Use ETags for cache validation
+    lastModified: true, // Use Last-Modified for cache validation
+    setHeaders: (res, path) => {
+      setCacheControl({ url: path }, res, () => {});
+    }
+  }));
   
-  // Serve garden data files
-  app.use('/garden_data', express.static(path.join(__dirname, '../garden_data')));
-  
-  // Serve enhanced garden data files
-  app.use('/garden_data_enhanced', express.static(path.join(__dirname, '../garden_data_enhanced')));
-  
-  // Handle any requests that don't match the ones above
+  // Any route that is not an API route will be redirected to index.html
   app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../client/build', 'index.html'));
+    res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
   });
 }
 
-// Import centralized error handler
-const { errorHandler } = require('./middleware/errorHandler');
-
-// Error handling middleware
-app.use(errorHandler);
+// Error handling middleware with logging
+app.use((err, req, res, next) => {
+  // Log the error
+  logError(err, req);
+  
+  // Pass to the error handler
+  errorHandler(err, req, res, next);
+});
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  logger.info(`Server running on port ${PORT}`);
 });
 
 module.exports = app; // For testing
