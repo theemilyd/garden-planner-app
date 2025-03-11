@@ -13,6 +13,30 @@ if (process.env.NODE_ENV === 'development') {
   });
 }
 
+// Add a fallback for localStorage
+const localStorageAvailable = () => {
+  try {
+    const storage = window.localStorage;
+    const x = '__storage_test__';
+    storage.setItem(x, x);
+    storage.removeItem(x);
+    return true;
+  } catch (e) {
+    return false;
+  }
+};
+
+if (!localStorageAvailable()) {
+  window.localStorage = {
+    _data: {},
+    setItem(id, val) { this._data[id] = String(val); },
+    getItem(id) { return this._data[id] || null; },
+    removeItem(id) { delete this._data[id]; },
+    clear() { this._data = {}; }
+  };
+  console.warn('localStorage not available, using fallback implementation.');
+}
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

@@ -478,9 +478,23 @@ exports.generatePlantInfoSheet = async (req, res) => {
 
 // Generate PDF from HTML content
 exports.generatePdfFromHtml = async (req, res) => {
-  console.log('[DEBUG] Starting generatePdfFromHtml controller method');
-  console.log('[DEBUG] Request body:', req.body);
+  console.log('[DEBUG] PDF generation request received');
+  console.log('[DEBUG] Request parameters:', {
+    htmlContent: req.body.htmlContent ? `${req.body.htmlContent.substring(0, 100)}...` : 'None provided',
+    email: req.body.email,
+    month: req.body.month,
+    year: req.body.year,
+    zoneId: req.body.zoneId,
+    plants: req.body.plants ? `${req.body.plants.length} plants` : 'None provided'
+  });
   
+  // Debug statement for HTML content length
+  if (req.body.htmlContent) {
+    console.log(`[DEBUG] HTML content length: ${req.body.htmlContent.length} characters`);
+  } else {
+    console.log('[DEBUG] No HTML content provided, will generate a simple PDF');
+  }
+
   try {
     const { htmlContent, email, month, year, zoneId, plants } = req.body;
     
@@ -675,6 +689,13 @@ exports.generatePdfFromHtml = async (req, res) => {
             },
             debug: true,
             logger: true
+          });
+          
+          console.log('[DEBUG] Production email configuration:', {
+            host: process.env.EMAIL_HOST || 'smtp-relay.brevo.com',
+            port: parseInt(process.env.EMAIL_PORT || '587'),
+            secure: process.env.EMAIL_SECURE === 'true',
+            user: process.env.EMAIL_USER || '874592001@smtp-brevo.com'
           });
         } else {
           // Use Ethereal for development/testing only

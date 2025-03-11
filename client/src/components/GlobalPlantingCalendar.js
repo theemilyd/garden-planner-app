@@ -97,7 +97,10 @@ const GlobalPlantingCalendar = ({ plants, zoneData, year = new Date().getFullYea
         </Button>
         <Button 
           variant="primary" 
-          onClick={() => setShowExportModal(true)}
+          onClick={() => {
+            console.log('Export Calendar button clicked in GlobalPlantingCalendar');
+            setShowExportModal(true);
+          }}
           disabled={exportLoading}
         >
           Export Calendar

@@ -351,13 +351,13 @@ export const exportCalendarToPdf = async (email, calendarData) => {
       email: email,
       zoneId: calendarData.zoneId,
       contentSize: htmlContent.length,
-      endpoint: '/api/pdfexport/calendar'
+      endpoint: '/api/export/calendar'
     });
     
     // Send to the server endpoint
     console.log('[DEBUG] Executing axios.post()');
     try {
-      const response = await axios.post('/api/pdfexport/calendar', requestData, {
+      const response = await axios.post('/api/export/calendar', requestData, {
         headers: {
           'Content-Type': 'application/json'
         },
@@ -441,7 +441,7 @@ export const downloadCalendarPdf = async (calendarData) => {
     // Send to the server endpoint
     console.log('[DEBUG] Sending request to server for direct PDF download with responseType: blob');
     try {
-      const response = await axios.post('/api/pdfexport/calendar', requestData, {
+      const response = await axios.post('/api/export/calendar', requestData, {
         headers: {
           'Content-Type': 'application/json'
         },

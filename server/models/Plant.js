@@ -6,12 +6,10 @@ const plantSchema = new mongoose.Schema(
       type: String,
       required: [true, 'A plant must have a name'],
       trim: true,
-      index: true
     },
     scientific_name: {
       type: String,
       trim: true,
-      index: true
     },
     description: {
       type: String,
@@ -23,7 +21,6 @@ const plantSchema = new mongoose.Schema(
         type: String,
         enum: ['full sun', 'partial sun', 'partial shade', 'full shade'],
         required: [true, 'Sunlight requirement must be specified'],
-        index: true
       },
       soil_ph: {
         min: {
@@ -42,7 +39,6 @@ const plantSchema = new mongoose.Schema(
         type: String,
         enum: ['low', 'moderate', 'high'],
         required: [true, 'Water needs must be specified'],
-        index: true
       },
       min_temperature: Number, // in Fahrenheit
       max_temperature: Number, // in Fahrenheit
@@ -243,28 +239,6 @@ const plantSchema = new mongoose.Schema(
 
 // Create indexes for better search performance
 plantSchema.index({ name: 'text', scientific_name: 'text', tags: 'text' });
-plantSchema.index({ 'hardiness_zones.min': 1, 'hardiness_zones.max': 1 });
-plantSchema.index({ 'growing_requirements.sunlight': 1 });
-plantSchema.index({ 'growing_requirements.water_needs': 1 });
-plantSchema.index({ life_cycle: 1 });
-
-// Add text index for full-text search
-plantSchema.index({ 
-  name: 'text', 
-  scientific_name: 'text', 
-  description: 'text',
-  tags: 'text'
-}, {
-  weights: {
-    name: 10,
-    scientific_name: 5,
-    tags: 3,
-    description: 1
-  },
-  name: 'plant_text_index'
-});
-
-// Add compound index for common query patterns
 plantSchema.index({ 'hardiness_zones.min': 1, 'hardiness_zones.max': 1 });
 plantSchema.index({ 'growing_requirements.sunlight': 1 });
 plantSchema.index({ 'growing_requirements.water_needs': 1 });

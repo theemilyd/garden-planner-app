@@ -6,13 +6,11 @@ const gardenSchema = new mongoose.Schema(
       type: String,
       required: [true, 'A garden must have a name'],
       trim: true,
-      index: true,
     },
     user: {
       type: mongoose.Schema.ObjectId,
       ref: 'User',
       required: [true, 'A garden must belong to a user'],
-      index: true,
     },
     description: {
       type: String,
@@ -49,7 +47,6 @@ const gardenSchema = new mongoose.Schema(
       sun_exposure: {
         type: String,
         enum: ['full sun', 'partial sun', 'partial shade', 'full shade'],
-        index: true,
       },
     },
     soil: {
@@ -166,10 +163,6 @@ const gardenSchema = new mongoose.Schema(
       },
       annual_rainfall: Number,
     },
-    zone: {
-      type: Number,
-      index: true,
-    },
   },
   {
     timestamps: true,
@@ -188,26 +181,6 @@ gardenSchema.pre('save', function (next) {
 gardenSchema.index({ user: 1 });
 gardenSchema.index({ 'location.type': 1 });
 gardenSchema.index({ 'plants.plant': 1 });
-
-// Add compound index for common query patterns
-gardenSchema.index({ user: 1, creation_date: -1 });
-gardenSchema.index({ user: 1, zone: 1 });
-
-// Add method to get gardens by user with projection
-gardenSchema.statics.findByUser = function (userId, limit = 10) {
-  return this.find({ user: userId })
-    .sort({ creation_date: -1 })
-    .limit(limit)
-    .select('name description location zone width length creation_date')
-    .lean();
-};
-
-// Add method to get garden with plants
-gardenSchema.statics.findWithPlants = function (gardenId, userId) {
-  return this.findOne({ _id: gardenId, user: userId })
-    .populate('plants.plant', 'name scientificName imageUrl sunRequirements waterRequirements')
-    .lean();
-};
 
 const Garden = mongoose.model('Garden', gardenSchema);
 

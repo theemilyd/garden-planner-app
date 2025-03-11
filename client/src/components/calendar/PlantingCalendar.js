@@ -409,7 +409,7 @@ const generatePlantCalendarData = async (plant, zoneInfo) => {
   return calendarData;
 };
 
-const PlantingCalendar = ({ zoneInfo, selectedPlants, weatherData, onExportCalendar, isMobile = false }) => {
+const PlantingCalendar = ({ zoneInfo, selectedPlants, weatherData, onExport, isMobile = false }) => {
   const [activeMonth, setActiveMonth] = useState(null);
   const [activeDetails, setActiveDetails] = useState(null);
   const [precisionFrostDates, setPrecisionFrostDates] = useState(null);
@@ -1643,11 +1643,15 @@ const PlantingCalendar = ({ zoneInfo, selectedPlants, weatherData, onExportCalen
   
   // Handle export button click
   const handleExportClick = () => {
+    console.log('Export button clicked');
+    
     const htmlContent = prepareCalendarForExport();
+    console.log('HTML content prepared:', htmlContent ? 'Content available' : 'No content');
     
     // Call the parent component's export handler with the HTML content
-    if (onExportCalendar && typeof onExportCalendar === 'function') {
-      onExportCalendar({
+    if (onExport && typeof onExport === 'function') {
+      console.log('Calling onExport function with calendar data');
+      onExport({
         htmlContent,
         zone: zoneInfo?.zone || '7b',
         plants: selectedPlants.map(plant => ({
@@ -1666,6 +1670,8 @@ const PlantingCalendar = ({ zoneInfo, selectedPlants, weatherData, onExportCalen
           firstFrost: zoneInfo?.firstFrostDate
         }
       });
+    } else {
+      console.error('onExport function not available or not a function', { onExport });
     }
   };
 

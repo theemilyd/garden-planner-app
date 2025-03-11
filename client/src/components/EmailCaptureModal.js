@@ -88,7 +88,7 @@ const EmailCaptureModal = ({ show, onHide, onSuccess, resourceType, zoneName }) 
       // Different logic based on the resource type
       if (resourceType === 'calendar') {
         // Use the direct PDF generation and email route
-        const pdfEndpoint = `${apiBaseUrl}/api/pdfexport/calendar`;
+        const pdfEndpoint = `${apiBaseUrl}/api/export/calendar`;
         console.log(`Submitting calendar export request to ${pdfEndpoint}`);
         
         // Prepare data for the PDF export

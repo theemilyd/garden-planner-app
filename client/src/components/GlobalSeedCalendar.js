@@ -133,6 +133,10 @@ const GlobalSeedCalendar = ({ isMobile: propIsMobile }) => {
   const handleExportCalendar = (calendarData) => {
     // Implementation for exporting calendar
     console.log('Exporting calendar:', calendarData);
+    
+    // Store the calendar data in the window object for the EmailCaptureModal to access
+    window.currentCalendarData = calendarData;
+    
     // Show email modal when exporting
     setShowEmailModal(true);
   };
